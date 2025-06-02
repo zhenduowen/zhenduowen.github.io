@@ -1,6 +1,7 @@
 ---
 title: Initial Post
 date: 2025-06-02
+author: Zhenduo
 categories: [General, ]
 tags: [General]
 ---
