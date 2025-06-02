@@ -1,11 +1,9 @@
-```yaml
 ---
 title: Initial Post
 date: 2025-06-02
 categories: [General, ]
 tags: [General]
 ---
-```
 
 
 
