@@ -84,8 +84,8 @@ vscode如今对于markdown的原生支持出奇的好用, 参考官方文档：[
 ## 关于Git
 配置proxy以便更好的`git push`
 ```terminal
-git config --global http.proxy.127.0.0.1:26293
-git config --global https.proxy.127.0.0.1:26293
+git config --global http.proxy 127.0.0.1:26293
+git config --global https.proxy 127.0.0.1:26293
 ```
 
 ## TODO：
