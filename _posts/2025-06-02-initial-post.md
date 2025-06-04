@@ -79,5 +79,14 @@ Jekyll官方教程[Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step
 ## 关于发布文章
 vscode如今对于markdown的原生支持出奇的好用, 参考官方文档：[https://code.visualstudio.com/docs/languages/markdown](https://code.visualstudio.com/docs/languages/markdown)
 
+- `ctrl+shift+v`即可打开实时渲染
+
+## 关于Git
+配置proxy以便更好的`git push`
+```terminal
+git config --global http.proxy.127.0.0.1:26293
+git config --global https.proxy.127.0.0.1:26293
+```
+
 ## TODO：
 - 使用giscus实现评论系统
