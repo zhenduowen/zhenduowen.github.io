@@ -23,6 +23,8 @@ Jekyll官方教程[Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step
 
 
 ## 关于Jekyll安装
+这里是win平台的安装过程。
+
 参考[Jekyll官方教程](https://jekyllrb.com/docs/installation/)
 
 1. 安装 ruby with dev kit
@@ -75,6 +77,14 @@ Jekyll官方教程[Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step
 你可以创建一个用户级网站，仓库名为`<username>.github.io`，发布地址为 `https://<username>.github.io`。GitHub Pages支持自定义域名，参考文档 [About custom domains and GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages)。
 
 之后在GitHub上打开仓库设置，点击左侧导航栏 “Pages”，在 “Build and deployment” - “Source” 下拉列表选择 “GitHub Actions”。提交本地修改并推送至远程仓库，将会触发Actions工作流。在仓库的Actions标签页将会看到 “Build and Deploy” 工作流正在运行。构建成功后，即可通过配置的URL访问自己的博客网站。
+
+一些缺点是：
+- 不支持动态内容，博客必须都是静态网页，一般会使用 Jekyll 来构建内容
+- 博客不能被百度索引
+- 仓库空间不大于1G
+- 每个月的流量不超过100G
+- 每小时更新不超过 10 次
+
 
 ## 关于发布文章
 vscode如今对于markdown的原生支持出奇的好用, 参考官方文档：[https://code.visualstudio.com/docs/languages/markdown](https://code.visualstudio.com/docs/languages/markdown)
