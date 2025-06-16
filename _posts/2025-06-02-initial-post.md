@@ -91,12 +91,17 @@ vscode如今对于markdown的原生支持出奇的好用, 参考官方文档：[
 
 - `ctrl+shift+v`即可打开实时渲染
 
+在md文件前的yaml配置标题，时间，作者，以及分类标签。
+
+在博客模板中启用MathJax可以参考[https://github.com/cotes2020/jekyll-theme-chirpy/issues/1140](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1140)
+
 ## 关于Git
 配置proxy以便更好的`git push`
 ```terminal
 git config --global http.proxy 127.0.0.1:26293
 git config --global https.proxy 127.0.0.1:26293
 ```
+端口号自然是可变的。
 
 ## TODO：
 - 使用giscus实现评论系统
