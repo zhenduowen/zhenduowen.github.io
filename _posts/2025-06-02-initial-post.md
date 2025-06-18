@@ -6,11 +6,9 @@ categories: [General, ]
 tags: [General]
 ---
 
-参考前人的教程：[https://zzy979.github.io/posts/creating-personal-blog-site/](https://zzy979.github.io/posts/creating-personal-blog-site/)
-
 ## 关于网站搭建
 
-Jekyll官方教程[Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)可以搭建一个[Demo网站](https://zzy979.github.io/jekyll-tutorial/)，了解Liquid模板（变量、标签、过滤器）、前页(front matter)、布局(layout)等基本概念，并学会使用jekyll命令。
+Jekyll官方教程[Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)可以搭建一个[Demo网站](https://zzy979.github.io/jekyll-tutorial/)，学会使用一些简单的jekyll命令。
 
 
 关于搭建个人博客网站。可以参考：[Chirpy - Getting Started](https://chirpy.cotes.page/posts/getting-started/)
@@ -18,8 +16,6 @@ Jekyll官方教程[Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step
 - 打开[chirpy-starter](https://github.com/cotes2020/chirpy-starter)仓库，点击按钮 “Use this template” → “Create a new repository”。
 
 - 将新仓库命名为`<username>.github.io`，其中`<username>`是你的GitHub用户名，如果包含大写字母需要转换为小写。
-
-
 
 
 ## 关于Jekyll安装
@@ -67,7 +63,7 @@ Jekyll官方教程[Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step
     ```terminal
     bundle exec jekyll serve --livereload
     ```
-    可以提供即时更新的本地版本
+    其中`--livereload`可以提供即时更新的本地版本
 
 
 
@@ -76,24 +72,63 @@ Jekyll官方教程[Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step
 
 你可以创建一个用户级网站，仓库名为`<username>.github.io`，发布地址为 `https://<username>.github.io`。GitHub Pages支持自定义域名，参考文档 [About custom domains and GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages)。
 
-之后在GitHub上打开仓库设置，点击左侧导航栏 “Pages”，在 “Build and deployment” - “Source” 下拉列表选择 “GitHub Actions”。提交本地修改并推送至远程仓库，将会触发Actions工作流。在仓库的Actions标签页将会看到 “Build and Deploy” 工作流正在运行。构建成功后，即可通过配置的URL访问自己的博客网站。
+使用Github Pages的方法非常简单，在GitHub上打开之前创建的仓库设置，点击左侧导航栏 “Pages”，在 “Build and deployment” - “Source” 下拉列表选择 “GitHub Actions”。提交本地修改并推送至远程仓库将会触发Actions工作流。在仓库的Actions标签页将会看到 “Build and Deploy” 工作流正在运行。
 
-一些缺点是：
-- 不支持动态内容，博客必须都是静态网页，一般会使用 Jekyll 来构建内容
-- 博客不能被百度索引
-- 仓库空间不大于1G
-- 每个月的流量不超过100G
-- 每小时更新不超过 10 次
+Github pages的一些缺点是：
+- 不支持动态内容，博客必须都是静态网页。
+- 博客不能被百度索引。
+- 仓库空间不大于1G。
+- 每个月的流量不超过100G。
+- 每小时更新不超过 10 次。
 
 
 ## 关于发布文章
-vscode如今对于markdown的原生支持出奇的好用, 参考官方文档：[https://code.visualstudio.com/docs/languages/markdown](https://code.visualstudio.com/docs/languages/markdown)
+vscode如今对于markdown的原生支持出奇的好用, 参考官方文档：[https://code.visualstudio.com/docs/languages/markdown](https://code.visualstudio.com/docs/languages/markdown)。
 
 - `ctrl+shift+v`即可打开实时渲染
 
-在md文件前的yaml配置标题，时间，作者，以及分类标签。
+在md文件前的yaml段落中配置标题，时间，作者，以及分类标签。
 
-在博客模板中启用MathJax可以参考[https://github.com/cotes2020/jekyll-theme-chirpy/issues/1140](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1140)
+在博客模板中启用MathJax可以参考[https://github.com/cotes2020/jekyll-theme-chirpy/issues/1140](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1140)。
+
+多数文章遵从如下格式：
+定义，引理，定理，推论的标题为加粗格式, 括号包含解释性的文本。段落结尾右侧用unicode char ■表示段落结束。 证明和实例的标题采用斜体，证明通常和定理在同一个段落内，在证明结束后使用■表示段落结束。而示例因其解释性，不需明示■表示段落结束从而和其他文本区分开。
+
+**Lemma 1. (Some Lemma)**
+<a name="lemma1"></a>
+
+Some Lemma says...
+
+
+*Proof. 1*
+
+Some proof here...
+
+&nbsp;<span style="float: right;">■</span>
+
+*Example. 1*
+
+Some Example Here
+
+
+段落结尾的样板
+```html
+&nbsp;<span style="float: right;">■</span>
+```
+
+Markdown通过anchor语法实现文本内引用跳转
+[Lemma 1](#lemma1)
+```html
+<a name="lemma1"></a>
+
+or
+
+{#lemma1}
+
+referred as
+
+[Lemma 1](#lemma1)
+```
 
 ## 关于Git
 配置proxy以便更好的`git push`
@@ -102,6 +137,9 @@ git config --global http.proxy 127.0.0.1:26293
 git config --global https.proxy 127.0.0.1:26293
 ```
 端口号自然是可变的。
+
+## 一些已知的问题
+- 如果想要打出花括号$\\{ \\}$, 需要利用`\`来escape两次，分别对应jekyll与mathjax。但是如此重复两次的语法是不适配latex的。一个解决方法是使用`\lbrace`与`\rbrace`。参见[https://stackoverflow.com/questions/41312777/mathjax-curly-brackets-dont-show-up-using-jekyll](https://stackoverflow.com/questions/41312777/mathjax-curly-brackets-dont-show-up-using-jekyll)
 
 ## TODO：
 - 使用giscus实现评论系统

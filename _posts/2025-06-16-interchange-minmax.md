@@ -1,12 +1,12 @@
 ---
-title: Terkelsen's Theorem of Interchaning Min-Max
+title: Terkelsen's Theorem of Interchanging Min-Max
 date: 2025-06-16
 author: Zhenduo
-categories: [Optimization, Lagrangian]
+categories: [Optimization, Lagrangian Duality]
 tags: [Optimization, Lagrangian Duality, Min-Max]
 ---
 
-**Terkelsen's Theorem of Interchaning Min-Max**
+**Terkelsen's Theorem of Interchanging Min-Max**
 
 >Theorem 3 of F. Terkelsen, “Some minimax theorems,” Mathematica Scandinavica, vol. 31, pp. 405–413, 1972.
 
@@ -25,16 +25,16 @@ Let $X$ be a compact connected space, let $Y$ be a set, and let $f:X \times Y \r
     \sup_{y \in Y} \min_{x\in X} f(x,y) = \min_{x \in X} \sup_{y \in Y}f(x,y)
     $$
 
-----
+&nbsp;<span style="float: right;">■</span>
 
-Remark: 
+*Remark.* 
 
 1. To swap the notation between $x$ and $y$, use the following relationship: $\max_x f(x) = -\min_x -f(x)$, we have
 
     $$
     \begin{align*}
-        &\sup_{y \in Y} \min_{x \in X}f(x,y) = -\inf_{y \in Y} \max_{x\in X} f(x,y)
-        \\&\min_{x \in X} \sup_{y \in Y}f(x,y) = -\max_{x \in X} \inf_{y\in Y}f(x,y)
+        &\sup_{y \in Y} \min_{x \in X}f(x,y) = -\inf_{y \in Y} \max_{x\in X} -f(x,y)
+        \\&\min_{x \in X} \sup_{y \in Y}f(x,y) = -\max_{x \in X} \inf_{y\in Y}-f(x,y)
     \end{align*}
     $$
 
@@ -57,4 +57,4 @@ Remark:
 
     It is an straight-forward and obvious relationship and so far I have not find a name for it in the literature. One may call it "Greedy Property of MinMax", that is, **perform maximization first always gives you a no-worse-than result.**
 
-3. Note that one may keep some constrains in the definition of the feasible fields $X$ and $Y$, sometimes it gives a different structure to the problem setting. In the field of network information theory, dropping conditions out of the feasible field reduces the cardinality of optimizer. I have done this in evaluating an upper bound of the discrete binary case for distributed hypothesis testing type two error exponent.
+3. Note that one can freely choose to keep or drop some constrains in the definition of the feasible fields $X$ and $Y$, sometimes it gives a different structure to the problem setting. In the field of network information theory, dropping conditions out of the feasible field reduces the cardinality of optimizer.
