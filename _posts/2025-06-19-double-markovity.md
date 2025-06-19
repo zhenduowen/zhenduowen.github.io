@@ -90,6 +90,7 @@ Let the function $f(x) = i^\*$ such that $P_{U \mid x} = P_{U \mid i^\*}$. This 
 
 *Remark.*
 
-1. If $X,Y$ are full support, that is, for all $x \in \mathcal X, y \in \mathcal Y$, $p(x,y) \neq 0$, then immediately we have $P_{U \mid i=1} = P_{U \mid i=2} = \cdots$. There is only one $i^\*$ and $P_{U \mid i^\*} = P_U$, which gives $U \perp X,Y$.
+1. If $X,Y$ have full support, that is, for all $x \in \mathcal X, y \in \mathcal Y$, $p(x,y) \neq 0$, then immediately we have $P_{U \mid i=1} = P_{U \mid i=2} = \cdots$. There is only one $i^\*$ and $P_{U \mid i^\*} = P_U$, which gives $U \perp X,Y$. This is a major application of this theorem: establishing independency in some Bayesian Networks.
 
 2. $f(X), g(Y)$ we found in this way is Gacs-Korner common information between $X$ and $Y$. Intuitively, everything $Y$ has that can help in decoding $X$ is contained in $f(X)$.
+
