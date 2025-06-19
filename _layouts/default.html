@@ -19,7 +19,12 @@ layout: compress
 <!-- `site.alt_lang` can specify a language different from the UI -->
 <html lang="{{ page.lang | default: site.alt_lang | default: site.lang }}" {{ prefer_mode }}>
   {% include head.html %}
-  {% include mathjax_support.html %}
+
+
+  <!-- if to use KaTeX -->
+  {% include katex.html %}
+
+
   <!-- Adsense AMP -->
   <amp-auto-ads type="adsense"
     data-ad-client="ca-pub-4445781280689625">

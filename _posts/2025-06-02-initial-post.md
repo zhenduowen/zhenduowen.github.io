@@ -125,19 +125,21 @@ git config --global https.proxy 127.0.0.1:26293
 
 ## 一些已知的问题
 - 如果想要打出花括号$\\{ \\}$, 需要利用`\`来escape两次，分别对应jekyll与mathjax。但是如此重复两次的语法是不适配latex的。一个解决方法是使用`\lbrace`与`\rbrace`。参见[https://stackoverflow.com/questions/41312777/mathjax-curly-brackets-dont-show-up-using-jekyll](https://stackoverflow.com/questions/41312777/mathjax-curly-brackets-dont-show-up-using-jekyll)
+- `|` `*`在inline math中需要用`\`escape一次。前者可以用`\mid`替代，而`\\|`对应模长$\\|$
 
-Markdown通过anchor语法实现文本内引用跳转
-```html
-<a id="lemma1"></a>
 
-or
+- Markdown通过anchor语法实现文本内引用跳转，但得到报错 `'a' tag is missing a reference`
+    ```html
+    <a id="lemma1"></a>
 
-{#lemma1}
+    or
 
-referred as
+    {#lemma1}
 
-[Lemma 1](#lemma1)
-```
+    referred as
+
+    [Lemma 1](#lemma1)
+    ```
 
 ## TODO：
 - 使用giscus实现评论系统

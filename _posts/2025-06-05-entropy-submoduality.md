@@ -54,11 +54,7 @@ The process of moving mass can be visualized using the following table.
 
 
 
-
-
-
-
-This idea can be generalized and formalized in the following manner, credit to CUHK IERG 5254: Network Information Theory, 2025 Spring.
+This idea can be generalized and formalized in the following manner, credit to lecture notes of CUHK IERG 5254: Network Information Theory, 2025 Spring.
 
 **Definition 1. (Compression)**
 
@@ -79,7 +75,7 @@ The result of a finite sequence of elementary compressions of $\lbrace\alpha_T\r
 
 The requirement of $A \nsubseteq B$ and $B \nsubseteq A $ comes from that when we trace back to union and intersections of $A$ and $B$, we do not get $A,B$ themselves. And $0 \leq \delta \leq \min(\alpha_A, \alpha_B)$ just means that the most we can move is whatever we have at hand.
 
-Note that the relationship of "is a compression of " yields a partial order on the collection of n-fractional multiset. One may refer to:
+Note that the relationship of "is a compression of" yields a partial order on the collection of n-fractional multiset. One may refer to:
 > Balister, P. and B. Bollobás (2012, Mar). Projections, entropy and sumsets. Combinatorica 32(2), 125–141.
 
 The following theorem is immediate.
