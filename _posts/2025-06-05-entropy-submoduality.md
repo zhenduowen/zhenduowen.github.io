@@ -8,7 +8,7 @@ tags: [NIT, Entropy, Information Theory]
 
 
 **Lemma 1. (Elementary Compression Inequality)**
-<a name="lemma1"></a>
+<a id="lemma1"></a>
 
 Let $X,Y,Z$ be discrete random variables, we have
 

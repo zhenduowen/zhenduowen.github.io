@@ -95,7 +95,7 @@ vscode如今对于markdown的原生支持出奇的好用, 参考官方文档：[
 定义，引理，定理，推论的标题为加粗格式, 括号包含解释性的文本。段落结尾右侧用unicode char ■表示段落结束。 证明和实例的标题采用斜体，证明通常和定理在同一个段落内，在证明结束后使用■表示段落结束。而示例因其解释性，不需明示■表示段落结束从而和其他文本区分开。
 
 **Lemma 1. (Some Lemma)**
-<a name="lemma1"></a>
+<a id="lemma1"></a>
 
 Some Lemma says...
 
@@ -119,7 +119,7 @@ Some Example Here
 Markdown通过anchor语法实现文本内引用跳转
 [Lemma 1](#lemma1)
 ```html
-<a name="lemma1"></a>
+<a id="lemma1"></a>
 
 or
 
