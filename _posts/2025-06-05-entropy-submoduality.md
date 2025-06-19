@@ -8,7 +8,6 @@ tags: [NIT, Entropy, Information Theory]
 
 
 **Lemma 1. (Elementary Compression Inequality)**
-<a id="lemma1"></a>
 
 Let $X,Y,Z$ be discrete random variables, we have
 
@@ -30,7 +29,7 @@ $$
 
 &nbsp;<span style="float: right;">■</span>
 
-[Lemma 1](#lemma1) says that if sets $\lbrace X,Z\rbrace$ and $\lbrace Y,Z \rbrace$, both moving equal amount of mass to their union $\lbrace X,Y,Z\rbrace$ and intersection $\lbrace Z\rbrace$, will result in a non-increased entropy. We call such an operation *elementary compression* in the sequel.
+Lemma 1 says that if sets $\lbrace X,Z\rbrace$ and $\lbrace Y,Z \rbrace$, both moving equal amount of mass to their union $\lbrace X,Y,Z\rbrace$ and intersection $\lbrace Z\rbrace$, will result in a non-increased entropy. We call such an operation *elementary compression* in the sequel.
 
 We can then construct inequalities using multiple steps of elementary compression. An example of applying this method is given here.
 

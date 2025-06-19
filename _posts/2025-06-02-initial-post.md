@@ -95,7 +95,6 @@ vscode如今对于markdown的原生支持出奇的好用, 参考官方文档：[
 定义，引理，定理，推论的标题为加粗格式, 括号包含解释性的文本。段落结尾右侧用unicode char ■表示段落结束。 证明和实例的标题采用斜体，证明通常和定理在同一个段落内，在证明结束后使用■表示段落结束。而示例因其解释性，不需明示■表示段落结束从而和其他文本区分开。
 
 **Lemma 1. (Some Lemma)**
-<a id="lemma1"></a>
 
 Some Lemma says...
 
@@ -116,8 +115,18 @@ Some Example Here
 &nbsp;<span style="float: right;">■</span>
 ```
 
+## 关于Git
+配置proxy以便更好的`git push`
+```terminal
+git config --global http.proxy 127.0.0.1:26293
+git config --global https.proxy 127.0.0.1:26293
+```
+端口号自然是可变的。
+
+## 一些已知的问题
+- 如果想要打出花括号$\\{ \\}$, 需要利用`\`来escape两次，分别对应jekyll与mathjax。但是如此重复两次的语法是不适配latex的。一个解决方法是使用`\lbrace`与`\rbrace`。参见[https://stackoverflow.com/questions/41312777/mathjax-curly-brackets-dont-show-up-using-jekyll](https://stackoverflow.com/questions/41312777/mathjax-curly-brackets-dont-show-up-using-jekyll)
+
 Markdown通过anchor语法实现文本内引用跳转
-[Lemma 1](#lemma1)
 ```html
 <a id="lemma1"></a>
 
@@ -129,17 +138,6 @@ referred as
 
 [Lemma 1](#lemma1)
 ```
-
-## 关于Git
-配置proxy以便更好的`git push`
-```terminal
-git config --global http.proxy 127.0.0.1:26293
-git config --global https.proxy 127.0.0.1:26293
-```
-端口号自然是可变的。
-
-## 一些已知的问题
-- 如果想要打出花括号$\\{ \\}$, 需要利用`\`来escape两次，分别对应jekyll与mathjax。但是如此重复两次的语法是不适配latex的。一个解决方法是使用`\lbrace`与`\rbrace`。参见[https://stackoverflow.com/questions/41312777/mathjax-curly-brackets-dont-show-up-using-jekyll](https://stackoverflow.com/questions/41312777/mathjax-curly-brackets-dont-show-up-using-jekyll)
 
 ## TODO：
 - 使用giscus实现评论系统
