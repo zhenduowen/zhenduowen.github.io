@@ -1054,7 +1054,7 @@ From "The Art and Soul of Blade Runner 2049":
 >
 > This feeling was shared by Joe Walker in editorial. "It was one of those great times as an editor, where you lift off from the page and it's no longer about scripted material, but there is blood running through the veins of an idea." The long scene was later fine-tuned to serve its percussive purpose in the final cut. "It's an attack on K's psyche, so it has to wrong foot him and be hellishly aggressive. That gave me a lot of material to work with rhythmically in the cut."
 
-![Image]({{ site.baseurl }}/assets/img/2025-06-23-within_cells_interlinked.jpg)
+![Image]({{zhenduowen.github.io}}/assets/img/2025-06-23-within_cells_interlinked.jpg)
 
 **Baseline Test from Blade Runner 2049**
 
