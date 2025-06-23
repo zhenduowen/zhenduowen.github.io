@@ -11,7 +11,7 @@ tags: [Markovity, Common Randomness]
 
 > See Exercise  16.25 in 
 >
-> Imre Csiszar and J´ anos K¨orner, Information theory: Coding theorems for discrete memoryless systems, Cambridge University Press, 1 2011.
+> Imre Csiszar and Janos Korner, Information theory: Coding theorems for discrete memoryless systems, Cambridge University Press, 1 2011.
 >
 >Also, Lemma 6 and Remark 19 in
 >

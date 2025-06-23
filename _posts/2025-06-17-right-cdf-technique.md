@@ -31,6 +31,6 @@ This is called the *right CDF method of expectation* as it is summation of right
 
 *Remark.*
 
-1. Note that the sum indices of right CDF starts at $1$.
+1. Note that the sum indices of right CDF start at $1$.
 
 2. The support requirement is commonly satisfied when $X$ is a [*Stopping Time*](https://www.wikiwand.com/en/articles/Stopping_time), where this method is commonly used.

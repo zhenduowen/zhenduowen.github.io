@@ -3,7 +3,7 @@ title: 关于 时间的玫瑰
 date: 2024-07-31
 author: Zhenduo
 categories: [Literature, Poetry]
-tags: [Literature, Poetry, 北岛, 现代诗歌]
+tags: [Literature, Poetry, 现代诗歌]
 ---
 &nbsp; \
 &nbsp; \
@@ -898,7 +898,7 @@ tags: [Literature, Poetry, 北岛, 现代诗歌]
 
 ****
 
-## 巴勃罗 聂鲁达
+## 巴勃罗·聂鲁达
 
 <br />
 
@@ -1039,3 +1039,381 @@ tags: [Literature, Poetry, 北岛, 现代诗歌]
 <br />摘录自中译本《我的孤独是一座花园》
 
 ****
+
+<br />
+
+## The Art and Soul of Blade Runner 2049
+
+From "The Art and Soul of Blade Runner 2049":
+
+> In the original Blade Runner, the Voight-Kampff method was used to distinguish Replicants from humans. In this film, a more advanced technology analyzes a Replicant's operational stability. "The Baseline is designed to test the effects of a Blade Runner's job on his brain and psyche." explains Ryan Gosling. "Because they have to kill their own kind, they constantly need to be assessed as to whether their work is having some kind of moral impact on them."
+>
+> Two versions of the Baseline scene were filmed for the movie: the original scripted version, and a much longer taken written by Ryan Gosling himself. It was a lengthy eight-minute staccato dialogue, and Gosling delivered each take without hesitation for every camera angle.
+>
+> The moment it was filmed, everyone on set felt that they had witnessed something unique and powerful. "When you start shooting a movie, there's always a scene that makes you feel you've made contact with the soul of the story." recalls Villeneuve. "This was it, and it became our own Baseline for the rest of principal photography."
+>
+> This feeling was shared by Joe Walker in editorial. "It was one of those great times as an editor, where you lift off from the page and it's no longer about scripted material, but there is blood running through the veins of an idea." The long scene was later fine-tuned to serve its percussive purpose in the final cut. "It's an attack on K's psyche, so it has to wrong foot him and be hellishly aggressive. That gave me a lot of material to work with rhythmically in the cut."
+
+![Image]({{ site.baseurl }}/assets/img/2025-06-23-within_cells_interlinked.jpg)
+
+**Baseline Test from Blade Runner 2049**
+
+<br />A blood black nothingness began to spin.
+
+Began to spin.
+
+Let's move on to system.
+
+System.
+
+Feel that in your body.
+
+The system.
+
+What does it feel like to be part of the system?
+
+System.
+
+Is there anything in your body that wants to resist the system?
+
+System.
+
+Do you get pleasure out of being a part of the system?
+
+System.
+
+Have they created you to be a part of the system?
+
+System.
+
+Is there security in being a part of the system?
+
+System.
+
+Is there a sound that comes with the system?
+
+System.
+
+We're going to go on.
+
+Cells.
+
+They were all put together at a time.
+
+Cells.
+
+Millions and billions of them.
+
+Cells.
+
+Were you ever arrested?
+
+Cells.
+
+Did you spend much time in the cell?
+
+Cells.
+
+Have you ever been in an instituion?
+
+Cells.
+
+Do they keep you in a cell?
+
+Cells.
+
+When you're not performing your duties do they keep you in a little box?
+
+Cells.
+
+Interlinked.
+
+What's it like to hold the hand of someone you love?
+
+Interlinked.
+
+Do they teach you how to feel finger to finger?
+
+Interlinked.
+
+Do you long for having your heart interlinked?
+
+Interlinked.
+
+Do you dream about being interlinked?
+
+Have they left a place for you where you can dream?
+
+Interlinked.
+
+What's it like to hold your child in your arms?
+
+Interlinked.
+
+What's it like to play with your dog?
+
+Interlinked.
+
+Do you feel that there's a part of you that's missing?
+
+Interlinked.
+
+Do you like to connect to things?
+
+Interlinked.
+
+What happens when that linkage is broken?
+
+Interlinked.
+
+Have they let you feel heartbreak?
+
+Interlinked.
+
+Did you buy a present for the person you love?
+
+Within cells interlinked.
+
+Why don't you say that three times?
+
+Within cells interlinked.
+
+Within cells interlinked.
+
+Within cells interlinked.
+
+Where do you go when you go within?
+
+Within.
+
+Has anyone ever locked you out of a room?
+
+Within.
+
+Where do you go to when you go within?
+
+Within.
+
+Where is the place in the world you feel the safest?
+
+Within.
+
+Do you have a heart?
+
+Within.
+
+Stem.
+
+Did you pick asparagus stems?
+
+What comes from something else?
+
+Stem.
+
+Have you been to the source of a river?
+
+Stem.
+
+When's the first time you gave a flower to a girl?
+
+Stem.
+
+What did she look like?
+
+Stem.
+
+Is it a slang word for people's legs?
+
+Stem.
+
+Have you planeted things in the ground?
+
+Stem.
+
+Have you ever been in a legal battle?
+
+Stem.
+
+Within one stem.
+
+Dreadfully.
+
+Is that an old fashioned word?
+
+Dreadfully.
+
+Did you ever want to live in the nineteenth century?
+
+Dreadfully.
+
+What's it like to be filled with dread?
+
+Dreadfully.
+
+Do you think you could find out all the answers to all the questions?
+
+Dreadfully.
+
+Distinct.
+
+How good are your eyes?
+
+Distinct.
+
+Do you have a particular personality?
+
+Distinct.
+
+What separates somebody from somebody else?
+
+Distinct.
+
+Who do you admire most in the world?
+
+Distinct.
+
+What was your most shameful moment?
+
+Distinct.
+
+Dreadfully distinct.
+
+Dark.
+
+Were you afraid of the dark whan you were little?
+
+Dark.
+
+What's it like to hide under a bed?
+
+Dark.
+
+Did they keep you in a drawer when they were building you?
+
+Dark?
+
+Was it dark in there?
+
+Dark.
+
+Do you have dark thoughts?
+
+Dark?
+
+Did they program you to have dark thoughts?
+
+Dark?
+
+Do you think it's some kind of corruption these dark thoughts?
+
+Dark.
+
+Maybe it's a spot of rust or something?
+
+Dark.
+
+Who's the darkest person you know?
+
+Dark.
+
+What is it like when someone gives you the silent treatment?
+
+Dark.
+
+Who did you get your darkness from?
+
+Dark.
+
+Against the dark.
+
+What kind of power do you have against the dark?
+
+Against the dark.
+
+Do you think there is such a thing as evil?
+
+Against the dark.
+
+Do you think you can protect people against the dark?
+
+Against the dark.
+
+Why are these things happening?
+
+Against the dark.
+
+Do you prefer the day or the night?
+
+Against the dark.
+
+When is the last time you saw a starry sky?
+
+Against the dark.
+
+What's your favorite part of the moon?
+
+Against the dark.
+
+Fountain.
+
+Have you seen the Trevi fountain in Rome?
+
+Fountain.
+
+Have you ever seen the fountain in Lincoln center?
+
+Fountain.
+
+Have you seen fountains out in the wild?
+
+Fountain.
+
+What's it like when you have an orgasm?
+
+Fountain.
+
+Have you read the Fountainhead?
+
+Fountain.
+
+White Fountain.
+
+Is it pure white?
+
+White Fountain.
+
+Is that a metaphor?
+
+White Fountain.
+
+How did the white Fountain make you feel?
+
+White Fountain.
+
+A tall white fountain played.
+
+When you were little did you ever fall into a Fountain?
+
+A Tall White Fountain.
+
+Do you like fire, earth, air or water?
+
+A Tall White Fountain.
+
+Do you like skipping around in the water?
+
+A Tall White Fountain.
+
+A blood black nothingness.
+
+A system of cells.
+
+Within cells interlinked.
+
+Within one stem.
+
+And dreadfully distinct.
+
+Against the dark.
+
+A tall white fountain played.
