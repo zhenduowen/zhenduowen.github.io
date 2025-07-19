@@ -3,7 +3,7 @@ title: Theorems of Interchanging Min-Max
 date: 2025-06-16
 author: Zhenduo
 categories: [Optimization, Lagrangian Duality]
-tags: [Optimization, Lagrangian Duality, Min-Max]
+tags: [Optimization, Lagrangian Duality, Min-Max, Game Theory, Nash Equilibrium]
 ---
 
 This blog introduces several theorems of interchanging Min-Max, also known as Minimax Theorems. I found these theorems useful and interesting in recent works. Before diving into the theorems, there are several preliminary facts:
@@ -36,17 +36,19 @@ This blog introduces several theorems of interchanging Min-Max, also known as Mi
 
     It is also known as **the Max-Min Inequality**. One may call it "Greedy Property of MinMax", that is, **perform maximization first always gives you a no-worse-than result.**
 
-**Von Neumann's Minimax theorem**
+**von Neumann's Minimax theorem**
 
 Let $X$ and $Y$ be two standard simplex, then,
 
-> John Von Neumann and Oskar Morgenstern. Theory of Games and Economic Behavior. Princeton University Press. 1947.
+> John von Neumann and Oskar Morgenstern. Theory of Games and Economic Behavior. Princeton University Press. 1947.
 
 $$
 \max_{x \in X} \min_{y \in Y} x^T A y = \min_{y \in Y} \max_{x \in X}  x^T A y
 $$
 
 &nbsp;<span style="float: right;">■</span>
+
+In game theory, the matrix $A$ in von Neumann's Minimax theorem represents a payoff matrix for a two-person, zero-sum game. The detailed background and John Nash's proof of this theorem (based on Brouwer fixed point theorem) is included in <a href="{{zhenduowen.github.io}}/assets/files/notes/rutgers_zeiberg_em18_von_neumann_minimax_thm.pdf">a note by Prof. Doron Zeilberger at Rutgers University</a>.
 
 
 **Sion's Minimax Theorem**
@@ -71,7 +73,7 @@ $$
 
 3. Lower-semicontinuous ensures the lower level sets are closed. Similarly, upper-semicontinuous ensures the upper level sets are closed. The detailed proof can be found at <a href = "https://math.stackexchange.com/questions/4649099/equivalence-of-closed-level-sets-and-lower-semi-continuity"> Equivalence of closed level sets and lower semi continuity</a> on StackExchange.
 
-4. A special case of Sion's Minimax Theorem, which reduces the requirements to concavity and convexity of the objective function, is stated in Theorem 9 in <a href="{{zhenduowen.github.io}}/assets/files/notes/engg5501_handout7_optimality_conditions_and_lagrangian_conditions.pdf"> Lecture 7 from CUHK ENGG5501</a>.
+4. A special case of Sion's Minimax Theorem, which strengthens the requirements to concavity and convexity of the objective function, is stated in Theorem 9 in <a href="{{zhenduowen.github.io}}/assets/files/notes/engg5501_handout7_optimality_conditions_and_lagrangian_conditions.pdf"> Lecture 7 from CUHK ENGG5501</a>.
 
 **Terkelsen's Minimax Theorem**
 
