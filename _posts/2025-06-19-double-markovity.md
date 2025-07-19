@@ -9,7 +9,7 @@ tags: [Markovity, Common Randomness]
 
 **Theorem 1.  (Double Markovity)**
 
-> See Exercise  16.25 in 
+> See Exercise 16.25 in 
 >
 > Imre Csiszar and Janos Korner, Information theory: Coding theorems for discrete memoryless systems, Cambridge University Press, 1 2011.
 >
@@ -20,7 +20,7 @@ tags: [Markovity, Common Randomness]
 Let $U,X,Y$ be three real-valued, random variables defined on the same probability space, such that both the Markov chains $U \rightarrow X \rightarrow Y$ and $U \rightarrow Y \rightarrow X$ hold. Then
 
 - (i) There exists functions $f(X)$ and $g(Y)$ such that $f(X) = g(Y)$ with probability one.
-- (ii) For $f,g$ in (i),  $U \rightarrow f(X) \rightarrow (X,Y)$ and $U \rightarrow g(Y) \rightarrow (X,Y)$ hold.
+- (ii) For $f,g$ in (i), $U \rightarrow f(X) \rightarrow (X,Y)$ and $U \rightarrow g(Y) \rightarrow (X,Y)$ hold.
 
 *Proof.*
 

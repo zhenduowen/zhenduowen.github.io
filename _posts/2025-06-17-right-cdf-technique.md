@@ -6,7 +6,7 @@ categories: [Statistics, General Techniques for Statistics]
 tags: [Statistics, Expectation, CDF]
 ---
 
-This is a simple yet useful characterization of the first order moment (Expectation) when **the support of probability mass(density) function is exactly $X \in \mathbb N$ ($X \geq 0$)**. But a similiar rationale can be applied and you may devise similar characterizations when this requirement on the support is not satisfied.
+This is a simple yet useful characterization of the first order moment (Expectation) when **the support of probability mass(density) function is exactly $X \in \mathbb N$ ($X \geq 0$)**. But a similar rationale can be applied, and you may devise similar characterizations when this requirement on the support is not satisfied.
 
 In the discrete case, if the support is $X \in \mathbb N$,
 
@@ -22,7 +22,7 @@ $$
 Similarly, in the continuous setting, if the support is $X \geq 0$, then
 
 $$
-E(X) = \int_{x=0}^\infty 1-F(x) dx
+E(X) = \int_{x=0}^\infty 1-F(x) dx,
 $$
 
 where $F(x)$ is the cumulative distribution function(CDF) of $X$.

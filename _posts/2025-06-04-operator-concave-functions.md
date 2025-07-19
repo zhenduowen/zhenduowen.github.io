@@ -85,7 +85,7 @@ Then, consider $A \prec B + \\| A - B\\| I$, note that $ B , \\| A - B\\| I$ com
 The last step is $f(\\| A - B\\| I) = f(\\| A - B\\|) \otimes I$. Now we have the result
 
 $$
-f(A) - f(B) \preceq f(\| A - B\|) \otimes I
+f(A) - f(B) \preceq f(\| A - B\|) \otimes I,
 $$
 
 which gives the desired inequality.
