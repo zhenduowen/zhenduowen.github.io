@@ -128,18 +128,5 @@ git config --global https.proxy 127.0.0.1:26293
 - `|` `*`在inline math中需要用`\`escape一次。前者可以用`\mid`替代，而`\\|`对应模长$\\|$
 
 
-- Markdown通过anchor语法实现文本内引用跳转，但得到报错 `'a' tag is missing a reference`
-    ```html
-    <a id="lemma1"></a>
-
-    or
-
-    {#lemma1}
-
-    referred as
-
-    [Lemma 1](#lemma1)
-    ```
-
 ## TODO：
 - 使用giscus实现评论系统
