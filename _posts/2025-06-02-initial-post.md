@@ -65,6 +65,58 @@ Jekyll官方教程[Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step
     ```
     其中`--livereload`可以提供即时更新的本地版本
 
+關於在Mac Apple Silicon上安裝：
+
+參考 [Jekyll on MacOS](https://jekyllrb.com/docs/installation/macos/)
+
+The installation steps are done in HK so no bothers using mirror sources in the mainland.
+
+1. make sure homebrew has been installed on your mac
+    ```terminal
+    brew -v
+
+    Homebrew 4.5.12
+    ```
+
+2. install chruby and the latest ruby
+    ```terminal
+    brew install chruby ruby-install
+
+    ruby-install ruby 3.4.1
+    ```
+    Then configure your shell to automatically use `chruby`:
+    ```terminal
+    echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
+    echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
+    echo "chruby ruby-3.4.1" >> ~/.zshrc # run 'chruby' to see actual version
+    ```
+    Check if ruby is successfully installed by checking its version:
+    ```terminal
+    ruby -v
+    ruby 3.4.1 (2024-12-25 revision 48d4efcb85) +PRISM [arm64-darwin24]
+    ```
+
+3. install jekyll
+    ```terminal
+    gem install jekyll
+    ```
+
+4. under the blog github local repo path, initialize bundle
+    ```terminal
+    bundle
+    ```
+
+Now the local website is ready to go:
+```terminal
+    bundle exec jekyll serve --livereload
+```
+
+
+
+
+
+
+
 
 
 ## 关于网站部署
