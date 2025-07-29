@@ -167,6 +167,30 @@ Some Example Here
 &nbsp;<span style="float: right;">■</span>
 ```
 
+## 關於評論系統
+
+Giscus非常好用
+- 在對應的repo下面安裝giscus [https://github.com/apps/giscus](https://github.com/apps/giscus)
+- 在倉庫設置頁面features中勾選Discussions
+- 之後再倉庫設置中的Discussions標籤頁，打開Categories旁邊的編輯按鈕，編輯用於博客評論的類別名稱。
+- 在[https://giscus.app/](https://giscus.app/)中如下配置：
+Repository: `<username>/<username>.github.io`
+Page - Discussions Mapping：保持默认值 “Discussion title contains page pathname” 即可（URL为`https://<username>.github.io/posts/<title>`的文章将映射到标题为`/posts/<title>`的Discussion，即使用URL的pathname部分作为Discussion标题）
+Discussion Category：选择上一步创建的类别名称（例如 “Comments”）
+之后找到 “Enable giscus” 一节，将自动生成的配置填写到_config.yml中`comments.giscus`的对应选项。
+```yml
+  giscus:
+    repo: zhenduowen/zhenduowen.github.io # <gh-username>/<repo>
+    repo_id: R********
+    category: Comments
+    category_id: DIC********
+    mapping: pathname # optional, default to 'pathname'
+    strict: # optional, default to '0'
+    input_position: # optional, default to 'bottom'
+    lang: # optional, default to the value of `site.lang`
+    reactions_enabled: # optional, default to the value of `1`
+```
+
 ## 关于Git
 配置proxy以便更好的`git push`
 ```terminal
@@ -178,7 +202,3 @@ git config --global https.proxy 127.0.0.1:26293
 ## 一些已知的问题
 - 如果想要打出花括号$\\{ \\}$, 需要利用`\`来escape两次，分别对应jekyll与mathjax。但是如此重复两次的语法是不适配latex的。一个解决方法是使用`\lbrace`与`\rbrace`。参见[https://stackoverflow.com/questions/41312777/mathjax-curly-brackets-dont-show-up-using-jekyll](https://stackoverflow.com/questions/41312777/mathjax-curly-brackets-dont-show-up-using-jekyll)
 - `|` `*`在inline math中需要用`\`escape一次。前者可以用`\mid`替代，而`\\|`对应模长$\\|$
-
-
-## TODO：
-- 使用giscus实现评论系统
