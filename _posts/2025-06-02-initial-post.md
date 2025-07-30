@@ -180,7 +180,7 @@ Discussion Category：选择上一步创建的类别名称（例如 “Comments�
 之后找到 “Enable giscus” 一节，将自动生成的配置填写到_config.yml中`comments.giscus`的对应选项。
 ```yml
 comments:
-  active: giscus
+  provider: giscus
   giscus:
     repo: zhenduowen/zhenduowen.github.io # <gh-username>/<repo>
     repo_id: R********
