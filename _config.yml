@@ -118,6 +118,7 @@ comments:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
+  active: giscus
   giscus:
     repo: zhenduowen/zhenduowen.github.io # <gh-username>/<repo>
     repo_id: R_kgDOOq-TSQ

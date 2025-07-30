@@ -3,7 +3,7 @@ title: Double Markovity
 date: 2025-06-19
 author: Zhenduo
 categories: [Information Theory, General Techniques for Information Theory]
-tags: [Markovity, Common Randomness]
+tags: [Markovity, Information Theory, Common Information]
 ---
 
 
