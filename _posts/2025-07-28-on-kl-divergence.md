@@ -23,7 +23,7 @@ It is a special case $(f(x) = x\log x)$ of $f$-divergence.
 
 **Definition. ($f$-Divergence)** 
 
-Let $P \ll Q$ be two probability distributions over a space $\Omega$ and $f: [0, +\infty) \rightarrow(-\infty, +\infty]$ is convex, finite for $x>0$ and $f(0) = \lim_{t \rightarrow 0^+}f(t)$ (maybe infinity), and $f(1) = 0$, the $f$-divergence from $P$ to $Q$ is defined as
+Let $P \ll Q$ be two probability distributions over a space $\Omega$ and $f: [0, +\infty) \rightarrow(-\infty, +\infty]$ is convex, finite for $x>0$ and $f(0) = \lim_{t \rightarrow 0^+}f(t)$ (maybe infinity), and $f(1) = 0$, the $f$-divergence from $P$ to $Q$ is defined as 
 
 $$
 D_f(P \| Q) \overset{\triangle}{=} \int_\Omega f \left (\frac{dP}{dQ} \right ) dQ.
