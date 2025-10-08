@@ -140,14 +140,13 @@ $$
 
 &nbsp;<span style="float: right;">■</span>
 
-## Chernoff-Stein's lemma
+## Stein's lemma
 
 The statistician has to decide on the hypothesis of a sample of size $n$ between $H_0: P = \lbrace P(x): {x \in \mathcal X} \rbrace$ and $H_1: Q = \lbrace Q(x): x \in \mathcal X \rbrace$, $\mathcal X$ is finite. Often his task is to find a test with a minimal probability of an error of type I, i.e., to find $B \subset \mathcal X^n$ with $P^n(B) \geq 1 - \epsilon$ (so that type I error is less than or equal to $\epsilon \in (0,1)$) and $Q^n(x) = \beta(n, \epsilon) \overset{\triangle}{=} \min_A \lbrace Q^n(A) \mid A \subset \mathcal X^n, P^n(A) \geq 1 - \epsilon \rbrace$ is the minimal type II error that can be achieved.
 
 Both type I and type II error goes to zero as $n \rightarrow \infty$. The exponential rate of convergence to zero of $\beta(n, \epsilon)$ has been determined by Chernoff-Stein's lemma:
 
-**Theorem. (Chernoff-Stein's lemma)**
-> H. Chernoff, "A measure of asymptotic efficiency for tests of a hypothesis based on the sum of observations," *The Annals of Mathematical Statistics*, vol. 23, no. 4, pp. 493-507, 1952.
+**Theorem. (Stein's lemma)**
 
 For any $\epsilon \in (0,1)$,
 

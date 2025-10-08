@@ -201,6 +201,34 @@ git config --global https.proxy 127.0.0.1:26293
 ```
 端口号自然是可变的。
 
+## 自定义代码框
+- [https://github.com/cotes2020/jekyll-theme-chirpy/discussions/1319](https://github.com/cotes2020/jekyll-theme-chirpy/discussions/1319)
+
+创建`assets/css/jekyll-theme-chirpy.scss` 使用默认模版如下
+```css
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+```
+在之后添加
+```css
+div.scroll > .highlight {
+    overflow-y: auto;
+    height: 400px;
+}
+```
+
+此后在较长代码块尾部添加`{: .scroll } `即可
+
 ## 一些已知的问题
 - 如果想要打出花括号$\\{ \\}$, 需要利用`\`来escape两次，分别对应jekyll与mathjax。但是如此重复两次的语法是不适配latex的。一个解决方法是使用`\lbrace`与`\rbrace`。参见[https://stackoverflow.com/questions/41312777/mathjax-curly-brackets-dont-show-up-using-jekyll](https://stackoverflow.com/questions/41312777/mathjax-curly-brackets-dont-show-up-using-jekyll)
 - `|` `*`在inline math中需要用`\`escape一次。前者可以用`\mid`替代，而`\\|`对应模长$\\|$
