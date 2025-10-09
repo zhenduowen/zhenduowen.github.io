@@ -1,5 +1,5 @@
 ---
-title: Deep Learning Kits on NVIDIA Blackwell GPUs
+title: Win 11 Deep Learning Kits on NVIDIA Blackwell GPUs
 description: I bought myself an NVIDIA RTX 5070 Ti and installed in on my ITX personal computer. I need to use Win 11 as its OS as this computer also handles many daily tasks and I will have a Linux Server available to myself soon. This blog is my personal note on installing many deep learning kits on this PC with a Blackwell architecture GPU.
 date: 2025-10-07
 author: Zhenduo
@@ -9,7 +9,7 @@ published: true
 ---
 *Platform: win 11*
 
-## Anaconda
+## Anaconda & Python
 Go to [Anaconda](https://www.anaconda.com/download/success) and download Miniconda (Only Conda and Python). 
 
 Add `conda` to `PATH` or simply use conda prompt.

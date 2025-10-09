@@ -1,19 +1,19 @@
 ---
-title: Stanford CS336 Assignment 1 Basics
+title: Stanford CS336 Assignment 1 - Basics
 description: Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch
 date: 2025-10-08
 author: Zhenduo
-categories: [Deep Learning, Programming Toolkits]
-tags: [Deep Learning, CUDA, PyTorch]
+categories: [Deep Learning, Language Models from Scratch]
+tags: [Deep Learning, CUDA, PyTorch, Language Models]
 published: true
 ---
 ## Preliminaries
 
 Repository contains assignment templates: [https://github.com/stanford-cs336/assignment1-basics#](https://github.com/stanford-cs336/assignment1-basics#)
 
-For setting up local environment, [another post]({{https://zhenduowen.github.io}}/posts/dl-kits-on-nvidia-blackwell-gpu/) may be useful.
+For setting up a local environment, [another post]({{https://zhenduowen.github.io}}/posts/dl-kits-on-nvidia-blackwell-gpu/) may be useful.
 
-Note that `import resource` is not available on win11. So I use AI to rewrite the `memory_limit()` function in `test_tokenizer.py` as the following:
+Note that `import resource` in the original template `test_tokenizer.py` is not available on win11. So I use AI to rewrite the `memory_limit()` function in `test_tokenizer.py` as the following:
 
 ```python
 # refector memory_limit for usage on win11
