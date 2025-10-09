@@ -9,6 +9,12 @@ published: true
 ---
 *Platform: win 11*
 
+```terminal
+wsl --install
+```
+
+Just for some command lines like `wget` to be available.
+
 ## Anaconda & Python
 Go to [Anaconda](https://www.anaconda.com/download/success) and download Miniconda (Only Conda and Python). 
 
@@ -55,6 +61,8 @@ I am using the following solution:
 - Use [UV](https://github.com/astral-sh/uv) for Python package installations (Within Conda virtual environment)
 
 The reason to use uv is simple: fast (Rust based) and commonly used for open source repositories on Github.
+
+ This [brief UV usage guide](https://docs.astral.sh/uv/guides/projects/) tells me the basics of using UV to do project dependencies management.
 
 UV is a standalone package manager. Thus, can be simply installed by `pip`.
 
