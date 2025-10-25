@@ -156,6 +156,8 @@ $$
 
 &nbsp;<span style="float: right;">■</span>
 
+The most extensive proof and explanation on this lemma I know is <a href="{{zhenduowen.github.io}}/assets/files/books/information_theory_from_coding_to_learning.pdf">*Chapter 14: Neyman-Pearson Lemma in Information Theory From Coding to Learning* By Yury Polyanskiy and Yihong Wu.</a>
+
 ## Conditional Limit Theorem
 
 

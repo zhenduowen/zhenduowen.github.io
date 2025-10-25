@@ -2,8 +2,8 @@
 title: Submorduality Inequality for Entropy
 date: 2025-06-05
 author: Zhenduo
-categories: [Network Information Theory, Entropy Inequalities]
-tags: [NIT, Entropy, Information Theory]
+categories: [Information Theory, Network Information Theory]
+tags: [Network Information Theory, Entropy, Information Theory]
 ---
 
 

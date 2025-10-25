@@ -2,7 +2,7 @@
 title: Theorems of Interchanging Min-Max
 date: 2025-06-16
 author: Zhenduo
-categories: [Optimization, Lagrangian Duality]
+categories: [Applied Mathematics, Optimization]
 tags: [Optimization, Lagrangian Duality, Min-Max, Game Theory, Nash Equilibrium]
 ---
 
