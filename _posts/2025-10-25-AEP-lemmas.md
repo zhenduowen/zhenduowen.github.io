@@ -10,7 +10,9 @@ published: true
 
 Two information theory textbooks for reference:
 
+- <a href="{{zhenduowen.github.io}}/assets/files/books/Abbas El Gamal, Young-Han Kim - Network Information Theory-Cambridge University Press (2012).pdf">Abbas El Gamal, Young-Han Kim - Network Information Theory-Cambridge University Press (2012)</a>
 
+- <a href="{{zhenduowen.github.io}}/assets/files/books/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf">AWiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU</a>
 
 ## Asymptotic Equipartition Property (AEP)
 
