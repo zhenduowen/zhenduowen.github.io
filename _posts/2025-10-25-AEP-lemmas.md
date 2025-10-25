@@ -8,7 +8,7 @@ tags: [Information Theory, Asymptotic Equipartition Property, Method of Types, T
 published: true
 ---
 
-Some textbooks for reference:
+Two information theory textbooks for reference:
 
 - <a href="{{zhenduowen.github.io}}/assets/files/books/Abbas El Gamal, Young-Han Kim - Network Information Theory-Cambridge University Press (2012).pdf">Abbas El Gamal, Young-Han Kim - Network Information Theory-Cambridge University Press (2012)</a>
 
