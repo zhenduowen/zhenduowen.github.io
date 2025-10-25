@@ -27,7 +27,7 @@ $$
 converges in probability to the entropy $H(X)$ as $n \to \infty$:
 
 $$
-\lim_{n \to \infty} P\left( \Big \| -\frac{1}{n} \log p(X_1, \ldots, X_n) - H(X)\Big \| < \epsilon  \right) = 1
+\lim_{n \to \infty} P\left( \Big | -\frac{1}{n} \log p(X_1, \ldots, X_n) - H(X)\Big | < \epsilon  \right) = 1
 $$
 
 for any $\epsilon > 0$, which is true by the weak law of large numbers.
@@ -40,7 +40,7 @@ The AEP leads directly to the concept of the typical set, a collection of sequen
 The typical set $A^{(n)}$ is defined as:
 
 $$
-A^{(n)}_\epsilon = \Big \lbrace (x_1, x_2, \ldots, x_n) \in \mathcal{X}^n :  \Big \| -\frac{1}{n} \log p(X_1, \ldots, X_n) - H(X)\Big \| < \epsilon  \Big \rbrace
+A^{(n)}_\epsilon = \Big \lbrace (x_1, x_2, \ldots, x_n) \in \mathcal{X}^n :  \Big | -\frac{1}{n} \log p(X_1, \ldots, X_n) - H(X)\Big | < \epsilon  \Big \rbrace
 $$
 
 This definition is equivalent to:
