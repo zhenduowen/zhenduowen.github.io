@@ -13,7 +13,7 @@ published: true
 
 - <a href="{{zhenduowen.github.io}}/assets/files/notes/cs336_spring2025_assignment1_basics.pdf">Problem descriptions of assignment 1 can also be found here.</a>
 
-- For setting up a local environment, [another post]({{https://zhenduowen.github.io}}/posts/dl-kits-on-nvidia-blackwell-gpu/) may be useful.
+- For setting up a local environment, [another post]({{https://zhenduowen.github.io}}/posts/windows-sub-linux/) may be useful.
 
 - This project dependencies are managed by UV. To use UV to set up dependencies locally:
     ```terminal
