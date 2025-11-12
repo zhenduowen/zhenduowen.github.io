@@ -234,8 +234,13 @@ div.scroll > .highlight {
 Google Search Console:
 - [https://search.google.com/search-console/welcome?utm_source=wmx&utm_medium=deprecation-pane&utm_content=home](https://search.google.com/search-console/welcome?utm_source=wmx&utm_medium=deprecation-pane&utm_content=home)
 
+将网站url prefix `https://zhenduowen.github.io/` 提交给Google
+
 将验证用`.html`文件放置于博客根目录下。
 
+一些增加被搜索引擎index的操作：
+- 上传sitemap
+- 使用meta标签增加SEO信息
 
 
 ## 一些已知的问题
