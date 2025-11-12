@@ -13,7 +13,7 @@ For setting up WSL, [this official user manual](https://learn.microsoft.com/en-u
 ```terminal
 wsl --install
 
-(Then set up usename and password)
+(Then set up username and password)
 
 (base) PS C:\Users\Administrator> wsl
 To run a command as administrator (user "root"), use "sudo <command>".

@@ -18,8 +18,10 @@ Jekyll官方教程[Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step
 - 将新仓库命名为`<username>.github.io`，其中`<username>`是你的GitHub用户名，如果包含大写字母需要转换为小写。
 
 
-## 关于Jekyll安装
-这里是win平台的安装过程。
+## 关于Jekyll本地安装
+本地安装成功后，我们可以在本地调试博客，确保渲染无误后再将更新推送至仓库。
+
+这里是win平台的安装过程：
 
 参考[Jekyll官方教程](https://jekyllrb.com/docs/installation/)
 
@@ -65,7 +67,7 @@ Jekyll官方教程[Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step
     ```
     其中`--livereload`可以提供即时更新的本地版本
 
-關於在Mac Apple Silicon上安裝：
+关于在Mac Apple Silicon上安装：
 
 參考 [Jekyll on MacOS](https://jekyllrb.com/docs/installation/macos/)
 
@@ -113,12 +115,6 @@ Now the local website is ready to go:
 
 
 
-
-
-
-
-
-
 ## 关于网站部署
 利用Github Pages 进行托管和部署。GitHub Pages是一个通过GitHub托管和发布网页的服务，官方文档：[https://docs.github.com/en/pages](https://docs.github.com/en/pages)
 
@@ -141,7 +137,7 @@ vscode如今对于markdown的原生支持出奇的好用, 参考官方文档：[
 
 在md文件前的yaml段落中配置标题，时间，作者，以及分类标签。
 
-在博客模板中启用MathJax可以参考[https://github.com/cotes2020/jekyll-theme-chirpy/issues/1140](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1140)。
+在博客模板中启用MathJax可以参考[https://github.com/cotes2020/jekyll-theme-chirpy/issues/1140](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1140)。我使用了katex引擎。
 
 多数文章遵从如下格式：
 定义，引理，定理，推论的标题为加粗格式, 括号包含解释性的文本。段落结尾右侧用unicode char ■表示段落结束。 证明和实例的标题采用斜体，证明通常和定理在同一个段落内，在证明结束后使用■表示段落结束。而示例因其解释性，不需明示■表示段落结束从而和其他文本区分开。
@@ -167,7 +163,7 @@ Some Example Here
 &nbsp;<span style="float: right;">■</span>
 ```
 
-## 關於評論系統
+## 关于评论系统
 
 Giscus非常好用
 - 在對應的repo下面安裝giscus [https://github.com/apps/giscus](https://github.com/apps/giscus)
@@ -194,7 +190,7 @@ comments:
 ```
 
 ## 关于Git
-配置proxy以便更好的`git push`
+如果位于国内，可以配置proxy以便更好的`git push`
 ```terminal
 git config --global http.proxy 127.0.0.1:26293
 git config --global https.proxy 127.0.0.1:26293
@@ -229,6 +225,19 @@ div.scroll > .highlight {
 
 此后在较长代码块尾部添加`{: .scroll } `即可
 
+## 设置博客对于搜索引擎可见
+
+可以参考
+- [https://stackoverflow.com/questions/get-github-pages-site-found-in-google-search-results](https://stackoverflow.com/questions/49073043/get-github-pages-site-found-in-google-search-results)
+- [https://developers.google.com/search/docs/fundamentals/seo-starter-guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=en&ref_topic=4564315&visit_id=638985346021853045-3173096693&rd=2)
+
+Google Search Console:
+- [https://search.google.com/search-console/welcome?utm_source=wmx&utm_medium=deprecation-pane&utm_content=home](https://search.google.com/search-console/welcome?utm_source=wmx&utm_medium=deprecation-pane&utm_content=home)
+
+将验证用`.html`文件放置于博客根目录下。
+
+
+
 ## 一些已知的问题
 - 如果想要打出花括号$\\{ \\}$, 需要利用`\`来escape两次，分别对应jekyll与mathjax。但是如此重复两次的语法是不适配latex的。一个解决方法是使用`\lbrace`与`\rbrace`。参见[https://stackoverflow.com/questions/41312777/mathjax-curly-brackets-dont-show-up-using-jekyll](https://stackoverflow.com/questions/41312777/mathjax-curly-brackets-dont-show-up-using-jekyll)
-- `|` `*`在inline math中需要用`\`escape一次。前者可以用`\mid`替代，而`\\|`对应模长$\\|$
+- `|` `*`在inline math中需要用`\`escape一次。前者可以用`\mid`替代，而`\\|`对应模长$\\|$ 而段落模式中的block math则无需如此。

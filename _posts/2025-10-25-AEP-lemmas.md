@@ -1,5 +1,5 @@
 ---
-title: A few lemmas related to AEP
+title: A few lemmas related with Asymptotic Equipartition Property(AEP)
 description: An introduction of a few lammas commonly used in the proof of Shannon multiuser theory. These lemmas relates to the concept of typical sets, which are sequences that have a probability close to the asymptotic average, as defined by the Asymptotic Equipartition Property (AEP).
 date: 2025-10-25
 author: Zhenduo
@@ -35,7 +35,7 @@ for any $\epsilon > 0$, which is true by the weak law of large numbers.
 
 The AEP leads directly to the concept of the typical set, a collection of sequences whose properties are "typical" of the source $X$. 
 
-**Definition. (Typical set)** 
+**Definition. (Weak Typical set)** 
 
 The typical set $A^{(n)}$ is defined as:
 
@@ -63,7 +63,24 @@ The AEP implies three key properties of the typical set for sufficiently large $
 3. **Size:** The number of sequences in the typical set is approximately $2^{nH(X)}$, we have 
    $$ (1 - \epsilon) 2^{n(H(X) - \epsilon)} \leq \|A^{(n)}\| \leq 2^{n(H(X) + \epsilon)} $$
 
-The definition of joint typical sequences is likewise, only using $P_{XY}$.
+The definition of joint typical sequences is likewise, only using $P_{XY}$. The following lemma, which is known as *Stirling's Approximation*, gives the reason of the size of typical set is roughly $2^{-n h(p)}$, where $h(\cdot)$ is the binary entropy function.
+
+**Lemma. (Stirling's Approximation)**
+
+$$
+\log_2 (n!) = n \log_2 n - n \log_2 e + \frac12 \log_2 2 \pi n + O(\frac1n).
+$$
+
+&nbsp;<span style="float: right;">■</span>
+
+The proof can be found at [Wikipedia](https://www.wikiwand.com/en/articles/Stirling%27s_approximation). The rationale is quite simple:
+
+$$
+\log n! = \sum_{j=1}^n \log j \approx \int_{1}^n \ln x \ dx = n \ln n - n + 1.
+$$
+
+Then, $\binom{n}{np} = 2^{\log_2 \binom{n}{np}} \approx 2^{n h(p)}$ by plugging in Stirling's approximation. 
+
 
 ## Set up
 
@@ -104,7 +121,6 @@ $$
 > K. Marton, "A simple proof of the blowing-up lemma (Corresp.)," in IEEE Transactions on Information Theory, vol. 32, no. 3, pp. 445-446, May 1986, doi: 10.1109/TIT.1986.1057176. keywords: {Codes;Arithmetic;Random variables;Q measurement;Presses;Hamming distances;Generators;Welding;Single photon emission computed tomography;Probabilistic logic},
 >
 > R. Ahlswede and I. Csiszar, "Hypothesis testing with communication constraints," in IEEE Transactions on Information Theory, vol. 32, no. 4, pp. 533-542, July 1986, doi: 10.1109/TIT.1986.1057194.
-keywords: {Testing;Source coding;Random variables;Search problems;Entropy;Standards;Rate distortion theory;Prototypes;Particle measurements;Noise measurement},
 
 
 
