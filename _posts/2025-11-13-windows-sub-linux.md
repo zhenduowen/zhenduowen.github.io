@@ -12,7 +12,7 @@ published: true
 
 Install and setup WSL (default Distro Ubuntu) is pretty easy:
 
-```powershell
+```shell
 wsl --install
 
 (Then set up username and password)
@@ -26,7 +26,7 @@ logout
 ```
 
 To update your package list:
-```powershell
+```shell
 sudo apt update
 ```
 
@@ -112,7 +112,7 @@ Choose `Linux > x86_64 > WSL-Ubuntu > 2.0 > deb (network)`
 Note that here we use `cuda-toolkit-13-0`, which aligns with CUDA 13.0 in the Windows host.
 
 Follow the instructions provided on the page.
-```powershell
+```shell
 wget https://developer.download.nvidia.com/compute/cuda/repos/wsl-ubuntu/x86_64/cuda-keyring_1.1-1_all.deb
 
 sudo dpkg -i cuda-keyring_1.1-1_all.deb
@@ -121,13 +121,13 @@ sudo apt-get -y install cuda-toolkit-13-0
 ```
 
 Add `nvcc` to PATH
-```powershell
+```shell
 export PATH="/usr/local/cuda-13.0/bin:$PATH"
 export LD_LIBRARY_PATH="/usr/local/cuda-13.0/lib64:$LD_LIBRARY_PATH"
 ```
 
 Now check the installation:
-```powershell
+```shell
 stratocumulus@WIN-RF8MKB6MO8N:~$ nvcc --version
 nvcc: NVIDIA (R) Cuda compiler driver
 Copyright (c) 2005-2025 NVIDIA Corporation
@@ -139,7 +139,7 @@ Build cuda_13.0.r13.0/compiler.36424714_0
 ## Python, Conda, ...
 
 Install Miniconda
-```powershell
+```shell
 mkdir -p ~/miniconda3
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
 bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
@@ -148,13 +148,13 @@ source ~/miniconda3/bin/activate
 ```
 
 Create and activate a virtual environment
-```powershell
+```shell
 conda create -n dlenv python=3.12 -y
 conda activate dlenv
 ```
 
 Install Pytorch under this environment `dlenv`. Go to Pytorch website and choose with your own configuration. Here, I use `Stable-Linux-Pip-Python-CUDA13.0`
-```powershell
+```shell
 pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu130
 ```
 
@@ -162,13 +162,13 @@ pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu13
 
 Now to setup git. [Create a new ssh key, add the private key to the ssh agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux) and [add the public key to your github account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 
-```powershell
+```shell
 $ ssh -T git@github.com
 Hi! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
 If cannot push to remote, remove it then add back
-```powershell
+```shell
 git remote remove origin
 git remote add origin git@github.com:username/repository.git
 ```
