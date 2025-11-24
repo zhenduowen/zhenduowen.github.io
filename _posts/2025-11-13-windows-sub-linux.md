@@ -1,6 +1,6 @@
 ---
 title: Windows Sub-Linux with Deep Learning Kits on NVIDIA Blackwell GPUs
-description: I bought myself an NVIDIA RTX 5070 Ti and installed in on my ITX personal computer. I need to use Win 11 as its OS as this computer also handles many daily tasks and I will have a Linux Server available to myself soon. This blog is my personal note on installing many deep learning kits under Windows Subsystem for Linux (WSL) with a Blackwell architecture GPU.
+description: I bought myself an NVIDIA RTX 5070 Ti and installed it on my ITX personal computer. I need to use Win 11 as its OS as this computer also handles many daily tasks and I will have a Linux Server available to myself soon. This blog is my personal note on installing many deep learning kits under Windows Subsystem for Linux (WSL) with a Blackwell architecture GPU.
 date: 2025-11-13
 author: Zhenduo
 categories: [Deep Learning, Programming Toolkits]
