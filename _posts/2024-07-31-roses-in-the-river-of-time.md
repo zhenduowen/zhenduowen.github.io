@@ -170,7 +170,7 @@ foam of the sea!
 We tire of the flame of the meteor, before it can fade
 and flee;
 
-你我，厌倦了陨星消逝前的火焰；
+你我厌倦了陨星消逝前的火焰；
 
 And the flame of the blue star of twilight, hung low
 on the rim of the sky,
@@ -210,17 +210,17 @@ Danaan shore,
 Where Time would surely forget us, and Sorrow come
 near us no more;
 
-在那里，我们必将被时间遗忘，我们得以把悲伤阻挡。 
+在那里，我们必会被时间遗忘，我们终于把悲伤阻挡。 
 
 Soon far from the rose and the lily and fret of the
 flames would we be,
 
-很快，远离百合与玫瑰，还有那光焰的纷扰， 
+很快，远离百合与玫瑰，还有那些光焰的纷扰， 
 
 Were we only white birds, my beloved, buoyed out on
 the foam of the sea!
 
-亲爱的，在那浪花上起舞，我们会是一对白鸟！
+亲爱的，一同在浪花上起舞，我们会是一对白鸟！
 
 <br /> 自译，2025年11月30日 香港
 
