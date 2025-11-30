@@ -156,7 +156,7 @@ tags: [Literature, Poetry, 现代诗歌]
 
 ****
 
-## 叶芝
+## William Butler Yeats 威廉·巴特勒·叶芝 
 
 <br />
 
@@ -165,81 +165,136 @@ tags: [Literature, Poetry, 现代诗歌]
 <br /> I WOULD that we were, my beloved, white birds on the
 foam of the sea!
 
-亲爱的，我多想我们是浪花上的一对白鸟！（1） 
+亲爱的，我多想要，我们是那浪花上的一对白鸟！ 
 
 We tire of the flame of the meteor, before it can fade
 and flee;
 
-在陨星消逝前，我们就已厌倦了它的火焰； （2） 
+你我，厌倦了陨星消逝前的火焰；
 
 And the flame of the blue star of twilight, hung low
 on the rim of the sky,
 
-那暮色中蓝星的光芒，垂在天际， （3）
+而低垂在天际的，暮色蓝星的光芒， 
 
 Has awaked in our hearts, my beloved, a sadness that
 may not die.
 
-唤醒了我们心中，亲爱的，一缕不灭的忧伤。 （4）
+唤醒了我们心中，一缕不灭的忧伤。 
 
 A weariness comes from those dreamers, dew-dabbled,
 the lily and rose;
 
-一丝倦意，从做梦的人，露水打湿的百合与玫瑰中袭来； （5）
+一丝倦意，从那群做梦的人里袭来，露水打湿的，百合与玫瑰； 
 
 Ah, dream not of them, my beloved, the flame of the
 meteor that goes,
 
-啊，别再梦见它们了，亲爱的，不论是消逝的陨星火焰， （6）
+啊，别再梦见它们了，亲爱的，不论是消逝的陨星火焰， 
 
 Or the flame of the blue star that lingers hung low in
 the fall of the dew:
 
-还是露水坠落时，低垂的蓝星光芒； （7）
+还是露水坠落时，低垂的蓝星光芒； 
 
 For I would we were changed to white birds on the
 wandering foam: I and you!
 
-我只愿我们变成那飘荡浪花上的一对白鸟——我和你！ （8）
+我只愿我们变成那飘荡浪花上的一对白鸟——我和你！ 
 
 I am haunted by numberless islands, and many a
 Danaan shore,
 
-无数岛屿和达南人的海岸，在我心头萦绕， （9）
+无数岛屿，和永恒海岸，在我心头盘桓，
 
 Where Time would surely forget us, and Sorrow come
 near us no more;
 
-在那里，我们必将被时间遗忘，我们终将把悲伤阻挡。 （10）
+在那里，我们必将被时间遗忘，我们得以把悲伤阻挡。 
 
 Soon far from the rose and the lily and fret of the
 flames would we be,
 
-很快，我们会远离玫瑰与百合，还有那光焰的纷扰， （11）
+很快，远离百合与玫瑰，还有那光焰的纷扰， 
 
 Were we only white birds, my beloved, buoyed out on
 the foam of the sea!
 
-我们会是一对白鸟，亲爱的，在那浪花上翱翔！ （12）
+亲爱的，在那浪花上起舞，我们会是一对白鸟！
 
-自译，2025年11月30日 香港
+<br /> 自译，2025年11月30日 香港
 
 <!-- 
 一些翻译时的想法：
 
-- `foam of the sea` 我认为更接近汉语中`浪花`的含义。一个简单的论据是直白地感受一下两个句子：“我们在浪花上飞翔！”和“我们在海沫上飞翔！”
+- 原文结尾有着非常强的韵脚，同时每两句踏着相同的节拍。我翻译时已经尽量还原这种音韵的美感。有些时候被迫把两句的韵脚拆开压进一句中。而诗歌中段的，梦里露水打湿的百合与玫瑰，更像是一段蒙太奇。难以保留韵脚，不如干脆不要韵脚。想到叶芝本人也因调整韵脚而在下文中交换百合与玫瑰的顺序，我为我的的冒犯感到一丝心安。
+
+- `foam of the sea` 我认为更接近汉语中`浪花`的含义。一个简单的论据是直白地感受一下两个句子：“我们在浪花上飞翔！”和“我们在海沫上飞翔！” 而“浪尖”又不如“浪花”，后者得以表现出白色的泡沫的质感。泡沫很快破裂，浪花很快湮灭。这也符合诗歌的主旨。最后，谁又能拒绝在诗歌里添花呢？
 
 - `the flame` 在英语中具备两个含义，光和热。人对于光热的负面感受可以是“刺眼”和“烦躁”。我没有在汉语中找到能完美同时传达两种含义的词。于是用互文的形式分别写成火焰与光芒。从直觉上，火焰-消逝，光芒-低垂也很符合人的第一印象。而天边低垂的物体，也给人一种暮气沉沉的感觉，很难与火焰的热度联系在一起。在（11）中，`the flames`写作复数，对应（6）和（7），于是我只能粗糙的合并为“光焰”。
 
-- 达南神族，即[图哈德达南（Tuatha Dé Danann）](https://www.wikiwand.com/zh-hans/articles/%E5%9C%96%E5%93%88%E5%BE%B7%E9%81%94%E5%8D%97)，基督教传入之前的盖尔爱尔兰的神祇，凯尔特人神话中的先驱者。
+- 达南神族，即[图哈德达南（Tuatha Dé Danann）](https://www.wikiwand.com/zh-hans/articles/%E5%9C%96%E5%93%88%E5%BE%B7%E9%81%94%E5%8D%97)，基督教传入之前的盖尔爱尔兰的神祇，凯尔特人神话中的先驱。
 
     > Dannans (fictional) 达南: In a specific fictional universe, the "Dannans" were a race of immortals who ruled before humans and were eventually extinguished. 
 
-- `buoyed out`大概或是水底有一个气球，松开固定物后上浮并腾出水面的动态。心理上也表示欢腾的感受。思索之后翻译成“翱翔”。
+- `buoyed out`大概或是水底有一个气球，松开固定物后上浮并腾出水面的动态。心理上也表示欢腾的感受。思索之后翻译成“起舞”。
 
 - （10）的原文似乎更加被动，但是我很想翻译成这样，尤其是想到海面上飞翔的白鸟。
 -->
 
+<br /> 
+
+**When you are old 当你老了**
+
+<br />When you are old and grey and full of sleep,
+
+当你老了，头发花白，睡意沉沉，
+
+And nodding by the fire，take down this book,
+
+倦坐在炉边，取下这本书来，
+
+And slowly read, and dream of the soft look,
+
+慢慢读着，追梦当年的眼神，
+
+Your eyes had once, and of their shadows deep;
+
+你那柔美的神采与深幽的晕影。
+
+How many loved your moments of glad grace,
+
+多少人爱过你昙花一现的身影，
+
+And loved your beauty with love false or true,
+
+爱过你的美貌，以虚伪或真情，
+
+But one man loved the pilgrim Soul in you,
+
+惟独一人曾爱你那朝圣者的心，
+
+And loved the sorrows of your changing face; 
+
+爱你哀戚的脸上岁月的留痕。
+
+And bending down beside the glowing bars, 
+
+在炉罩边低眉弯腰，
+
+Murmur,a little sadly,how Love fled 
+
+忧戚沉思，喃喃而语，
+
+And paced upon the mountains overhead 
+
+爱情是怎样逝去，又怎样步上群山，
+
+And hid his face amid a crowd of stars. 
+
+怎样在繁星之间藏住了脸。
+
+<br /> 冰心译
 
 ****
 
