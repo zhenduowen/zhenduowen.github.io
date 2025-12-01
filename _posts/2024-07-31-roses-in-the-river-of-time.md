@@ -165,27 +165,27 @@ tags: [Literature, Poetry, 现代诗歌]
 <br /> I WOULD that we were, my beloved, white birds on the
 foam of the sea!
 
-亲爱的，我多想要，我们是那浪花上的一对白鸟！ 
+亲爱的，我多想，我们是那浪花上的一对白鸟
 
 We tire of the flame of the meteor, before it can fade
 and flee;
 
-你我厌倦了陨星消逝前的火焰；
+我们厌倦了陨星消逝前的火焰；
 
 And the flame of the blue star of twilight, hung low
 on the rim of the sky,
 
-而低垂在天际的，暮色蓝星的光芒， 
+而那低垂在天际，暮色蓝星的光芒， 
 
 Has awaked in our hearts, my beloved, a sadness that
 may not die.
 
-唤醒了我们心中，一缕不灭的忧伤。 
+唤醒了你我心中，一缕不灭的忧伤。 
 
 A weariness comes from those dreamers, dew-dabbled,
 the lily and rose;
 
-一丝倦意，从那群做梦的人里袭来，露水打湿的，百合与玫瑰； 
+疲惫，从那些梦里袭来，露水打湿的，百合与玫瑰； 
 
 Ah, dream not of them, my beloved, the flame of the
 meteor that goes,
@@ -200,12 +200,12 @@ the fall of the dew:
 For I would we were changed to white birds on the
 wandering foam: I and you!
 
-我只愿我们变成那飘荡浪花上的一对白鸟——我和你！ 
+我只愿，我和你，变成那飘荡浪花上的一对白鸟
 
 I am haunted by numberless islands, and many a
 Danaan shore,
 
-无数岛屿，和永恒海岸，在我心头盘桓，
+无数岛屿和永恒海岸，在我心头萦绕，
 
 Where Time would surely forget us, and Sorrow come
 near us no more;
@@ -220,7 +220,7 @@ flames would we be,
 Were we only white birds, my beloved, buoyed out on
 the foam of the sea!
 
-亲爱的，一同在浪花上起舞，我们会是一对白鸟！
+亲爱的，一同在浪花上起舞，我们会是一对白鸟
 
 <br /> 自译，2025年11月30日 香港
 
@@ -250,7 +250,7 @@ the foam of the sea!
 
 当你老了，头发花白，睡意沉沉，
 
-And nodding by the fire，take down this book,
+And nodding by the fire, take down this book,
 
 倦坐在炉边，取下这本书来，
 
@@ -282,7 +282,7 @@ And bending down beside the glowing bars,
 
 在炉罩边低眉弯腰，
 
-Murmur,a little sadly,how Love fled 
+Murmur, a little sadly, how Love fled 
 
 忧戚沉思，喃喃而语，
 
@@ -294,7 +294,7 @@ And hid his face amid a crowd of stars.
 
 怎样在繁星之间藏住了脸。
 
-<br /> 冰心译
+<br /> 冰心 译
 
 ****
 
