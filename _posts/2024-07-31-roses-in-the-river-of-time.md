@@ -156,7 +156,7 @@ tags: [Literature, Poetry, 现代诗歌]
 
 ****
 
-## William Butler Yeats 威廉·巴特勒·叶芝 
+## 威廉·巴特勒·叶芝 
 
 <br />
 
@@ -165,7 +165,7 @@ tags: [Literature, Poetry, 现代诗歌]
 <br /> I WOULD that we were, my beloved, white birds on the
 foam of the sea!
 
-亲爱的，我多想，我们是那浪花上的一对白鸟
+亲爱的，我多想，我们是浪花上的一对白鸟。
 
 We tire of the flame of the meteor, before it can fade
 and flee;
@@ -175,12 +175,12 @@ and flee;
 And the flame of the blue star of twilight, hung low
 on the rim of the sky,
 
-而那低垂在天际，暮色蓝星的光芒， 
+而低垂在天际的，暮色蓝星的光芒， 
 
 Has awaked in our hearts, my beloved, a sadness that
 may not die.
 
-唤醒了你我心中，一缕不灭的忧伤。 
+唤醒了我们心中，一缕不灭的忧伤。 
 
 A weariness comes from those dreamers, dew-dabbled,
 the lily and rose;
@@ -200,27 +200,27 @@ the fall of the dew:
 For I would we were changed to white birds on the
 wandering foam: I and you!
 
-我只愿，我和你，变成那飘荡浪花上的一对白鸟
+我只愿，你我变成那飘荡浪花上的一对白鸟。
 
 I am haunted by numberless islands, and many a
 Danaan shore,
 
-无数岛屿和永恒海岸，在我心头萦绕，
+无数岛屿和永恒海岸，总在我心头萦绕，
 
 Where Time would surely forget us, and Sorrow come
 near us no more;
 
-在那里，我们必会被时间遗忘，我们终于把悲伤阻挡。 
+在那，我们必被时间所遗忘，我们终于把悲伤阻挡。 
 
 Soon far from the rose and the lily and fret of the
 flames would we be,
 
-很快，远离百合与玫瑰，还有那些光焰的纷扰， 
+很快，远离百合与玫瑰，还有光焰的纷扰， 
 
 Were we only white birds, my beloved, buoyed out on
 the foam of the sea!
 
-亲爱的，一同在浪花上起舞，我们会是一对白鸟
+亲爱的，一同在浪花上起舞，我们会是一对白鸟。
 
 <br /> 自译，2025年11月30日 香港
 
@@ -1245,7 +1245,7 @@ And hid his face amid a crowd of stars.
 
 >（收录于加缪情书集）
 >
-> 玛利亚·卡萨雷斯在大西洋沿岸寻找夏季出租的房屋；她计划于1951年和1952年8月住在拉卡诺。出于好玩的目的，阿尔贝·加缪以她的名义写了4封找房子的信。
+> 玛利亚·卡萨雷斯在大西洋沿岸寻找夏季出租的房屋；她计划于1951年和1952年8月住在拉卡诺。出于好玩的目的，阿尔贝·加缪以她的名义写了4封找房子的信。以下是其中一封，我觉得译者非常幽默。
 
 <br /> 寻陋室两间栖身做庐
 
