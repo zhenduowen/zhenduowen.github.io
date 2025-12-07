@@ -308,11 +308,11 @@ And hid his face amid a crowd of stars.
 
 For these red lips, with all their mournful pride,
 
-那些红唇，饱含着哀悼和高傲，
+那些红唇，饱含着哀悼与高傲，
 
 Mournful that no new wonder may betide,
 
-哀悼着世间再无奇迹闪耀，
+哀悼着世间，再无奇迹，
 
 Troy passed away in one high funeral gleam,
 
@@ -344,19 +344,19 @@ Lives on this lonely face.
 
 Bow down, archangels, in your dim abode:
 
-大天使们，从你们的幽居处躬身：
+行礼吧，大天使们，从你们幽暗的居处：
 
 Before you were, or any hearts to beat,
 
-在你降临，或任何心脏跳动之前，
+在你们存在，或任何心脏跳动之前，
 
 Weary and kind one lingered by His seat;
 
-疲倦又善良的她曾在神座旁流连；
+疲惫又善良的她曾在神座旁流连；
 
 He made the world to be a grassy road
 
-神让这世界是条芳草连绵的路，
+神把这尘世铺成芳草连绵的路，
 
 Before her wandering feet.
 
