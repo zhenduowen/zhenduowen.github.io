@@ -296,6 +296,95 @@ And hid his face amid a crowd of stars.
 
 <br /> 冰心 译
 
+
+<br />
+
+**The Rose Of The World 尘世的玫瑰** 叶芝
+
+
+<br />WHO dreamed that beauty passes like a dream?
+
+谁曾梦见，美如梦而逝？
+
+For these red lips, with all their mournful pride,
+
+那些红唇，饱含着哀悼和高傲，
+
+Mournful that no new wonder may betide,
+
+哀悼着再无奇迹闪耀，
+
+Troy passed away in one high funeral gleam,
+
+特洛伊城毁于自掘坟墓的一瞥，
+
+And Usna's children died.
+
+[乌什纳的孩子们](https://www.britannica.com/topic/The-Tragic-Death-of-the-Sons-of-Usnech)也已为美折夭。
+
+We and the labouring world are passing by:
+
+我们与艰辛的世界正匆匆经过：
+
+Amid men's souls, that waver and give place
+
+四周人类的灵魂纷纷摇摆退让，
+
+Like the pale waters in their wintry race,
+
+犹如苍白流水暗渡寒江，
+
+Under the passing stars, foam of the sky,
+
+而在流转的群星和天空的泡影下，
+
+Lives on this lonely face.
+
+孤寂的容貌永不消亡。
+
+Bow down, archangels, in your dim abode:
+
+大天使们，从你们的幽居处躬身：
+
+Before you were, or any hearts to beat,
+
+在你降临，或是任何心脏开始搏动前，
+
+Weary and kind one lingered by His seat;
+
+疲倦又善良的她曾在神座旁流连；
+
+He made the world to be a grassy road
+
+神让这世界是条芳草连绵的路，
+
+Before her wandering feet.
+
+就在她漫游的双脚前。
+
+<br /> 自译，2025年12月7日 香港
+
+<!-- 
+
+翻译时的想法：
+
+- 首先还是叶芝诗歌的韵脚，pride，betide，died；place，race，face；beat，seat，feat。我尽力做到保持原文的韵脚的同时不堆砌过度华美的词语。我以为诗歌本就要提防华丽中毒，好比花间一壶酒如果改成花间一壶冷月酒，读起来就好像华美的针织扎的人难受，好像浑身有只跳蚤。
+- 特洛伊战争和乌什纳的孩子的故事都是因为对美的爱而导致滔天大祸。美如梦而逝，逝去的何止是美本身。
+
+    特洛伊战争的导火索是一场婚礼。纷争女神厄里斯（Eris）因未被邀请参加海洋女神忒提斯（Thetis ）与色萨利国王佩琉斯（Peleus）的婚宴而怀恨在心。愤怒的厄里斯在宴会上留下了一个黄金苹果，上面刻有“献给最美丽的人”的字样。天后赫拉（Hera）、智慧女神雅典娜（Athena）和爱神阿佛罗狄忒（Aphrodite）都认为自己才是最有资格得到金苹果的人，并请求宙斯（Zeus）裁定。宙斯不想参与其中，于是将这个烫手山芋扔给了特洛伊王子帕里斯（Paris）。爱神阿佛罗狄忒许诺帕里斯将得到世界上最美丽的女人海伦，于是最终赢得了金苹果伊特鲁里亚墓室壁画 《帕里斯评判》伊特鲁里亚墓室壁画中描绘的《帕里斯评判》，公元前560年至550年。画面左方，帕里斯正在等待三位女神的到来。排在最后的阿佛罗狄忒微微提起裙摆，露出美丽的双腿；画面右方，三位手捧珠宝和香薰的女性正走向海伦。千帆远航为红颜虽然此时的海伦已经嫁给了斯巴达（古希腊城邦之一）国王墨涅拉俄斯，阿佛罗狄忒的许诺还是最终成为现实。帕里斯出访斯巴达时，借阿佛罗狄忒的力量将海伦诱拐回特洛伊。为了将爱妻夺回，墨涅拉俄斯召集希腊境内的英雄组成了一支强大的军队，由自己的兄长——迈锡尼国王阿伽门农（Agamemnon）带领，围攻特洛伊。
+
+
+    乌什纳的孩子以德鲁伊在迪尔德丽出生时预言许多男人会因她而死开篇。迪尔德丽在与世隔绝的环境中长大，长成了一位美貌惊人的女子。康纳国王（Conchobar mac Nessa）爱上了她，但她却爱上了乌什纳之子诺伊西（中古爱尔兰语：Noísiu）。迪尔德丽和诺伊西私奔，带着诺伊西的两个兄弟逃往苏格兰，在那里过着田园诗般的生活，直到他们被奸诈的康纳诱骗回爱尔兰。乌什纳的儿子们被杀，引发了阿尔斯特的叛乱和流血冲突。为了避免落入康纳之手，迪尔德丽选择了自尽。
+    
+    因此one high funeral gleam翻译为自掘坟墓的一瞥。英语中常见的俗语your funeral本就意味着自掘坟墓。gleam多表示反光，特别是从人眼睛中带有情感的反光。在了解这两个故事背景的前提下，这两句翻译是能够和诗歌的主旨相洽的。
+
+- Amid men's souls 一句如果原封不动翻译为在人类……般犹如……的灵魂之间（注意原文换行间缺失的逗号表示了两句间的连贯性）将会过于冗长。同时我一直在想，we and ……passing by或许不是一同走过，而是匆匆掠过的意思。为了表达自己经过而其他事情留在原地的掠过的意思，就有了苍白流水暗渡寒江一句。race这里表示一股水流，狭窄地从河流或是海洋的通道里穿行。
+
+- the passing star, foam of the sky……一句也证实了掠过含义的猜想。群星流转，泡影破碎，美的容貌却能永存。永存的只有这美，于是便孤寂。
+
+- 是什么给了这美的容貌超越尘世的存在呢？是神。这诗本就写给爱人。而爱上一个人，就好像侍奉着一位随时会陨落的神。而如果把He翻译为祂，因为汉语的原因诗句中就会有两个ta，读起来就分不清谁是谁了。
+-->
+
 ****
 
 ## 北岛
