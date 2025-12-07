@@ -312,7 +312,7 @@ For these red lips, with all their mournful pride,
 
 Mournful that no new wonder may betide,
 
-哀悼着再无奇迹闪耀，
+哀悼着世间再无奇迹闪耀，
 
 Troy passed away in one high funeral gleam,
 
@@ -320,11 +320,11 @@ Troy passed away in one high funeral gleam,
 
 And Usna's children died.
 
-[乌什纳的孩子们](https://www.britannica.com/topic/The-Tragic-Death-of-the-Sons-of-Usnech)也已为美折夭。
+[乌什纳的孩子](https://www.britannica.com/topic/The-Tragic-Death-of-the-Sons-of-Usnech)也已为美折夭。
 
 We and the labouring world are passing by:
 
-我们与艰辛的世界正匆匆经过：
+我们与艰辛的世界正匆匆掠过：
 
 Amid men's souls, that waver and give place
 
@@ -336,11 +336,11 @@ Like the pale waters in their wintry race,
 
 Under the passing stars, foam of the sky,
 
-而在流转的群星和天空的泡影下，
+那流转的群星和天空的泡影下，
 
 Lives on this lonely face.
 
-孤寂的容貌永不消亡。
+孤寂的面容永不消亡。
 
 Bow down, archangels, in your dim abode:
 
@@ -348,7 +348,7 @@ Bow down, archangels, in your dim abode:
 
 Before you were, or any hearts to beat,
 
-在你降临，或是任何心脏开始搏动前，
+在你降临，或任何心脏跳动之前，
 
 Weary and kind one lingered by His seat;
 
@@ -360,7 +360,7 @@ He made the world to be a grassy road
 
 Before her wandering feet.
 
-就在她漫游的双脚前。
+就在她漫游的脚步前。
 
 <br /> 自译，2025年12月7日 香港
 
@@ -383,6 +383,8 @@ Before her wandering feet.
 - the passing star, foam of the sky……一句也证实了掠过含义的猜想。群星流转，泡影破碎，美的容貌却能永存。永存的只有这美，于是便孤寂。
 
 - 是什么给了这美的容貌超越尘世的存在呢？是神。这诗本就写给爱人。而爱上一个人，就好像侍奉着一位随时会陨落的神。而如果把He翻译为祂，因为汉语的原因诗句中就会有两个ta，读起来就分不清谁是谁了。
+
+- 连绵与漫游相对。
 -->
 
 ****
