@@ -308,11 +308,11 @@ And hid his face amid a crowd of stars.
 
 For these red lips, with all their mournful pride,
 
-那些红唇，饱含着哀悼和高傲，
+那些红唇，连同它们哀悼着的高傲，
 
 Mournful that no new wonder may betide,
 
-哀悼着奇迹已绝迹于世上，
+哀悼着奇迹恐怕就此绝迹，
 
 Troy passed away in one high funeral gleam,
 
@@ -320,7 +320,7 @@ Troy passed away in one high funeral gleam,
 
 And Usna's children died.
 
-[乌什纳的孩子](https://www.britannica.com/topic/The-Tragic-Death-of-the-Sons-of-Usnech)也已折夭。
+[乌什纳的孩子们](https://www.britannica.com/topic/The-Tragic-Death-of-the-Sons-of-Usnech)也已折夭。
 
 <br />We and the labouring world are passing by:
 
@@ -336,7 +336,7 @@ Like the pale waters in their wintry race,
 
 Under the passing stars, foam of the sky,
 
-在流转的群星，天空的泡影下，
+流转的群星，天空的泡影下，
 
 Lives on this lonely face.
 
