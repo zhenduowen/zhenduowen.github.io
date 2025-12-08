@@ -165,7 +165,7 @@ tags: [Literature, Poetry, 现代诗歌]
 <br /> I WOULD that we were, my beloved, white birds on the
 foam of the sea!
 
-亲爱的，我多想，我们是浪花上的一对白鸟。
+亲爱的，我多想，我们是浪花上的一对白鸟！
 
 We tire of the flame of the meteor, before it can fade
 and flee;
@@ -200,7 +200,7 @@ the fall of the dew:
 For I would we were changed to white birds on the
 wandering foam: I and you!
 
-我只愿，你我变成那飘荡浪花上的一对白鸟。
+我只愿，你我变成那飘荡浪花上的一对白鸟：你和我！
 
 I am haunted by numberless islands, and many a
 Danaan shore,
@@ -220,7 +220,7 @@ flames would we be,
 Were we only white birds, my beloved, buoyed out on
 the foam of the sea!
 
-亲爱的，一同在浪花上起舞，我们会是一对白鸟。
+亲爱的，一同在浪花上起舞，我们会是一对白鸟！
 
 <br /> 自译，2025年11月30日 香港
 
@@ -308,11 +308,11 @@ And hid his face amid a crowd of stars.
 
 For these red lips, with all their mournful pride,
 
-那些红唇，饱含着哀悼与高傲，
+那些红唇，饱含着哀悼和高傲，
 
 Mournful that no new wonder may betide,
 
-哀悼着世间，再无奇迹，
+哀悼着奇迹已绝迹于世上，
 
 Troy passed away in one high funeral gleam,
 
@@ -320,11 +320,11 @@ Troy passed away in one high funeral gleam,
 
 And Usna's children died.
 
-[乌什纳的孩子](https://www.britannica.com/topic/The-Tragic-Death-of-the-Sons-of-Usnech)也已为美折夭。
+[乌什纳的孩子](https://www.britannica.com/topic/The-Tragic-Death-of-the-Sons-of-Usnech)也已折夭。
 
-We and the labouring world are passing by:
+<br />We and the labouring world are passing by:
 
-我们与艰辛的世界正匆匆掠过：
+我们与辛劳的尘世正匆匆掠过：
 
 Amid men's souls, that waver and give place
 
@@ -332,35 +332,35 @@ Amid men's souls, that waver and give place
 
 Like the pale waters in their wintry race,
 
-犹如苍白流水暗渡寒江，
+犹如苍白冷水流过寒江，
 
 Under the passing stars, foam of the sky,
 
-那流转的群星和天空的泡影下，
+在流转的群星，天空的泡影下，
 
 Lives on this lonely face.
 
 孤寂的面容永不消亡。
 
-Bow down, archangels, in your dim abode:
+<br />Bow down, archangels, in your dim abode:
 
-行礼吧，大天使们，从你们幽暗的居处：
+从你们的幽居处行礼吧，大天使们：
 
 Before you were, or any hearts to beat,
 
-在你们存在，或任何心脏跳动之前，
+早在你们存在，或任何心脏跳动以前，
 
 Weary and kind one lingered by His seat;
 
-疲惫又善良的她曾在神座旁流连；
+疲倦又善良的她曾在神座旁流连；
 
 He made the world to be a grassy road
 
-神把这尘世铺成芳草连绵的路，
+神把尘世打造成芳草连绵的路，
 
 Before her wandering feet.
 
-就在她漫游的脚步前。
+铺在她漫游的脚步前。
 
 <br /> 自译，2025年12月7日 香港
 
