@@ -2,8 +2,8 @@
 title: Operator Concave Functions
 date: 2025-06-04
 author: Zhenduo
-categories: [Linear Algebra, Positive Semidefinite Matrices]
-tags: [Linear Algebra, PSD]
+categories: [Applied Mathematics, Linear Algebra]
+tags: [Linear Algebra, Positive Semidefinite Matrices]
 ---
 **Definition. (Hemitian Matrices)** A linear operator $T$ is said to be Hemitian (denoted by $T \in \mathcal H$) if $\langle Tx, x \rangle \in \mathbb R$ for all $x$ in the Hilbert space.
 

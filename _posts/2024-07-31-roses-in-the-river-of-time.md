@@ -308,11 +308,11 @@ And hid his face amid a crowd of stars.
 
 For these red lips, with all their mournful pride,
 
-那些红唇，连同它们哀悼着的高傲，
+那些红唇，连同它哀悼着的高傲，
 
 Mournful that no new wonder may betide,
 
-哀悼着奇迹恐怕就此绝迹，
+哀悼着奇迹，就此绝迹，
 
 Troy passed away in one high funeral gleam,
 
@@ -328,11 +328,11 @@ And Usna's children died.
 
 Amid men's souls, that waver and give place
 
-四周人类的灵魂纷纷摇摆退让，
+四周人类的灵魂，纷纷摇摆退让，
 
 Like the pale waters in their wintry race,
 
-犹如苍白冷水流过寒江，
+如苍白冷水争流寒江，
 
 Under the passing stars, foam of the sky,
 
@@ -340,7 +340,7 @@ Under the passing stars, foam of the sky,
 
 Lives on this lonely face.
 
-孤寂的面容永不消亡。
+这孤寂的面容永不消亡。
 
 <br />Bow down, archangels, in your dim abode:
 
@@ -356,7 +356,7 @@ Weary and kind one lingered by His seat;
 
 He made the world to be a grassy road
 
-神把尘世打造成芳草连绵的路，
+神把尘世打造成青草连绵的路，
 
 Before her wandering feet.
 
