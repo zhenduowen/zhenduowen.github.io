@@ -24,7 +24,6 @@ $$
   3. To get answer of the problem, read off the corresponding coefficient.
 - Commonly, this method is applied to combinatorial problems with a fixed summation constraint, as $x^a \cdot x^b = x^{a+b}$.
 
----
 
 ## 2. Toy example: nonnegative integer solutions (stars and bars via GFs)
 
@@ -64,8 +63,6 @@ has coefficient of $x^m$ equal to $1$, meaning:
 
 > There is exactly 1 way to choose $a_1$ so that it contributes $m$ to the sum (namely $a_1 = m$).
 
----
-
 ### Step 2: Combine $k$ independent variables
 
 Now we have $a_1, a_2, \dots, a_k$, each behaving like that.
@@ -103,8 +100,6 @@ Thus:
 
 So we just need to simplify $G(x)$ and read off the coefficient.
 
----
-
 ### Step 3: Simplify the generating function
 
 We know
@@ -121,7 +116,7 @@ So our problem becomes:
 
 > Find the coefficient of $x^n$ in $(1 - x)^{-k}$.
 
----
+
 
 ### Step 4: Use the binomial series
 
@@ -137,7 +132,6 @@ $$
 {\binom{n + k - 1}{k - 1}}.
 $$
 
----
 
 ## 3. Another tiny example: steps of size 1 or 2 (Fibonacci)
 
@@ -197,4 +191,3 @@ f_n = f_{n-1} + f_{n-2},
 $$
 with appropriate initial conditions, this gives the Fibonacci series.
 
----
