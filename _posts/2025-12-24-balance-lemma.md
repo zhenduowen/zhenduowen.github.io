@@ -77,7 +77,12 @@ $$
 
 * The map $\mathbf{a} \mapsto \bigl( \langle \mathbf{a} , \mathbf{x} \rangle \bigr)$ is linear and injective on $\mathbb{F}_2^m \setminus \lbrace 0 \rbrace$, so $S(m)$ is an $[n,m]$ linear code; it is exactly the **dual** of the $[2^m-1, 2^m-m-1, 3]$ binary Hamming code and is called the *simplex code*.
 
-* For any non-zero $\mathbf{a}$, the word $\mathbf{c}_{\mathbf{a}} = \bigl( \langle \mathbf{a} , \mathbf{x} \rangle \bigr)$ is simply the evaluation of the non-trivial linear functional $f_{\mathbf{a}}(\mathbf{x}) = \langle \mathbf{a} , \mathbf{x} \rangle$ on all non-zero $\mathbf{x}$.  
+* For any non-zero $\mathbf{a}$, the word 
+$$
+\mathbf{c}_{\mathbf{a}} = \bigl( \langle \mathbf{a} , \mathbf{x} \rangle \bigr)
+$$
+is simply the evaluation of the non-trivial linear functional $f_{\mathbf{a}}(\mathbf{x}) = \langle \mathbf{a} , \mathbf{x} \rangle$ on all non-zero $\mathbf{x}$.  
+
   By the lemma, $f_{\mathbf{a}}$ outputs $1$ on exactly half of the $2^m$ inputs.  
   Excluding the single input $\mathbf{x}=0$ (where $f_{\mathbf{a}}(0)=0$) removes one zero but no ones, so
 
