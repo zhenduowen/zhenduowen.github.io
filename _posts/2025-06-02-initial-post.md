@@ -131,14 +131,18 @@ Github pages的一些缺点是：
 
 
 ## 关于发布文章
+
+### yaml 标签
 vscode如今对于markdown的原生支持出奇的好用, 参考官方文档：[https://code.visualstudio.com/docs/languages/markdown](https://code.visualstudio.com/docs/languages/markdown)。
 
 - `ctrl+shift+v`即可打开实时渲染
 
 在md文件前的yaml段落中配置标题，时间，作者，以及分类标签。
 
+### MathJax与KaTex
 在博客模板中启用MathJax可以参考[https://github.com/cotes2020/jekyll-theme-chirpy/issues/1140](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1140)。我使用了katex引擎。
 
+### 数学排版
 多数文章遵从如下格式：
 定义，引理，定理，推论的标题为加粗格式, 括号包含解释性的文本。段落结尾右侧用unicode char ■表示段落结束。 证明和实例的标题采用斜体，证明通常和定理在同一个段落内，在证明结束后使用■表示段落结束。而示例因其解释性，不需明示■表示段落结束从而和其他文本区分开。
 
@@ -162,6 +166,50 @@ Some Example Here
 ```html
 &nbsp;<span style="float: right;">■</span>
 ```
+
+### Markdown与LaTex可用颜色
+
+利用html tag来给Markdown文字上色，[GitHub Pages对此支持良好](https://github.com/orgs/community/discussions/31570)，
+
+```html
+<code style="color : name_color">text</code>
+```
+
+常用颜色如下：
+- `<code style="color : red">text</code> `: <code style="color : red" >text without inline math</code>
+- `<code style="color : darkorange">text</code> `: <code style="color : darkorange" >text without inline math</code>
+- ~~`<code style="color : yellow">text</code> `: <code style="color : yellow" >text without inline math</code>~~
+- `<code style="color : gold">text</code> `: <code style="color : gold" >text without inline math</code>
+- `<code style="color : green">text</code> `: <code style="color : green" >text without inline math</code>
+- `<code style="color : skyblue">text</code> `: <code style="color : skyblue" >text without inline math</code>
+- `<code style="color : cyan">text</code> `: <code style="color : cyan" >text without inline math</code>
+- `<code style="color : blue">text</code> `: <code style="color : blue" >text without inline math</code>
+- `<code style="color : magenta">text</code> `: <code style="color : magenta" >text without inline math</code>
+- `<code style="color : violet">text</code> `: <code style="color : violet" >text without inline math</code>
+
+特定数学公式内，KaTex可以渲染`\textcolor{}{}`和`\color{}`命令, `xcolor`包内支持的颜色[可见于此](https://www.overleaf.com/learn/latex/Using_colors_in_LaTeX)
+- `\textcolor{red}{x_1}`: $\textcolor{red}{x_1 + x_2 + x_3 + \ldots + x_n}$
+- `\textcolor{darkorange}{x_1}`: $\textcolor{darkorange}{x_1 + x_2 + x_3 + \ldots + x_n}$
+- ~~`\textcolor{yellow}{x_1}`: $\textcolor{yellow}{x_1 + x_2 + x_3 + \ldots + x_n}$~~
+- `\textcolor{gold}{x_1}`: $\textcolor{gold}{x_1 + x_2 + x_3 + \ldots + x_n}$
+- `\textcolor{green}{x_1}`: $\textcolor{green}{x_1 + x_2 + x_3 + \ldots + x_n}$
+- `\textcolor{skyblue}{x_1}`: $\textcolor{skyblue}{x_1 + x_2 + x_3 + \ldots + x_n}$
+- `\textcolor{cyan}{x_1}`: $\textcolor{cyan}{x_1 + x_2 + x_3 + \ldots + x_n}$
+- `\textcolor{blue}{x_1}`: $\textcolor{blue}{x_1 + x_2 + x_3 + \ldots + x_n}$
+- `\textcolor{magenta}{x_1}`: $\textcolor{magenta}{x_1 + x_2 + x_3 + \ldots + x_n}$
+- `\textcolor{violet}{x_1}`: $\textcolor{violet}{x_1 + x_2 + x_3 + \ldots + x_n}$
+
+其中亮黄色文字在浅色背景下不易阅读。
+
+### 超链接
+
+- 站外超链接格式即markdown原生格式。
+- 站内超链接格式可以参考这个例子：
+```markdown
+<a href="{{zhenduowen.github.io}}/assets/files/notes/cs336_spring2025_assignment1_basics.pdf">Problem descriptions of assignment 1 can also be found here.</a> 
+```
+
+
 
 ## 关于评论系统
 
