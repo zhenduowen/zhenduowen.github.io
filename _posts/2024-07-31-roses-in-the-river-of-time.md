@@ -388,7 +388,7 @@ Weary and kind one lingered by His seat;
 
 He made the world to be a grassy road
 
-神把尘世打造成青草连绵的路，
+神把尘世打造成芳草连绵的路，
 
 Before her wandering feet.
 
