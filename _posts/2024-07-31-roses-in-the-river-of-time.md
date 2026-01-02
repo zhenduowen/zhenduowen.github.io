@@ -1243,6 +1243,7 @@ Slouches towards Bethlehem to be born?
 
 才没有被我目不暇给的纷纭事物，
 
+那些充斥其中的不和谐的事物，
 
 把它撑破，使它脱底。
 
