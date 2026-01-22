@@ -188,6 +188,8 @@ tags: [Literature, Poetry, 现代诗歌]
 
 ## 威廉·巴特勒·叶芝 
 
+*William Butler Yeats*
+
 <br />
 
 **The White Birds 白鸟** 叶芝
@@ -420,6 +422,230 @@ Before her wandering feet.
 
 <br />
 
+**The Stolen Child** William Butler Yeats
+
+<br />Where dips the rocky highland
+
+Of Sleuth Wood in the lake,
+
+There lies a leafy island
+
+Where flapping herons wake
+
+The drowsy water rats;
+
+There we've hid our faery vats,
+
+Full of berrys
+
+And of reddest stolen cherries.
+
+Come away, O human child!
+
+To the waters and the wild
+
+With a faery, hand in hand,
+
+For the world's more full of weeping than you can understand.
+
+<br />Where the wave of moonlight glosses
+
+The dim gray sands with light,
+
+Far off by furthest Rosses
+
+We foot it all the night,
+
+Weaving olden dances
+
+Mingling hands and mingling glances
+
+Till the moon has taken flight;
+
+To and fro we leap
+
+And chase the frothy bubbles,
+
+While the world is full of troubles
+
+And anxious in its sleep.
+
+Come away, O human child!
+
+To the waters and the wild
+
+With a faery, hand in hand,
+
+For the world's more full of weeping than you can understand.
+
+<br />Where the wandering water gushes
+
+From the hills above Glen-Car,
+
+In pools among the rushes
+
+That scarce could bathe a star,
+
+We seek for slumbering trout
+
+And whispering in their ears
+
+Give them unquiet dreams;
+
+Leaning softly out
+
+From ferns that drop their tears
+
+Over the young streams.
+
+Come away, O human child!
+
+To the waters and the wild
+
+With a faery, hand in hand,
+
+For the world's more full of weeping than you can understand.
+
+<br />Away with us he's going,
+
+The solemn-eyed:
+
+He'll hear no more the lowing
+
+Of the calves on the warm hillside
+
+Or the kettle on the hob
+
+Sing peace into his breast,
+
+Or see the brown mice bob
+
+Round and round the oatmeal chest.
+
+For he comes, the human child,
+
+To the waters and the wild
+
+With a faery, hand in hand,
+
+For the world's more full of weeping than he can understand.
+
+<br />
+
+**Down by the Salley Gardens 经那些柳园往下去** 叶芝
+
+<br />Down by the salley gardens my love and I did meet;
+
+经那些柳园往下去，我的恋人曾和我会面；
+
+She passed the salley gardens with little snow-white feet.
+
+她一双雪白的小脚，走过那些柳园。
+
+*She bid me take love easy, as the leaves grow on the tree;*
+
+*她教我把爱情看轻松，一如枝头生叶，*
+
+*But I, being young and foolish, with her would not agree.*
+
+*可是我，年少又无知，不同意她的见解。*
+
+<br />In a field by the river my love and I did stand,
+
+在那河边的田野里，我的恋人曾和我驻足；
+
+And on my leaning shoulder she laid her snow-white hand.
+
+她一双雪白的手，搭上我斜倚的肩。
+
+She bid me take life easy, as the grass grows on the weirs;
+
+她教我把生活看轻松，一如堰上长草；
+
+But I was young and foolish, and now am full of tears.
+
+可是我那时年少又无知，如今泪流满面。
+
+<br />（基于傅浩译文改动）
+
+<br />
+
+**After Long Silence 沉默许久后** 叶芝
+
+<br />Speech after long silence; it is right,
+
+沉默许久后开口；没错，
+
+All other lovers being estranged or dead,
+
+其余恋人们难逃疏远或亡故，
+
+Unfriendly lamplight hid under its shade,
+
+冷漠的灯光躲进灯罩深处，
+
+The curtains drawn upon unfriendly night,
+
+层层窗帘挡住不善的夜晚，
+
+That we descant and yet again descant
+
+让我们谈了又谈的
+
+Upon the supreme theme of Art and Song:
+
+是艺术和诗歌的最高主题：
+
+*Bodily decrepitude is wisdom; young*
+
+*躯体衰老即智慧；年轻时*
+
+*We loved each other and were ignorant.*
+
+*我们彼此相爱却浑然不知。*
+
+<br />（基于傅浩，飞白译文改动）
+
+<br />
+
+**He Wishes for the Cloths of Heaven** 叶芝
+
+<br />Had I the heavens’ embroidered cloths,
+
+假如我有天国的锦缎，
+
+Enwrought with golden and silver light,
+
+用金银的光彩织就，
+
+The blue and the dim and the dark cloths
+
+那蔚蓝、暗淡和漆黑的锦衣
+
+Of night and light and the half-light,
+
+为黑夜、白昼和晨昏穿戴，
+
+I would spread the cloths under your feet:
+
+我愿把它铺在你脚下：
+
+But I, being poor, have only my dreams;
+
+可我，一贫如洗，只有梦；
+
+*I have spread my dreams under your feet;*
+
+*我把我的梦铺在你脚下；*
+
+*Tread softly because you tread on my dreams.*
+
+*轻点，因为你踩着我的梦。*
+
+<br /> （基于傅浩，袁可嘉译文改动）（我感觉叶芝多少沾点足控）
+
+<br />
+
 **The Second Coming** William Butler Yeats
 
 <br /> Turning and turning in the widening gyre   
@@ -468,6 +694,12 @@ Slouches towards Bethlehem to be born?
 
 ****
 
+<!-- ## 托马斯·斯特尔那斯·艾略特
+
+*Thomas Stearns Eliot*
+
+
+**** -->
 
 ## 北岛
 
