@@ -82,7 +82,7 @@ then can we claim that this family of distributions is exactly the family of all
 
 **Theorem. (Kac–Bernstein)**
 > Proof can be found at:
-> <a href="{{zhenduowen.github.io}}/assets/files/notes/on_a_char_of_normal_distribution.pdf">Kac M. "On a characterization of the normal distribution," American Journal of Mathematics. 1939. 61. pp. 726—728.</a>
+> <a href="{{ site.baseurl }}/assets/files/notes/on_a_char_of_normal_distribution.pdf">Kac M. "On a characterization of the normal distribution," American Journal of Mathematics. 1939. 61. pp. 726—728.</a>
 >
 > [https://math.stackexchange.com/questions/4329747/bernsteins-theorem-probability](https://math.stackexchange.com/questions/4329747/bernsteins-theorem-probability)
 >

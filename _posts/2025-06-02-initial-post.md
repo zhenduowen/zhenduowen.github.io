@@ -206,7 +206,7 @@ Some Example Here
 - 站外超链接格式即markdown原生格式。
 - 站内超链接格式可以参考这个例子：
 ```markdown
-<a href="{{zhenduowen.github.io}}/assets/files/notes/cs336_spring2025_assignment1_basics.pdf">Problem descriptions of assignment 1 can also be found here.</a> 
+<a href="{{ site.baseurl }}/assets/files/notes/cs336_spring2025_assignment1_basics.pdf">Problem descriptions of assignment 1 can also be found here.</a> 
 ```
 
 
