@@ -11,9 +11,9 @@ published: true
 
 - Repository contains assignment templates: [https://github.com/stanford-cs336/assignment1-basics#](https://github.com/stanford-cs336/assignment1-basics#)
 
-- <a href="{{zhenduowen.github.io}}/assets/files/notes/cs336_spring2025_assignment1_basics.pdf">Problem descriptions of assignment 1 can also be found here.</a> To use the fork templates, fork their github repo, clone, and add remote at local.
+- <a href="{{ site.baseurl }}/assets/files/notes/cs336_spring2025_assignment1_basics.pdf">Problem descriptions of assignment 1 can also be found here.</a> To use the fork templates, fork their github repo, clone, and add remote at local.
 
-- For setting up a local environment, [another post]({{zhenduowen.github.io}}/posts/windows-sub-linux/) may be useful.
+- For setting up a local environment, [another post]({{ site.baseurl }}/posts/windows-sub-linux/) may be useful.
 
 - This project dependencies are managed by UV. To use UV to set up dependencies locally:
     ```terminal
