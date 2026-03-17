@@ -135,6 +135,30 @@ Built on Wed_Aug_20_01:58:59_PM_PDT_2025
 Cuda compilation tools, release 13.0, V13.0.88
 Build cuda_13.0.r13.0/compiler.36424714_0
 ```
+**Remark:**
+
+In WSL, put these lines into your shell startup file so `cuda` added to `PATH` automatically everytime we start a WSL terminal.
+
+If you use **bash**:
+```bash
+nano ~/.bashrc
+```
+
+Add this at the end:
+
+```bash
+export PATH="/usr/local/cuda-13.0/bin:$PATH"
+export LD_LIBRARY_PATH="/usr/local/cuda-13.0/lib64:$LD_LIBRARY_PATH"
+```
+
+Then reload it:
+
+```bash
+source ~/.bashrc
+```
+
+After that, every new WSL terminal should already have `nvcc` available.
+
 
 ## Python, Conda, ...
 
@@ -157,6 +181,16 @@ Install Pytorch under this environment `dlenv`. Go to Pytorch website and choose
 ```shell
 pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu130
 ```
+
+**Remark:**
+
+Similar to the previous section, add 
+
+```bash
+source ~/miniconda3/etc/profile.d/conda.sh
+```
+
+to `~/.bashrc` to initialize `conda` automatically everytime we start a WSL terminal.
 
 ## Git
 
