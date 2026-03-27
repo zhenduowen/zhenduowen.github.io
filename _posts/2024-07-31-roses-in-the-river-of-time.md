@@ -197,17 +197,17 @@ tags: [Literature, Poetry, 现代诗歌]
 <br /> I WOULD that we were, my beloved, white birds on the
 foam of the sea!
 
-亲爱的，我多想，我们是浪花上的一对白鸟！
+亲爱的，但愿你我是海上浮沫间的一对白鸟！
 
 We tire of the flame of the meteor, before it can fade
 and flee;
 
-我们厌倦了陨星消逝前的火焰；
+那陨星的火焰尚未消逝，我们便已倦了；
 
 And the flame of the blue star of twilight, hung low
 on the rim of the sky,
 
-而低垂在天际的，暮色蓝星的光芒， 
+而低垂在暮色天际，那蓝星的焰光， 
 
 Has awaked in our hearts, my beloved, a sadness that
 may not die.
@@ -217,42 +217,42 @@ may not die.
 A weariness comes from those dreamers, dew-dabbled,
 the lily and rose;
 
-疲惫，从那些梦里袭来，露水打湿的，百合与玫瑰； 
+倦意来自那些梦者——那些沾着露水的百合与玫瑰； 
 
 Ah, dream not of them, my beloved, the flame of the
 meteor that goes,
 
-啊，别再梦见它们了，亲爱的，不论是消逝的陨星火焰， 
+啊，别再梦着它们了，亲爱的，那消逝的陨星火焰，
 
 Or the flame of the blue star that lingers hung low in
 the fall of the dew:
 
-还是露水坠落时，低垂的蓝星光芒； 
+或露落时分低垂不去的蓝星的焰光； 
 
 For I would we were changed to white birds on the
 wandering foam: I and you!
 
-我只愿，你我变成那飘荡浪花上的一对白鸟：你和我！
+但愿你我变成那飘荡浮沫间的一对白鸟：你和我！
 
 I am haunted by numberless islands, and many a
 Danaan shore,
 
-无数岛屿和永恒海岸，总在我心头萦绕，
+无数岛屿和达南诸神的海岸，总在我心头萦绕，
 
 Where Time would surely forget us, and Sorrow come
 near us no more;
 
-在那，我们必被时间所遗忘，我们终于把悲伤阻挡。 
+在那，时间必会把我们遗忘，悲伤不再走近你我身旁。 
 
 Soon far from the rose and the lily and fret of the
 flames would we be,
 
-很快，远离百合与玫瑰，还有光焰的纷扰， 
+很快，我们便会远离百合与玫瑰，远离光焰的烦扰， 
 
 Were we only white birds, my beloved, buoyed out on
 the foam of the sea!
 
-亲爱的，一同在浪花上起舞，我们会是一对白鸟！
+只要我们是一对白鸟，亲爱的，被海上的浮沫轻轻托着飘去！
 
 <br /> 自译，2025年11月30日 香港
 
