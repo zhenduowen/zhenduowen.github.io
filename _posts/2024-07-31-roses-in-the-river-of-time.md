@@ -207,7 +207,7 @@ and flee;
 And the flame of the blue star of twilight, hung low
 on the rim of the sky,
 
-而低垂在暮色天际，那蓝星的焰光， 
+而低垂在天际的，暮色蓝星的焰光， 
 
 Has awaked in our hearts, my beloved, a sadness that
 may not die.
@@ -217,7 +217,7 @@ may not die.
 A weariness comes from those dreamers, dew-dabbled,
 the lily and rose;
 
-倦意来自那些梦者——那些沾着露水的百合与玫瑰； 
+一股倦意来自那些梦者——那些沾着露水的百合与玫瑰； 
 
 Ah, dream not of them, my beloved, the flame of the
 meteor that goes,
@@ -252,7 +252,7 @@ flames would we be,
 Were we only white birds, my beloved, buoyed out on
 the foam of the sea!
 
-只要我们是一对白鸟，亲爱的，被海上的浮沫轻轻托着飘去！
+亲爱的，一同被海沫托着飘去，只要我们是一对白鸟！
 
 <br /> 自译，2025年11月30日 香港
 
@@ -268,10 +268,6 @@ the foam of the sea!
 - 达南神族，即[图哈德达南（Tuatha Dé Danann）](https://www.wikiwand.com/zh-hans/articles/%E5%9C%96%E5%93%88%E5%BE%B7%E9%81%94%E5%8D%97)，基督教传入之前的盖尔爱尔兰的神祇，凯尔特人神话中的先驱。
 
     > Dannans (fictional) 达南: In a specific fictional universe, the "Dannans" were a race of immortals who ruled before humans and were eventually extinguished. 
-
-- `buoyed out`大概或是水底有一个气球，松开固定物后上浮并腾出水面的动态。心理上也表示欢腾的感受。思索之后翻译成“起舞”。
-
-- （10）的原文似乎更加被动，但是我很想翻译成这样，尤其是想到海面上飞翔的白鸟。
 -->
 
 ****
@@ -341,11 +337,11 @@ And hid his face amid a crowd of stars.
 
 For these red lips, with all their mournful pride,
 
-那些红唇，连同它哀悼着的高傲，
+那些红唇，连同它们满含哀悼的傲意，
 
 Mournful that no new wonder may betide,
 
-哀悼着奇迹，就此绝迹，
+哀悼着此后，奇迹不再降临，
 
 Troy passed away in one high funeral gleam,
 
@@ -395,7 +391,7 @@ Before her wandering feet.
 
 铺在她漫游的脚步前。
 
-<br /> 自译，2025年12月7日 香港
+<br /> 自译，2025年12月6日 香港
 
 <!-- 
 
