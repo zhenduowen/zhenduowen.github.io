@@ -13,3 +13,65 @@ div.scroll > .highlight {
     overflow-y: auto;
     height: 400px;
 }
+
+#manual-sidebar-toggle {
+    display: none;
+}
+
+@media (min-width: 992px) {
+    #sidebar,
+    #main-wrapper,
+    #manual-sidebar-toggle {
+        transition:
+            left 0.25s ease,
+            margin-left 0.25s ease,
+            transform 0.25s ease;
+    }
+
+    #manual-sidebar-toggle {
+        position: fixed;
+        z-index: 20;
+        top: 50%;
+        left: 244px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 2rem;
+        height: 2.5rem;
+        padding: 0;
+        border: 1px solid var(--sidebar-border-color);
+        border-left: 0;
+        border-radius: 0 0.5rem 0.5rem 0;
+        color: var(--sidebar-btn-color);
+        background-color: var(--sidebar-btn-bg);
+        box-shadow: var(--main-wrapper-bg, transparent) 0 0 0 1px;
+        transform: translateY(-50%);
+    }
+
+    #manual-sidebar-toggle:hover {
+        color: var(--sidebar-active-color);
+        background-color: var(--sidebar-hover-bg);
+    }
+
+    body.manual-sidebar-collapsed #sidebar {
+        transform: translateX(-260px);
+    }
+
+    body.manual-sidebar-collapsed #main-wrapper {
+        margin-left: 0;
+    }
+
+    body.manual-sidebar-collapsed #manual-sidebar-toggle {
+        left: 0;
+    }
+}
+
+@media (min-width: 1650px) {
+    #manual-sidebar-toggle {
+        left: 284px;
+    }
+
+    body.manual-sidebar-collapsed #sidebar {
+        transform: translateX(-300px);
+    }
+}

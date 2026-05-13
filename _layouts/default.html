@@ -32,6 +32,16 @@ layout: compress
 
   <body>
     {% include sidebar.html lang=lang %}
+    <button
+      type="button"
+      id="manual-sidebar-toggle"
+      class="btn btn-link"
+      aria-label="Hide sidebar"
+      aria-expanded="true"
+      aria-controls="sidebar"
+    >
+      <i class="fas fa-angle-left" aria-hidden="true"></i>
+    </button>
 
     <div id="main-wrapper" class="d-flex justify-content-center">
       <div class="container d-flex flex-column px-xxl-5">
@@ -96,5 +106,33 @@ layout: compress
     {% endfor %}
 
     {% include_cached search-loader.html lang=lang %}
+
+    <script>
+      (() => {
+        const toggle = document.getElementById('manual-sidebar-toggle');
+        const icon = toggle?.querySelector('i');
+        const storageKey = 'manual-sidebar-collapsed';
+
+        if (!toggle || !icon) {
+          return;
+        }
+
+        const setCollapsed = (collapsed) => {
+          document.body.classList.toggle('manual-sidebar-collapsed', collapsed);
+          toggle.setAttribute('aria-expanded', String(!collapsed));
+          toggle.setAttribute('aria-label', collapsed ? 'Show sidebar' : 'Hide sidebar');
+          icon.classList.toggle('fa-angle-left', !collapsed);
+          icon.classList.toggle('fa-angle-right', collapsed);
+        };
+
+        setCollapsed(localStorage.getItem(storageKey) === 'true');
+
+        toggle.addEventListener('click', () => {
+          const collapsed = !document.body.classList.contains('manual-sidebar-collapsed');
+          setCollapsed(collapsed);
+          localStorage.setItem(storageKey, String(collapsed));
+        });
+      })();
+    </script>
   </body>
 </html>
