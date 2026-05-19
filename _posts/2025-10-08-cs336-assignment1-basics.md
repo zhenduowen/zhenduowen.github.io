@@ -129,31 +129,67 @@ To achieve such scheme, [Sennrich et al [2016]](https://aclanthology.org/P16-116
 #### Training BPE Tokenizers
 
 The training procedure consists of three steps:
-- **Initialization** The tokenizer vocabulary is a bijective mapping from bytestring token to integer ID. For byte level BPE tokenizer, the initial vocabulary is simply the set of all 256 bytes.
+- **Initialization** The tokenizer vocabulary is a bijective mapping from bytestring token to integer ID. For byte level BPE tokenizer, the initial vocabulary is simply the set of all 256 bytes. It contains all possible single-byte values. 
+  - A byte have 256 possible values: `0x00, 0x01, ..., 0x7F, 0x80, ..., 0xFF` The ASCII compatible part is `0x00 to 0x7F`, which is 128 values contains English letters, digits, punctuations, spaces, newline, and control characters. The remaining byte values `0x80 to 0xFF` are not ASCII characters by themselves. In UTF-8 they are used as part of multi-byte encodings for non-ASCII characters. For example, `我 → e6 88 91`.
+  - **Special tokens** Often, some strings like `<|endoftext|>` are used to encode metadata like boundaries between files. These special tokens should never be split into multiple tokens. Special tokens are often added to the vocabulary in the initialization.
 - **Pre-tokenization** Going through the entire text corpus each time we want to merge some bytes can be computationally expensive. Also, directly merging tokens across the corpus may result in tokens that differ only in punctuation, as BPE merges frequent adjacent byte pairs purely by frequency, not by semantic meaning. For example, suppose the corpus contains many examples like:
-```plain
-dog.
-dog!
-dog?
-```
-If we directly run BPE over the whole byte stream, the algorithm may see these frequent adjacent pairs:
-```plain
-d o
-do g
-dog .
-dog !
-dog ?
-```
-These are different byte strings, so they receive different token IDs:
-```plain
-"dog." → token ID 1057
-"dog!" → token ID 3092
-"dog?" → token ID 8271
-```
-To avoid this, we *pre-tokenize* the corpus by manually splitting the text into meaningful pieces. A naive approach can be splitting by spaces, like `I love dogs!` to `["I", " love", " dogs", "!"]`. Suppose the word `dogs` appear 10 times, we can directly add character pair frequences with `(d,o) += 10, (o,g) += 10, (g,s) += 10`, which makes character pairs counting more efficient.
+    ```plain
+    dog.
+    dog!
+    dog?
+    ```
+    If we directly run BPE over the whole byte stream, the algorithm may see these frequent adjacent pairs:
+    ```plain
+    d o
+    do g
+    dog .
+    dog !
+    dog ?
+    ```
+    These are different byte strings, so they receive different token IDs:
+    ```plain
+    "dog." → token ID 1057
+    "dog!" → token ID 3092
+    "dog?" → token ID 8271
+    ```
+    To avoid this, we *pre-tokenize* the corpus by manually splitting the text into meaningful pieces. A naive approach can be splitting by spaces, like `I love dogs!` to `["I", " love", "dogs", "!"]`. Suppose the word `dogs` appear 10 times, we can directly add character pair frequence with `(d,o) += 10, (o,g) += 10, (g,s) += 10`, which makes character pairs counting more efficient.
 
-In GPT-2 (and in this assignment), regex-based pre-tokenizer is applied [Radford et al., 2019](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) from `github.com/openai/tiktoken/pull/234/files:`1
-```python
-# split by contractions | words | numbers | punctuation | trailing spaces | other spaces
-PAT = r"""'(?:[sdmt]|ll|ve|re)| ?\p{L}+| ?\p{N}+| ?[^\s\p{L}\p{N}]+|\s+(?!\S)|\s+"""
-```
+    In GPT-2 (and in this assignment), regex-based pre-tokenizer is applied. See [Radford et al., 2019](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) from `github.com/openai/tiktoken/pull/234/files:`
+    ```python
+    # split by contractions | words | numbers | punctuation | trailing spaces | other spaces
+    PAT = r"""'(?:[sdmt]|ll|ve|re)| ?\p{L}+| ?\p{N}+| ?[^\s\p{L}\p{N}]+|\s+(?!\S)|\s+"""
+    ```
+
+- **Compute BPE Merges** After splitting text into pre-tokens, each pre-token is represented as a sequence of UTF-8 Bytes. The BPE Algorithm then iteratively counts every pair of bytes, merges the most frequent pairs, and add to the vocabulary.
+
+    - We **do not consider pairs across the pre-token boundaries**. If we broke `dog.` into `dog` + `.` in pre-tokenization, then such a scheme means that `g` will never merge with the `.`. And when `dog` appear enough times, this word will be added to the vocabulary.
+
+### Experimenting with BPE Tokenizer Training
+
+Now we train a byte-level BPE tokenizer on the [TinySories dataset](https://huggingface.co/datasets/roneneldan/TinyStories). For local tests, use the validation set for debugging.
+
+#### Notes before coding
+Before jumping into implementation, a few things to keep in mind:
+- **Profiling** Use profiling tools to identify the bottlenecks in our implementation. For this assignment, built-in deterministic profiler `cProfile` is recommended.
+- **Parallelizing pre-tokenization** A major bottleneck is the pre-tokenization step. We can chuck the corpus by the location of the special token indicating end of the document (the chunking is always valid, as we never want to merge across document boundaries), and use the built-in library `multiprocessing`. The chunking does not need to be perfect and there will be edge cases of receiving a very large corpus that does not contain `<|endoftext|>`.
+- **Remove special token before pre-tokenization** Before running pre-tokenization with the regex pattern, we should strip out all special tokens from the corpus. For example, if you have a corpus (or chunk) like `[Doc 1]<|endoftext|>[Doc 2]`, you should split on the special token `<|endoftext|>`, and pre-tokenize `[Doc 1]` and `[Doc 2]` separately, so that no merging can occur across the document boundary.
+    > A naive idea to split by `<|endoftext|>` is to use `parts = re.split("<|endoftext|>", text)`. But this is **wrong** because in regex, `|` means OR. The regex pattern `<|endoftext|>` means (roughly) `< OR endoftext OR >`, it says here may split on `<`, `endoftext`, or `>` separately. To treat the special token literally, use `re.escape`:
+
+    ```python
+    import re
+
+    text = "[Doc 1]<|endoftext|>[Doc 2]"
+    special_tokens = ["<|endoftext|>", "<|pad|>"]
+
+    escaped_tokens = [re.escape(tok) for tok in special_tokens] # | is escaped
+    delimiter = "|".join(escaped_tokens) # here "|" means OR, combine multiple escaped tokens into one regex pattern.
+
+    parts = re.split(delimiter, text)
+    print(parts)
+    ```
+- **Adaptive merging** A naive implementation of BPE training iterates over all byte pairs to identify the most frequent pair. Note that the only pair counts changes after each merge are those that overlap with the merged pair. This is also why this merging step cannot be easily parallelized: Thread 2's work is depended on the result of Thread 1's work.
+  > A remark here is that in CPython, the standard Python implementation, there is **Global Interpreter Lock(GIL)**. It means that, within one Python process, only one thread at a time is allowed to execute Python bytecode. Conceptually, even if we create four threads, the GIL means that they take turns to executing Python bytecode.
+
+#### Detailed Implementation
+
+Problem descriptions are in <a href="{{ site.baseurl }}/assets/files/notes/cs336_spring2025_assignment1_basics.pdf">Assignment 1: Section 2.5 and 2.6</a>
