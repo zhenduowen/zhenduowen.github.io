@@ -9,9 +9,9 @@ published: true
 ---
 ## Preliminaries
 
-- The repository contains the assignment templates: [https://github.com/stanford-cs336/assignment1-basics#](https://github.com/stanford-cs336/assignment1-basics#)
+- My repository forked from the course: [https://github.com/zhenduowen/cs336-assignment1-basics](https://github.com/zhenduowen/cs336-assignment1-basics)
 
-- <a href="{{ site.baseurl }}/assets/files/notes/cs336_spring2025_assignment1_basics.pdf">The problem descriptions for Assignment 1 can also be found here.</a> Fork their GitHub repository and clone it.
+- <a href="{{ site.baseurl }}/assets/files/notes/cs336_spring2025_assignment1_basics.pdf">The problem descriptions for Assignment 1 can also be found within this Blog.</a>
 
 - For setting up a local environment, [another post]({{ site.baseurl }}/posts/windows-sub-linux/) may be useful.
 
@@ -40,7 +40,7 @@ For further reading about the features of `uv`, see [https://docs.astral.sh/uv/g
 - `/tests/` includes all the unit tests, and `adapters.py` connects these unit tests with our implementations in `/cs336_basics/`. `pyproject.toml` is the `uv` project file that contains all the dependencies needed for this project. To run the tests, first use `uv` to set up the dependencies, and then run `uv run pytest`. If a corresponding unit has not been implemented, a `NotImplementedError` will be raised.
 - Create a `/data/` folder. `TinyStoriesV2-GPT4.txt` (training and validation) can be found [here](https://huggingface.co/datasets/roneneldan/TinyStories/tree/main), and `owt.txt` (training and validation) can be found [here](https://huggingface.co/datasets/stanford-cs336/owt-sample/tree/main). Download the datasets to `/data/`. Add this folder to `.gitignore` so that Git ignores the datasets.
 
-I am following the spring 2025 version of assignment 1. Assignment 1 does not change much from 2025 to 2026.
+I am following the spring 2025 version of assignment 1.
 
 ## Byte-Pair Encoding Tokenizer
 
@@ -152,7 +152,9 @@ The training procedure consists of three steps:
     "dog!" → token ID 3092
     "dog?" → token ID 8271
     ```
-    To avoid this, we *pre-tokenize* the corpus by manually splitting the text into meaningful pieces. A naive approach can be splitting by spaces, like `I love dogs!` to `["I", " love", "dogs", "!"]`. Suppose the word `dogs` appear 10 times, we can directly add character pair frequence with `(d,o) += 10, (o,g) += 10, (g,s) += 10`, which makes character pairs counting more efficient.
+    To avoid this, we *pre-tokenize* the corpus by manually splitting the text into meaningful pieces. A naive approach can be splitting by spaces, like `I love dogs!` to `["I", " love", "dogs", "!"]`. 
+    
+    Pre-tokenization also improves efficiency in a simple way. Suppose the word `dogs` appear 10 times, we can directly add character pair frequence with `(d,o) += 10, (o,g) += 10, (g,s) += 10`, which makes character pairs counting more efficient.
 
     In GPT-2 (and in this assignment), regex-based pre-tokenizer is applied. See [Radford et al., 2019](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) from `github.com/openai/tiktoken/pull/234/files:`
     ```python
@@ -192,4 +194,38 @@ Before jumping into implementation, a few things to keep in mind:
 
 #### Detailed Implementation
 
-Problem descriptions are in <a href="{{ site.baseurl }}/assets/files/notes/cs336_spring2025_assignment1_basics.pdf">Assignment 1: Section 2.5 and 2.6</a>
+Problem descriptions are in <a href="{{ site.baseurl }}/assets/files/notes/cs336_spring2025_assignment1_basics.pdf">Assignment 1: Section 2.5 and 2.6</a> The code is available in my repo.
+
+A naive implementation of training BPE tokenizer is given in `bpe_tokenizer_naive.py`
+
+Run with `cProfile` over `TinyStoriesV2-GPT4-valid.txt` for local test gives the following diagnosis (only the first few lines):
+
+```terminal
+         1682860121 function calls (1682859884 primitive calls) in 198.862 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      6/1    0.000    0.000  198.862  198.862 {built-in method builtins.exec}
+        1    0.002    0.002  198.862  198.862 bpe_tokenizer_naive.py:1(<module>)
+        1   39.531   39.531  198.851  198.851 bpe_tokenizer_naive.py:8(train_bpe)
+127740473   61.590    0.000   94.428    0.000 bpe_tokenizer_naive.py:88(merge_pair)
+     9743   39.426    0.004   46.865    0.005 bpe_tokenizer_naive.py:79(get_pair_counts)
+877629679/877629665   23.034    0.000   23.034    0.000 {built-in method builtins.len}
+311084394   13.299    0.000   13.299    0.000 {method 'append' of 'list' objects}
+227410752   10.862    0.000   10.862    0.000 __init__.py:609(__missing__)
+15080/15079    5.588    0.000    8.495    0.001 {built-in method builtins.max}
+ 99657168    2.907    0.000    2.907    0.000 bpe_tokenizer_naive.py:112(<lambda>)
+ 27562412    1.735    0.000    1.735    0.000 bpe_tokenizer_naive.py:76(<genexpr>)
+  5419002    0.358    0.000    0.358    0.000 {method 'encode' of 'str' objects}
+  5419001    0.332    0.000    0.332    0.000 {method 'group' of '_regex.Match' objects}
+    27631    0.009    0.000    0.139    0.000 regex.py:340(finditer)
+    27633    0.029    0.000    0.122    0.000 regex.py:449(_compile)
+    55437    0.026    0.000    0.076    0.000 enum.py:1561(__and__)
+   166397    0.022    0.000    0.036    0.000 enum.py:1543(_get_value)
+    19487    0.016    0.000    0.018    0.000 __init__.py:595(__init__)
+        1    0.000    0.000    0.015    0.015 regex.py:314(split)
+```
+
+We can see that most time-consuming steps are `merge_pair()` and `get_pair_counts()`.
+
