@@ -8,7 +8,7 @@ order: 4
 
 **Email: wz124 [at] ie.cuhk.edu.hk**
 
-I grew up in a Sinopec oilfield community in [Henan Puyang](https://www.wikiwand.com/en/Puyang), a cozy little city on the north shore of the Yellow River. My hometown features four distinct seasons, with a golden autumn.
+<!-- I grew up in a Sinopec oilfield community in [Henan Puyang](https://www.wikiwand.com/en/Puyang), a cozy little city on the north shore of the Yellow River. My hometown features four distinct seasons, with a golden autumn. -->
 
 I am currently a second-year PhD student at the Department of Information Engineering in CUHK, where I have the privilege to be advised by [Prof. Amin Gohari](https://www.ie.cuhk.edu.hk/faculty/gohari-amin/). Prior to this, I earned my master's degree from the Department of Electrical and Computer Engineering at UC San Diego, where I worked with Prof. Alon Orlitsky. Before that, I graduated from the Department of Statistics at CUHK-Shenzhen with first-class honors in 2022.
 
