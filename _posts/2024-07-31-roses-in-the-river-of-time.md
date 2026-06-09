@@ -106,6 +106,8 @@ hide_from_recently_updated: true
 
 ## 莱纳·玛利亚·里尔克
 
+*Rainer Maria Rilke*
+
 <br />
 
 **秋日** 里尔克
@@ -164,7 +166,253 @@ hide_from_recently_updated: true
 
 ****
 
+## 罗伯特·弗罗斯特
+*Robert Frost*
+<br/> 
+
+**The Road Not Taken 未走的路** 弗罗斯特
+
+<br /> Two roads diverged in a yellow wood,
+
+金黄的树林中岔开两条路，
+
+And sorry I could not travel both
+
+很遗憾我是孤身旅行
+
+And be one traveler, long I stood
+
+不能两条都走，我久久驻足
+
+And looked down one as far as I could
+
+沿着其中的一条极目望向深处
+
+To where it bent in the undergrowth;
+
+直到它拐进了灌木丛；
+
+<br/> Then took the other, as just as fair,
+
+然后走上另一条，它同样适合，
+
+And having perhaps the better claim,
+
+也许选择它是更好的主张，
+
+Because it was grassy and wanted wear;
+
+因为它杂草丛生，需要踩磨；
+
+Though as for that, the passing there
+
+不过说到这一点，过路者
+
+Had worn them really about the same,
+
+踩磨它们的程度差不多一样，
+
+<br/> And both that morning equally lay
+
+而那天早上两条路同样安卧于
+
+In leaves no step had trodden black.
+
+落叶之下，还没有脚步来踩黑。
+
+Oh, I kept the first for another day!
+
+哦，我把第一条路留待他日！
+
+Yet knowing how way leads on to way,
+
+不过明白了路和路如何相联系，
+
+I doubted if I should ever come back.
+
+我怀疑自己是否还会返回。
+
+<br/> I shall be telling this with a sigh
+
+很久很久以后在某处
+
+Somewhere ages and ages hence:
+
+我将旧事重提，一声叹息：
+
+Two roads diverged in a wood, and I——
+
+两条路在树林中岔开，而我——
+
+I took the one less traveled by,
+
+我选择了少有人走的那条路，
+
+And that has made all the difference
+
+这造成了此后所有的差异。
+
+<br /> 雷格 译
+
+<br/> 
+
+**Looking for a Sunset Bird in Winter 冬日黄昏寻鸟** 弗罗斯特
+
+<br/> The west was getting out of gold,
+
+西天的金色正在消散，
+
+The breath of air had died of cold,
+
+新鲜的空气已凝止于严寒，
+
+When shoeing home across the white,
+
+穿过白雪走回家的时刻，
+
+I thought I saw a bird alight.
+
+我想我看见了一只鸟飞落。
+
+<br/> In summer when I passed the place,
+
+夏日里每次经过这个地方，
+
+I had to stop and lift my face;
+
+我都会停下来仰起脸庞；
+
+A bird with an angelic gift
+
+一只天赋异秉的鸟
+
+Was singing in it sweet and swift.
+
+正在树上歌唱，轻快美妙。
+
+<br/> No bird was singing in it now.
+
+现在树上没有鸟在唱。
+
+A single leaf was on a bough,
+
+一片孤叶挂在粗枝上，
+
+And that was all there was to see
+
+绕树走了两圈，那就是
+
+In going twice around the tree.
+
+这里全部可看的东西。
+
+<br/> From my advantage on a hill
+
+在山丘上凭高俯瞰，
+
+I judged that such a crystal chill
+
+我判断如此晶莹的严寒
+
+Was only adding frost to snow
+
+不过是雪上再加霜，
+
+As gilt to gold that wouldn't show.
+
+仿佛金上镀金，并不显扬。
+
+<br/> A brush had left a crooked stroke
+
+一支画笔留下弯弯的一划，
+
+Of what was either cloud or smoke
+
+要么是云，要么是烟霞，
+
+From north to south across the blue;
+
+从北到南横过蔚蓝；
+
+A piercing little star was through.
+
+一颗锐利小星划过。
+
+<br/> 雷格 译 有改动
+
+<br/> 
+
+**Stopping by Woods on a Snowy Evening 雪夜林边小驻** 弗罗斯特
+
+<br/> Whose woods these are I think I know.
+
+我想我认得这片树林的主人
+
+His house is in the village, though;
+
+不过 他的房子远在村里
+
+He will not see me stopping here
+
+他不会看到我在此驻足
+
+To watch his woods fill up with snow.
+
+看着大雪笼罩他的树林
+
+<br/> My little horse must think it queer
+
+我的小马一定觉得怪极了
+
+To stop without a farmhouse near
+
+四下渺无人烟
+
+Between the woods and frozen lake
+
+停留在树林与结冰的湖之间
+
+The darkest evening of the year.
+
+一年中最漆黑的夜
+
+<br/> He gives his harness bells a shake
+
+它摇了摇颈上的铃铛
+
+To ask if there is some mistake.
+
+询问是不是搞错了地方
+
+The only other sound's the sweep
+
+仅有的回答
+
+Of easy wind and downy flake.
+
+是微风扫动那鹅毛般的雪花
+
+<br/> *The woods are lovely, dark, and deep,*
+
+*树林幽暗深邃，引人爱怜*
+
+*But I have promises to keep,*
+
+*可我有约在先*
+
+*And miles to go before I sleep,*
+
+*今夜睡前还要赶几里路*
+
+*And miles to go before I sleep.*
+
+*今夜睡前还要赶几里路*
+
+<br /> （结合傅浩译本改动）
+****
+
 ## 特朗斯特罗默
+*Tomas Tranströmer*
 
 
 **写于1966年解冻** 特朗斯特罗默
@@ -698,6 +946,8 @@ Slouches towards Bethlehem to be born?
 
 **** -->
 
+
+
 ## 北岛
 
 <br />
@@ -1118,7 +1368,7 @@ Slouches towards Bethlehem to be born?
 
 <!-- ## 刘森 -->
 
-**过去来的人** 刘森
+<!-- **过去来的人** 刘森
 
 <br />昨夜幻想无端生海浪
 
@@ -1176,7 +1426,10 @@ Slouches towards Bethlehem to be born?
 
 它带我穿过盆地阴雨天
 
-让蜀道不再难
+让蜀道不再难 -->
+
+****
+##
 
 ****
 
