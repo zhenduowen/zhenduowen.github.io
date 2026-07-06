@@ -5,7 +5,7 @@ author: Zhenduo
 categories: [Literature, Poetry]
 tags: [Literature, Poetry, 现代诗歌]
 hide_from_recently_updated: true
-published: false
+published: true
 ---
 &nbsp; \
 &nbsp; \
@@ -371,15 +371,15 @@ To stop without a farmhouse near
 
 Between the woods and frozen lake
 
-停留在树林与结冰的湖之间
+在树林与结冰的湖之间
 
 The darkest evening of the year.
 
-一年中最漆黑的夜
+在一年中最漆黑的夜
 
 <br/> He gives his harness bells a shake
 
-它摇了摇颈上的铃铛
+它摇了摇脖颈上的铃铛
 
 To ask if there is some mistake.
 
@@ -391,11 +391,11 @@ The only other sound's the sweep
 
 Of easy wind and downy flake.
 
-是微风扫动那鹅毛般的雪花
+是微风扫动鹅毛般的雪花
 
 <br/> *The woods are lovely, dark, and deep,*
 
-*树林幽暗深邃，引人爱怜*
+*树林深邃，引人爱怜*
 
 *But I have promises to keep,*
 
@@ -403,13 +403,13 @@ Of easy wind and downy flake.
 
 *And miles to go before I sleep,*
 
-*今夜睡前还要赶几里路*
+*今夜睡前还有路要赶*
 
 *And miles to go before I sleep.*
 
-*今夜睡前还要赶几里路*
+*今夜睡前还有路要赶*
 
-<br /> （结合傅浩译本改动）
+<br /> （自译）
 
 ****
 
