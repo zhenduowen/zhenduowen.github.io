@@ -9,6 +9,18 @@
 ';
 
 /* append your custom style below */
+/* Chirpy removes the <pre> wrapper when adding a code header. Restore the
+ * whitespace and inset that <pre> normally supplies. */
+div[class^='language-'] > .highlight > code {
+    display: block;
+    padding: 1rem 1.5rem;
+    font-size: 0.85rem;
+    line-height: 1.4rem;
+    white-space: pre;
+    word-break: normal;
+    word-wrap: normal;
+}
+
 div.scroll > .highlight {
     overflow-y: auto;
     height: 400px;

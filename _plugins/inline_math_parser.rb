@@ -2,11 +2,11 @@
 
 # Kramdown only treats $$...$$ as math. Add protected $...$ inline math so
 # Markdown never consumes TeX escapes (for example \{) or table pipes (|).
-require "kramdown/parser/kramdown"
+require "kramdown-parser-gfm"
 
 module Kramdown
   module Parser
-    class InlineMathKramdown < Kramdown
+    class InlineMathKramdown < GFM
       INLINE_DOLLAR_MATH_START = /(?<!\\)(?<!\$)\$(?!\$)(?!\s)((?:\\.|[^$\n])*?\S)\$(?!\$)/
 
       def initialize(source, options)

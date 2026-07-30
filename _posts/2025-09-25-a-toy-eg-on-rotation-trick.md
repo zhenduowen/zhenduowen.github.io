@@ -105,7 +105,7 @@ There is a generalization of this theorem which says that *If 2 linear forms on 
 
 Let $Y = X + Z$ where $Z$ is Gaussian and independent of $X$. The goal is to maximize the differential entropy of $h(Y)$ given that $E(X^2) \leq P$. Since this is optimization of a continuous function over compact space, we can assume that the optimizer exists.
 
-Let $X^\*$ be the maximizer, $v = h(X^\* + Z)$. Take two independent copies of $X^\*$ and denote them as $X_a, X_b$. Take two independent copies of $Z$ and denote them as $Z_a, Z_b$. Then we have, by independence, $h(X_a + Z_a, X_b + Z_b) = 2v$.
+Let $X^*$ be the maximizer, $v = h(X^* + Z)$. Take two independent copies of $X^*$ and denote them as $X_a, X_b$. Take two independent copies of $Z$ and denote them as $Z_a, Z_b$. Then we have, by independence, $h(X_a + Z_a, X_b + Z_b) = 2v$.
 
 Create two rotated versions:
 

@@ -166,7 +166,9 @@ kramdown:
     span:
       line_numbers: false
     block:
-      line_numbers: true
+      # Chirpy refactors highlighted blocks; Rouge's table-based line numbers
+      # would make that HTML invalid.
+      line_numbers: false
       start_line: 1
 
 collections:

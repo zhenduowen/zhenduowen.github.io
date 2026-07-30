@@ -9,7 +9,7 @@ tags: [Linear Algebra, Positive Semidefinite Matrices]
 
 
 
-**Definition. (Positive Matrices)** A linear operator $T$ is said to be positive (denoted by $T \succeq 0$) if $\langle Tx, x \rangle \geq 0 $ for all $x$ in the Hilbert space.
+**Definition. (Positive Matrices)** A linear operator $T$ is said to be positive (denoted by $T \succeq 0$) if $\langle Tx, x \rangle \geq 0$ for all $x$ in the Hilbert space.
 
 
 
@@ -74,15 +74,15 @@ $$
 \| f(A) - f(B) \| \leq f(\| A - B \|)
 $$
 
-where $\\| \cdot \\|$ is the spectral norm.
+where $\| \cdot \|$ is the spectral norm.
 
 *Proof.*
 
-In the scalar case, w.l.o.g assume $a > b > 0$, then the desired inequality is equivalent to $f(a) \leq f(a - b) + f(b)$. This is implied by concavity as $f(a) \leq \frac{a-b}{a} f(a) + \frac{b}{a}f(a) \leq f(\frac{a-b}{a} a) + f(\frac{b}{a}a) $, the last inequality comes from Jensen's inequality and $f(0) = 0$.
+In the scalar case, w.l.o.g assume $a > b > 0$, then the desired inequality is equivalent to $f(a) \leq f(a - b) + f(b)$. This is implied by concavity as $f(a) \leq \frac{a-b}{a} f(a) + \frac{b}{a}f(a) \leq f(\frac{a-b}{a} a) + f(\frac{b}{a}a)$, the last inequality comes from Jensen's inequality and $f(0) = 0$.
 
-Then, consider $A \prec B + \\| A - B\\| I$, note that $ B , \\| A - B\\| I$ commute. Thus, they are simultaneously diagonalizable. Functions on these two operators can then be defined as functions over the diagonal entries. Thus, we have $f( B + \\| A - B\\| I) \preceq  f(B) + f(\\| A - B\\| I)$.
+Then, consider $A \prec B + \| A - B\| I$, note that $ B , \| A - B\| I$ commute. Thus, they are simultaneously diagonalizable. Functions on these two operators can then be defined as functions over the diagonal entries. Thus, we have $f( B + \| A - B\| I) \preceq  f(B) + f(\| A - B\| I)$.
 
-The last step is $f(\\| A - B\\| I) = f(\\| A - B\\|) \otimes I$. Now we have the result
+The last step is $f(\| A - B\| I) = f(\| A - B\|) \otimes I$. Now we have the result
 
 $$
 f(A) - f(B) \preceq f(\| A - B\|) \otimes I,

@@ -19,6 +19,7 @@ Just for some command lines like `wget` to be available.
 Go to [Anaconda](https://www.anaconda.com/download/success) and download Miniconda (Only Conda and Python). 
 
 Add `conda` to `PATH` or simply use conda prompt.
+
 ```powershell
 setx PATH "%PATH%;C:\Anaconda3;C:\Anaconda3\Scripts\"
 

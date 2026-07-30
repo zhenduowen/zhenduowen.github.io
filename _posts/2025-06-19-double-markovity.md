@@ -81,16 +81,16 @@ $$
 
 Now immediately we have $P_{U \mid i=1} \neq P_{U \mid i=2}$ only if $P_{x_1, y_2} = P_{x_2, y_1} = 0$, which seperate the two colors. Conversely, if $P_{x_1, y_2} \neq 0, P_{x_2, y_1} \neq 0$, then $P_{U \mid i=1} = P_{U \mid i=2}$.
 
-Now for values of $P_{U \| i}$, we remove redundancy in $i$ so that each $P_{U \mid i}$ corresponds to a unique $i^\*$, denote them as $P_{U \mid i^\*}$.
+Now for values of $P_{U \| i}$, we remove redundancy in $i$ so that each $P_{U \mid i}$ corresponds to a unique $i^*$, denote them as $P_{U \mid i^*}$.
 
 
-Let the function $f(x) = i^\*$ such that $P_{U \mid x} = P_{U \mid i^\*}$. This gives $U \rightarrow f(X) \rightarrow X$. Note that for all $y \in \mathcal Y$, $P_{U \mid x,y} = P_{U \mid x} = P_{U \mid i^\*}$, thus we have $U \rightarrow f(X) \rightarrow Y$. WLOG, one can use a similar manner to define $g(y)$.
+Let the function $f(x) = i^*$ such that $P_{U \mid x} = P_{U \mid i^*}$. This gives $U \rightarrow f(X) \rightarrow X$. Note that for all $y \in \mathcal Y$, $P_{U \mid x,y} = P_{U \mid x} = P_{U \mid i^*}$, thus we have $U \rightarrow f(X) \rightarrow Y$. WLOG, one can use a similar manner to define $g(y)$.
 
 &nbsp;<span style="float: right;">■</span>
 
 *Remark.*
 
-1. If $X,Y$ have full support, that is, for all $x \in \mathcal X, y \in \mathcal Y$, $p(x,y) \neq 0$, then immediately we have $P_{U \mid i=1} = P_{U \mid i=2} = \cdots$. There is only one $i^\*$ and $P_{U \mid i^\*} = P_U$, which gives $U \perp X,Y$. This is a major application of this theorem: establishing independency in some Bayesian Networks.
+1. If $X,Y$ have full support, that is, for all $x \in \mathcal X, y \in \mathcal Y$, $p(x,y) \neq 0$, then immediately we have $P_{U \mid i=1} = P_{U \mid i=2} = \cdots$. There is only one $i^*$ and $P_{U \mid i^*} = P_U$, which gives $U \perp X,Y$. This is a major application of this theorem: establishing independency in some Bayesian Networks.
 
 2. $f(X), g(Y)$ we found in this way is Gacs-Korner common information between $X$ and $Y$. Intuitively, everything $Y$ has that can help in decoding $X$ is contained in $f(X)$.
 

@@ -45,12 +45,12 @@ The process of moving mass can be visualized using the following table.
 
 
 
-|$\lbrace X,Y,Z\rbrace$ | $\lbrace X,Y\rbrace$ | $\lbrace Y,Z\rbrace$ | $\lbrace X,Z\rbrace$ | $\lbrace X\rbrace$ | $\lbrace Y\rbrace$ | $\lbrace Z\rbrace$ | $\phi$ |
-|---|---|---|---|---|---|---|---|
-| $0$ | $2$ | $2$ | $2$ | $0$ | $0$ | $0$ | $0$ |
-| $1$ | $2$ | $1$ | $1$ | $0$ | $0$ | $1$ | $0$ |
-| $2$ | $1$ | $0$ | $1$ | $0$ | $1$ | $1$ | $0$ |
-| $3$ | $0$ | $0$ | $0$ | $1$ | $1$ | $1$ | $0$ |
+| $\lbrace X,Y,Z\rbrace$ | $\lbrace X,Y\rbrace$ | $\lbrace Y,Z\rbrace$ | $\lbrace X,Z\rbrace$ | $\lbrace X\rbrace$ | $\lbrace Y\rbrace$ | $\lbrace Z\rbrace$ | $\phi$ |
+| ---------------------- | -------------------- | -------------------- | -------------------- | ------------------ | ------------------ | ------------------ | ------ |
+| $0$                    | $2$                  | $2$                  | $2$                  | $0$                | $0$                | $0$                | $0$    |
+| $1$                    | $2$                  | $1$                  | $1$                  | $0$                | $0$                | $1$                | $0$    |
+| $2$                    | $1$                  | $0$                  | $1$                  | $0$                | $1$                | $1$                | $0$    |
+| $3$                    | $0$                  | $0$                  | $0$                  | $1$                | $1$                | $1$                | $0$    |
 
 
 
@@ -73,7 +73,7 @@ The result of a finite sequence of elementary compressions of $\lbrace\alpha_T\r
 
 &nbsp;<span style="float: right;">■</span>
 
-The requirement of $A \nsubseteq B$ and $B \nsubseteq A $ comes from that when we trace back to union and intersections of $A$ and $B$, we do not get $A,B$ themselves. And $0 \leq \delta \leq \min(\alpha_A, \alpha_B)$ just means that the most we can move is whatever we have at hand.
+The requirement of $A \nsubseteq B$ and $B \nsubseteq A$ comes from that when we trace back to union and intersections of $A$ and $B$, we do not get $A,B$ themselves. And $0 \leq \delta \leq \min(\alpha_A, \alpha_B)$ just means that the most we can move is whatever we have at hand.
 
 Note that the relationship of "is a compression of" yields a partial order on the collection of n-fractional multiset. One may refer to:
 > Balister, P. and B. Bollobás (2012, Mar). Projections, entropy and sumsets. Combinatorica 32(2), 125–141.
