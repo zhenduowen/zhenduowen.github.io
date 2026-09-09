@@ -47,14 +47,14 @@ I am following the spring 2025 version of assignment 1.
 ### Unicode Standard and UTF-8 Encoding
 
 #### Intro and Example
-Unicode Standard gives every character a unique number called a **code point**.
+Unicode Standard gives every character a unique number called **code point**.
 
 ```plain
 A        → U+0041
 中       → U+4E2D
 😊       → U+1F60A
 ```
-It is not practical to train tokenizers on Unicode code points, the vocabulary would be too large (roughly 150K items in it) and sparse (a lot of rare characters). This is why `UTF-8` encoding was introduced.
+But it is not practical to train tokenizers on Unicode code points, the vocabulary would be too large (roughly 150K items in it) and sparse (a lot of rare characters). This is why `UTF-8` encoding was introduced:
 
 `UTF-8` is an encoding method on Unicode code points as bytes. The `8` stands for 1 byte which is 8 bits. The Unicode standard itself defines three encodings: `UTF-8`, `UTF-16`, and `UTF-32`. `UTF-8` is the most prevailing encoding for the Internet, used roughly in over 98% of web pages.
 
@@ -73,10 +73,10 @@ I      → 0x49
 space  → 0x20
 我     → 0xe6 0x88 0x91
 ```
-Since each byte value is an integer range 0 to 255, but number of codepoints are 154997. 
+Since each byte value is an integer range 0 to 255, the number of codepoints are 154997. 
 
 #### prefix-free and self-synchronizing
-A code point could use multiple bytes after encoding, like `我 : 0xe6 0x88 0x91`. Luckily, UTF-8 is **prefix-free** and **self-synchronizing**. Self-synchronizing means that even if one start reading a UTF-8 byte sequence from the middle, one can still recover the correct character boundaries. And prefix-free means that no encoding is the prefix of some other encodings. The following example explains these in details:
+A code point could take multiple bytes after encoding, like `我 : 0xe6 0x88 0x91`. UTF-8 is **prefix-free** and **self-synchronizing**. Self-synchronizing means that even if one start reading a UTF-8 byte sequence from the middle, one can still recover the correct character boundaries. And prefix-free means that no encoding is the prefix of some other encodings. The following example explains these in details:
 ```plain
 0xxxxxxx   = 1-byte character (for ASCII)
 110xxxxx   = start of a 2-byte character
@@ -118,13 +118,11 @@ Also, note that most training data is already stored in UTF-8.
 
 #### Intro
 
-The word ``token" means *something that represents or indicates something else*. Earlier when I was learning English, I encountered this word in a brief text explaining how languages are evolved. In the early days of civilizations, people use tokens to represents and record goods.
-
 Although byte-level tokenization can alleviate the issue of out-of-vocabulary, tokenizing texts by character results in extremely long input sequences. For example, a sentence with 10 words may only be 10 tokens in a word-level language model, but could be 50 or more tokens in a character-level model. 
 
 Subword tokenization is designed to balance such a mismatch. For character level tokenization, byte vocabulary has size 256. A subword tokenizer trades off a larger vocabulary size for better compressing the length of the input bytes sequence. For example, it would be good to add a particular token in the vocabulary for the word "the".
 
-To achieve such scheme, [Sennrich et al [2016]](https://aclanthology.org/P16-1162/) propose to use byte-pair encoding (BPE; Gage, 1994). This algorithm iteratively merges the most frequent pair of bytes with a new unused index. Tokenizers constructed in such a scheme are called **BPE tokenizers**. The process of building the BPE tokenizer vocabulary is call "training" the BPE tokenizer.
+To achieve such a scheme, [Sennrich et al [2016]](https://aclanthology.org/P16-1162/) propose to use byte-pair encoding (BPE). This algorithm iteratively *merges the most frequent pair of bytes with a new unused index*. Tokenizers constructed in such a scheme are called **BPE tokenizers**. The process of building the BPE tokenizer vocabulary is call "training" the BPE tokenizer.
 
 #### Training BPE Tokenizers
 

@@ -875,12 +875,1906 @@ Slouches towards Bethlehem to be born?
 
 ****
 
-<!-- ## 托马斯·斯特尔那斯·艾略特
+## 托马斯·斯特尔那斯·艾略特
 
 *Thomas Stearns Eliot*
 
+<br />
 
-**** -->
+<div style="font-size: 1.5em;"> The Waste Land</div> T. S. Eliot
+
+<br /> <br />
+
+*"Nam Sibyllam quidem Cumis ego ipse oculis meis*
+
+*vidi in ampulla pendere, et cum illi pueri dicerent:*
+
+*Σίβυλλα τί θέλεις; respondebat illa: ἀποθανεîν θέλω."*
+
+> *“因为我曾亲眼看见库迈的西比尔悬在一只瓶中；*
+>
+> *孩子们问她：‘西比尔，你想要什么？’*
+>
+> *她回答：‘我想死’。”*
+
+<br /> <br />
+
+<div align="right">
+For Ezra Pound
+</div>
+
+<div align="right">
+献给埃兹拉·庞德
+</div>
+
+<div align="right">
+<em>il miglior fabbro.</em>
+</div>
+
+<div align="right">
+<em>更高明的匠人</em>
+</div>
+
+<br /> <br />
+
+<div style="font-size: 1.3em;">
+<em>I. The Burial of the Dead</em>
+</div>
+
+<div align="right">
+<em>I. 死者葬仪</em>
+</div>
+
+<br /> <br />
+
+April is the cruellest month, breeding
+
+<div align="right">四月是最残酷的月份，催生</div>
+
+Lilacs out of the dead land, mixing
+
+<div align="right">丁香于死去的土地；混合</div>
+
+Memory and desire, stirring
+
+<div align="right">记忆与欲望，以春雨</div>
+
+Dull roots with spring rain.
+
+<div align="right">搅动麻木的根。</div>
+
+Winter kept us warm, covering
+
+<div align="right">冬天曾使我们温暖，以遗忘的雪</div>
+
+Earth in forgetful snow, feeding
+
+<div align="right">覆盖大地，用干枯的块茎</div>
+
+A little life with dried tubers.
+
+<div align="right">喂养一点点生命。</div>
+
+Summer surprised us, coming over the Starnbergersee
+
+<div align="right">夏天使我们吃了一惊，它从施塔恩贝格湖那边到来，</div>
+
+With a shower of rain; we stopped in the colonnade,
+
+<div align="right">挟着一阵骤雨；我们停在柱廊下，</div>
+
+And went on in sunlight, into the Hofgarten,
+
+<div align="right">随后走入阳光，穿过宫廷花园，</div>
+
+And drank coffee, and talked for an hour.
+
+<div align="right">喝了咖啡，交谈一个小时。</div>
+
+Bin gar keine Russin, stamm’ aus Litauen, echt deutsch.
+
+<div align="right">我根本不是俄国人；我来自立陶宛，是地道的德国人。</div>
+
+And when we were children, staying at the archduke’s,
+
+<div align="right">小时候，我们住在大公——</div>
+
+My cousin’s, he took me out on a sled,
+
+<div align="right">我表兄——家里，他带我出去坐雪橇，</div>
+
+And I was frightened. He said, Marie,
+
+<div align="right">我很害怕。他说：“玛丽，</div>
+
+Marie, hold on tight. And down we went.
+
+<div align="right">玛丽，抓紧。”我们便一路冲了下去。</div>
+
+In the mountains, there you feel free.
+
+<div align="right">在山里，人就觉得自由。</div>
+
+I read, much of the night, and go south in the winter.
+
+<div align="right">我常常读书直到深夜，冬天便去南方。</div>
+
+<br /> <br />
+
+What are the roots that clutch, what branches grow
+
+<div align="right">什么根还能抓住土壤，什么枝条能从</div>
+
+Out of this stony rubbish? Son of man,
+
+<div align="right">这片乱石垃圾中生长？人子啊，</div>
+
+You cannot say, or guess, for you know only
+
+<div align="right">你说不出，也猜不到，因为你所知道的只是</div>
+
+A heap of broken images, where the sun beats,
+
+<div align="right">一堆破碎的图像，烈日在其上灼打；</div>
+
+And the dead tree gives no shelter, the cricket no relief,
+
+<div align="right">死树不给荫蔽，蟋蟀不给慰藉，</div>
+
+And the dry stone no sound of water. Only
+
+<div align="right">干石也不传来水声。只有</div>
+
+There is shadow under this red rock,
+
+<div align="right">这块红岩下面有一片阴影，</div>
+
+(Come in under the shadow of this red rock),
+
+<div align="right">（进来吧，来到这块红岩的阴影下，）</div>
+
+And I will show you something different from either
+
+<div align="right">我会给你看一种不同于下面两者的东西，</div>
+
+Your shadow at morning striding behind you
+
+<div align="right">不是清晨大步跟在你身后的影子，</div>
+
+Or your shadow at evening rising to meet you;
+
+<div align="right">也不是黄昏时迎面走来的影子；</div>
+
+I will show you fear in a handful of dust.
+
+<div align="right">我要让你看见：一把尘土里的恐惧。</div>
+
+                      *Frisch weht der Wind*
+
+<div align="right"><em>清新的风吹着，</em></div>
+
+                      *Der Heimat zu*
+
+<div align="right"><em>向故乡吹去；</em></div>
+
+                      *Mein Irisch Kind,*
+
+<div align="right"><em>我的爱尔兰姑娘，</em></div>
+
+                      *Wo weilest du?*
+
+<div align="right"><em>你在何处停留？</em></div>
+
+‘You gave me hyacinths first a year ago;
+
+<div align="right">“一年前，你第一次送我风信子；</div>
+
+‘They called me the hyacinth girl.’
+
+<div align="right">人们便叫我‘风信子姑娘’。”</div>
+
+—Yet when we came back, late, from the Hyacinth garden,
+
+<div align="right">——可是很晚，当我们从风信子花园归来，</div>
+
+Your arms full, and your hair wet, I could not
+
+<div align="right">你两臂抱满鲜花，头发湿漉漉，我却无法</div>
+
+Speak, and my eyes failed, I was neither
+
+<div align="right">说话，我的双眼失去了作用；我既非</div>
+
+Living nor dead, and I knew nothing,
+
+<div align="right">生，也非死；我一无所知，</div>
+
+Looking into the heart of light, the silence.
+
+<div align="right">凝望光的中心，那片寂静。</div>
+
+*Oed’ und leer das Meer*.
+
+<div align="right"><em>荒凉而空寂的是大海。</em></div>
+
+<br /> <br />
+
+Madame Sosostris, famous clairvoyante,
+
+<div align="right">索索斯特里斯夫人，那位著名的通灵女占卜师，</div>
+
+Had a bad cold, nevertheless
+
+<div align="right">患了重感冒；然而</div>
+
+Is known to be the wisest woman in Europe,
+
+<div align="right">她被公认为欧洲最有智慧的女人，</div>
+
+With a wicked pack of cards. Here, said she,
+
+<div align="right">凭着她那副邪气十足的纸牌。“这里，”她说，</div>
+
+Is your card, the drowned Phoenician Sailor,
+
+<div align="right">“是你的牌：溺死的腓尼基水手。</div>
+
+(Those are pearls that were his eyes. Look!)
+
+<div align="right">（那些珍珠曾是他的眼睛。看！）</div>
+
+Here is Belladonna, the Lady of the Rocks,
+
+<div align="right">这是贝拉唐娜，‘岩间圣母’，</div>
+
+The lady of situations.
+
+<div align="right">也是长袖善舞的女郎。</div>
+
+Here is the man with three staves, and here the Wheel,
+
+<div align="right">这是权杖三，这是命运之轮；</div>
+
+And here is the one-eyed merchant, and this card,
+
+<div align="right">这是独眼商人；而这张</div>
+
+Which is blank, is something he carries on his back,
+
+<div align="right">空白牌，代表他背上驮着的东西，</div>
+
+Which I am forbidden to see. I do not find
+
+<div align="right">而我被禁止看到。我没有找到</div>
+
+The Hanged Man. Fear death by water.
+
+<div align="right">倒吊人。提防死于水中。</div>
+
+I see crowds of people, walking round in a ring.
+
+<div align="right">我看见成群的人，绕着圆圈行走。</div>
+
+Thank you. If you see dear Mrs. Equitone,
+
+<div align="right">谢谢。如果你见到亲爱的伊奎通太太，</div>
+
+Tell her I bring the horoscope myself:
+
+<div align="right">告诉她，星象图我会亲自送去：</div>
+
+One must be so careful these days.
+
+<div align="right">如今凡事都得万分小心。”</div>
+
+<br /> <br />
+
+Unreal City,
+
+<div align="right">虚幻之城，</div>
+
+Under the brown fog of a winter dawn,
+
+<div align="right">在冬日黎明的褐色雾霭下，</div>
+
+A crowd flowed over London Bridge, so many,
+
+<div align="right">那么多人涌过伦敦桥，</div>
+
+I had not thought death had undone so many.
+
+<div align="right">我从未想到死亡竟毁掉过这么多人。</div>
+
+Sighs, short and infrequent, were exhaled,
+
+<div align="right">短促而稀少的叹息，被呼出，</div>
+
+And each man fixed his eyes before his feet.
+
+<div align="right">每个人都把目光钉在自己脚前。</div>
+
+Flowed up the hill and down King William Street,
+
+<div align="right">人流上坡，又沿威廉王街下行，</div>
+
+To where Saint Mary Woolnoth kept the hours
+
+<div align="right">直到圣玛丽·伍尔诺斯教堂报着时辰，</div>
+
+With a dead sound on the final stroke of nine.
+
+<div align="right">九点钟最后一下钟声，死气沉沉。</div>
+
+There I saw one I knew, and stopped him, crying: 'Stetson!
+
+<div align="right">在那里，我看见一个熟人，拦住他喊：“斯泰森！</div>
+
+‘You who were with me in the ships at Mylae!
+
+<div align="right">你曾同我在米莱的战船上！</div>
+
+‘That corpse you planted last year in your garden,
+
+<div align="right">去年你种在花园里的那具尸体，</div>
+
+‘Has it begun to sprout? Will it bloom this year?
+
+<div align="right">开始发芽了吗？今年会开花吗？</div>
+
+‘Or has the sudden frost disturbed its bed?
+
+<div align="right">还是突来的霜冻惊扰了它的床榻？</div>
+
+‘Oh keep the Dog far hence, that’s friend to men,
+
+<div align="right">啊，把狗赶远些，它是人的朋友，</div>
+
+‘Or with his nails he’ll dig it up again!
+
+<div align="right">不然它会用爪子再把尸体掘出来！</div>
+
+‘You! hypocrite lecteur!—mon semblable,—mon frère!”
+
+<div align="right">你呀，伪善的读者！——我的同类，——我的兄弟！”</div>
+
+<br /> <br />
+
+<div style="font-size: 1.3em;">
+<em>II. A Game of Chess</em>
+</div>
+
+<div align="right">
+<em>II. 一局棋戏</em>
+</div>
+
+<br /> <br />
+
+The Chair she sat in, like a burnished throne,
+
+<div align="right">她坐着的椅子，像一座被擦亮的宝座，</div>
+
+Glowed on the marble, where the glass
+
+<div align="right">在大理石上辉映；那边的镜子</div>
+
+Held up by standards wrought with fruited vines
+
+<div align="right">由支架托着，架上雕满结实的藤蔓，</div>
+
+From which a golden Cupidon peeped out
+
+<div align="right">一尊金色的小爱神从藤间探出头来</div>
+
+(Another hid his eyes behind his wing)
+
+<div align="right">（另一个用翅膀遮住了双眼），</div>
+
+Doubled the flames of sevenbranched candelabra
+
+<div align="right">映得七枝烛台的火焰成了双，</div>
+
+Reflecting light upon the table as
+
+<div align="right">将光投在桌面上，此时</div>
+
+The glitter of her jewels rose to meet it,
+
+<div align="right">她珠宝的闪烁，迎着这光，</div>
+
+From satin cases poured in rich profusion;
+
+<div align="right">从缎盒里丰盛地倾泻而出；</div>
+
+In vials of ivory and coloured glass
+
+<div align="right">在象牙与彩色玻璃的小瓶的敞口下，</div>
+
+Unstoppered, lurked her strange synthetic perfumes,
+
+<div align="right">潜伏着她奇异的合成香料，</div>
+
+Unguent, powdered, or liquid—troubled, confused
+
+<div align="right">或膏状、或粉状，或液态，这些气味搅扰、迷乱，</div>
+
+And drowned the sense in odours; stirred by the air
+
+<div align="right">淹没了感官；窗外吹来</div>
+
+That freshened from the window, these ascended
+
+<div align="right">清新的空气，将它们搅起，升腾，</div>
+
+In fattening the prolonged candle-flames,
+
+<div align="right">使拉长的烛焰涨得肥硕，</div>
+
+Flung their smoke into the laquearia,
+
+<div align="right">将烟雾抛向雕饰的顶板，</div>
+
+Stirring the pattern on the coffered ceiling.
+
+<div align="right">搅动着藻井天花板上的花纹。</div>
+
+Huge sea-wood fed with copper
+
+<div align="right">巨大的海漂木添了铜，</div>
+
+Burned green and orange, framed by the coloured stone,
+
+<div align="right">在彩石的框围中燃起绿焰和橙焰，</div>
+
+In which sad light a carvéd dolphin swam.
+
+<div align="right">一只雕刻的海豚在那惨淡的光里游弋。</div>
+
+Above the antique mantel was displayed
+
+<div align="right">古老的壁炉架上方陈列着</div>
+
+As though a window gave upon the sylvan scene
+
+<div align="right">一幅景象，仿佛窗子向林间敞开：</div>
+
+The change of Philomel, by the barbarous king
+
+<div align="right">菲洛墨拉的变形，她遭那野蛮的国王</div>
+
+So rudely forced; yet there the nightingale
+
+<div align="right">如此粗鲁地强暴；然而在那里，夜莺</div>
+
+Filled all the desert with inviolable voice
+
+<div align="right">以不可侵犯的歌声充满整片荒野，</div>
+
+And still she cried, and still the world pursues,
+
+<div align="right">她仍在啼哭，世人仍在追逼，</div>
+
+‘Jug Jug’ to dirty ears.
+
+<div align="right">污秽的耳朵只听到“啾啾”。</div>
+
+And other withered stumps of time
+
+<div align="right">别的、枯萎的时间残桩</div>
+
+Were told upon the walls; staring forms
+
+<div align="right">也在墙上讲述；瞪视着的形体</div>
+
+Leaned out, leaning, hushing the room enclosed.
+
+<div align="right">探出身来，倾着身子，使这封闭的房间屏息。</div>
+
+Footsteps shuffled on the stair.
+
+<div align="right">楼梯上传来拖沓的脚步。</div>
+
+Under the firelight, under the brush, her hair
+
+<div align="right">在火光下，在发刷下，她的头发</div>
+
+Spread out in fiery points
+
+<div align="right">散成火焰般的尖芒，</div>
+
+Glowed into words, then would be savagely still.
+
+<div align="right">灼亮成话语，随即又陷入凶狠的静止。</div>
+
+<br /> <br />
+
+‘My nerves are bad tonight. Yes, bad. Stay with me.
+
+<div align="right">“今晚我的神经很糟。对，很糟。陪陪我。</div>
+
+Speak to me. Why do you never speak. Speak.
+
+<div align="right">跟我说话。你为什么从来不说话。说话。</div>
+
+What are you thinking of? What thinking? What?
+
+<div align="right">你在想什么？想什么？什么？</div>
+
+I never know what you are thinking. Think.’
+
+<div align="right">我从来不知道你在想什么。想啊。”</div>
+
+<br /> <br />
+
+  I think we are in rats’ alley
+
+<div align="right">我想我们是在老鼠巷里，</div>
+
+Where the dead men lost their bones.
+
+<div align="right">在那死人丢失了自己的骨头。</div>
+
+<br /> <br />
+
+  ‘What is that noise?’
+
+<div align="right">“那是什么声音？”</div>
+
+                          The wind under the door.
+
+<div align="right">门底下的风。</div>
+
+‘What is that noise now? What is the wind doing?’
+
+<div align="right">“现在那又是什么声音？风在干什么？”</div>
+
+                           Nothing again nothing.
+
+<div align="right">没什么，又是没什么。</div>
+
+                                                        ‘Do
+
+<div align="right">“你</div>
+
+‘You know nothing? Do you see nothing? Do you remember
+
+<div align="right">什么也不知道吗？什么也看不见吗？难道你什么</div>
+
+‘Nothing?’
+
+<div align="right">也不记得？”</div>
+
+<br /> <br />
+
+       I remember
+
+<div align="right">我记得</div>
+
+Those are pearls that were his eyes.
+
+<div align="right">他的眼睛已经变成珍珠。</div>
+
+‘Are you alive, or not? Is there nothing in your head?’
+
+<div align="right">“你还活着，还是死了？你脑子里就什么也没有吗？”</div>
+
+                                                                           But
+
+<div align="right">可是</div>
+
+O O O O that Shakespeherian Rag—
+
+<div align="right">哦 哦 哦 哦 那首莎士比亚拉格调——</div>
+
+It’s so elegant
+
+<div align="right">多么优雅</div>
+
+So intelligent
+
+<div align="right">多么聪明</div>
+
+‘What shall I do now? What shall I do?’
+
+<div align="right">“我现在该干什么？我该干什么？”</div>
+
+‘I shall rush out as I am, and walk the street
+
+<div align="right">“我就这样冲出去，走上街头，</div>
+
+‘With my hair down, so. What shall we do tomorrow?
+
+<div align="right">就这样，披散着头发。我们明天干什么？</div>
+
+‘What shall we ever do?’
+
+<div align="right">我们今后究竟干什么？”</div>
+
+                                               The hot water at ten.
+
+<div align="right">十点钟有热水。</div>
+
+And if it rains, a closed car at four.
+
+<div align="right">要是下雨，四点钟叫一辆有篷的车。</div>
+
+And we shall play a game of chess,
+
+<div align="right">然后我们就下一局棋，</div>
+
+Pressing lidless eyes and waiting for a knock upon the door.
+
+<div align="right">按着无睑的眼睛，等候门上传来敲击。</div>
+
+<br /> <br />
+
+  When Lil’s husband got demobbed, I said—
+
+<div align="right">莉尔她丈夫复员那会儿，我说——</div>
+
+I didn’t mince my words, I said to her myself,
+
+<div align="right">我可没拐弯抹角，我当面跟她说，</div>
+
+HURRY UP PLEASE ITS TIME
+
+<div align="right" style="font-weight: bold;">请快一点，时间到了</div>
+
+Now Albert’s coming back, make yourself a bit smart.
+
+<div align="right">如今阿尔伯特要回来了，你也该收拾得像样点。</div>
+
+He’ll want to know what you done with that money he gave you
+
+<div align="right">他肯定要问，他给你的那笔钱你拿去干什么了，</div>
+
+To get yourself some teeth. He did, I was there.
+
+<div align="right">那是给你装牙的。他确实给了，我当时在场。</div>
+
+You have them all out, Lil, and get a nice set,
+
+<div align="right">莉尔，把牙都拔了吧，装一副漂亮的，</div>
+
+He said, I swear, I can’t bear to look at you.
+
+<div align="right">他说，我发誓，我都没法看你了。</div>
+
+And no more can’t I, I said, and think of poor Albert,
+
+<div align="right">我说，我也看不下去了，再想想可怜的阿尔伯特，</div>
+
+He’s been in the army four years, he wants a good time,
+
+<div align="right">他当了四年兵，回来想快活快活，</div>
+
+And if you don’t give it him, there’s others will, I said.
+
+<div align="right">你要是不让他快活，自会有别人，我说。</div>
+
+Oh is there, she said. Something o’ that, I said.
+
+<div align="right">噢，是吗，她说。差不离吧，我说。</div>
+
+Then I’ll know who to thank, she said, and give me a straight look.
+
+<div align="right">那我可知道该谢谁了，她说，直直地看了我一眼。</div>
+
+HURRY UP PLEASE ITS TIME
+
+<div align="right">请快一点，时间到了</div>
+
+If you don’t like it you can get on with it, I said.
+
+<div align="right">你要是不乐意，就由着你吧，我说。</div>
+
+Others can pick and choose if you can’t.
+
+<div align="right">你没得挑，别人可有得选。</div>
+
+But if Albert makes off, it won’t be for lack of telling.
+
+<div align="right">可阿尔伯特要是跑了，可别说没人提醒过你。</div>
+
+You ought to be ashamed, I said, to look so antique.
+
+<div align="right">我说，你该害臊，老成这副模样。</div>
+
+(And her only thirty-one.)
+
+<div align="right">（她才三十一呢。）</div>
+
+I can’t help it, she said, pulling a long face,
+
+<div align="right">我也没办法，她说，拉长了脸，</div>
+
+It’s them pills I took, to bring it off, she said.
+
+<div align="right">都怪我吃的那些药，为了把胎打掉，她说。</div>
+
+(She’s had five already, and nearly died of young George.)
+
+<div align="right">（她已经生了五个，生小乔治时差点没了命。）</div>
+
+The chemist said it would be all right, but I’ve never been the same.
+
+<div align="right">药剂师说会没事，可从那以后我就再也没缓过来。</div>
+
+You are a proper fool, I said.
+
+<div align="right">你真是个傻瓜，我说。</div>
+
+Well, if Albert won’t leave you alone, there it is, I said,
+
+<div align="right">好吧，要是阿尔伯特不肯放过你，那也就这样了，我说，</div>
+
+What you get married for if you don’t want children?
+
+<div align="right">不想生孩子，你结婚干什么？</div>
+
+HURRY UP PLEASE ITS TIME
+
+<div align="right">请快一点，时间到了</div>
+
+Well, that Sunday Albert was home, they had a hot gammon,
+
+<div align="right">那个星期天阿尔伯特在家，他们做了热腾腾的腌猪腿，</div>
+
+And they asked me in to dinner, to get the beauty of it hot—
+
+<div align="right">也请我去吃饭，趁热尝个鲜——</div>
+
+HURRY UP PLEASE ITS TIME
+
+<div align="right">请快一点，时间到了</div>
+
+HURRY UP PLEASE ITS TIME
+
+<div align="right">请快一点，时间到了</div>
+
+Goonight Bill. Goonight Lou. Goonight May. Goonight.
+
+<div align="right">晚安，比尔。晚安，卢。晚安，梅。晚安。</div>
+
+Ta ta. Goonight. Goonight.
+
+<div align="right">拜拜。晚安。晚安。</div>
+
+Good night, ladies, good night, sweet ladies, good night, good night.
+
+<div align="right">晚安，女士们，晚安，亲爱的女士们，晚安，晚安。</div>
+
+<br /> <br />
+
+<div style="font-size: 1.3em;">
+<em>III. The Fire Sermon</em>
+</div>
+
+<div align="right">
+<em>III. 火诫</em>
+</div>
+
+<br /> <br />
+
+  The river’s tent is broken: the last fingers of leaf
+
+<div align="right">河上的帐篷破了：最后几片叶子的手指</div>
+
+Clutch and sink into the wet bank. The wind
+
+<div align="right">紧抓着，沉入潮湿的河岸。风</div>
+
+Crosses the brown land, unheard. The nymphs are departed.
+
+<div align="right">无声地掠过褐色的土地。水神们已经离去。</div>
+
+Sweet Thames, run softly, till I end my song.
+
+<div align="right">温柔的泰晤士，轻轻流吧，等我唱完这支歌。</div>
+
+The river bears no empty bottles, sandwich papers,
+
+<div align="right">河上没有漂着空瓶、包三明治的纸，</div>
+
+Silk handkerchiefs, cardboard boxes, cigarette ends
+
+<div align="right">丝手绢、纸盒、烟蒂，</div>
+
+Or other testimony of summer nights. The nymphs are departed.
+
+<div align="right">或夏夜留下的别种见证。水神们已经离去。</div>
+
+And their friends, the loitering heirs of City directors;
+
+<div align="right">她们的朋友，那些金融城董事们游手好闲的子嗣；</div>
+
+Departed, have left no addresses.
+
+<div align="right">也已离去，没留下地址。</div>
+
+By the waters of Leman I sat down and wept . . .
+
+<div align="right">在莱芒湖畔，我坐下来哭泣……</div>
+
+Sweet Thames, run softly till I end my song,
+
+<div align="right">温柔的泰晤士，轻轻流吧，等我唱完这支歌，</div>
+
+Sweet Thames, run softly, for I speak not loud or long.
+
+<div align="right">温柔的泰晤士，轻轻流吧，我的话不响，也不长。</div>
+
+But at my back in a cold blast I hear
+
+<div align="right">但在我背后，在一阵寒风中，我听见</div>
+
+The rattle of the bones, and chuckle spread from ear to ear.
+
+<div align="right">白骨的咔嗒声，和咧到耳根的窃笑。</div>
+
+A rat crept softly through the vegetation
+
+<div align="right">一只老鼠悄悄爬过草木，</div>
+
+Dragging its slimy belly on the bank
+
+<div align="right">沿着河岸，拖着黏滑的肚皮，</div>
+
+While I was fishing in the dull canal
+
+<div align="right">那时我正在沉滞的运河里垂钓，</div>
+
+On a winter evening round behind the gashouse
+
+<div align="right">在一个冬日的傍晚，煤气厂的后面，</div>
+
+Musing upon the king my brother’s wreck
+
+<div align="right">想着我那为王的兄弟的覆舟，</div>
+
+And on the king my father’s death before him.
+
+<div align="right">和在他之前，我那为王的父亲之死。</div>
+
+White bodies naked on the low damp ground
+
+<div align="right">白色的躯体赤裸在低湿的地上，</div>
+
+And bones cast in a little low dry garret,
+
+<div align="right">白骨被扔进一间低矮、狭小而干燥的阁楼，</div>
+
+Rattled by the rat’s foot only, year to year.
+
+<div align="right">年复一年，只有老鼠的脚把它们踏得咔嗒作响。</div>
+
+But at my back from time to time I hear
+
+<div align="right">但在我背后，我不时听见</div>
+
+The sound of horns and motors, which shall bring
+
+<div align="right">喇叭声和汽车声，它们会在春天</div>
+
+Sweeney to Mrs. Porter in the spring.
+
+<div align="right">把斯威尼带到波特太太那里。</div>
+
+O the moon shone bright on Mrs. Porter
+
+<div align="right">哦，明月照着波特太太</div>
+
+And on her daughter
+
+<div align="right">和她的女儿</div>
+
+They wash their feet in soda water
+
+<div align="right">她们用苏打水洗脚</div>
+
+*Et O ces voix d’enfants, chantant dans la coupole!*
+
+<div align="right"><em>还有，啊，那些在穹顶下歌唱的童声！</em></div>
+
+<br /> <br />
+
+Twit twit twit
+
+<div align="right">唧 唧 唧</div>
+
+Jug jug jug jug jug jug
+
+<div align="right">啾 啾 啾 啾 啾 啾</div>
+
+So rudely forc’d.
+
+<div align="right">如此粗鲁地强暴。</div>
+
+Tereu
+
+<div align="right">忒柔</div>
+
+<br /> <br />
+
+Unreal City
+
+<div align="right">虚幻之城</div>
+
+Under the brown fog of a winter noon
+
+<div align="right">冬日正午的褐色雾霭下</div>
+
+Mr. Eugenides, the Smyrna merchant
+
+<div align="right">尤金尼迪斯先生，那位士麦那商人，</div>
+
+Unshaven, with a pocket full of currants
+
+<div align="right">没刮胡子，口袋里装满小葡萄干，</div>
+
+C.i.f. London: documents at sight,
+
+<div align="right">伦敦到岸价：见单付款，</div>
+
+Asked me in demotic French
+
+<div align="right">用市井法语邀我</div>
+
+To luncheon at the Cannon Street Hotel
+
+<div align="right">到坎农街旅馆吃午餐，</div>
+
+Followed by a weekend at the Metropole.
+
+<div align="right">然后去大都会旅馆度周末。</div>
+
+<br /> <br />
+
+At the violet hour, when the eyes and back
+
+<div align="right">在紫罗兰色的时辰，当眼睛与脊背</div>
+
+Turn upward from the desk, when the human engine waits
+
+<div align="right">从书桌前抬起，当人体这部机器等候着，</div>
+
+Like a taxi throbbing waiting,
+
+<div align="right">像一辆震颤着等客的出租车，</div>
+
+I Tiresias, though blind, throbbing between two lives,
+
+<div align="right">我，忒瑞西阿斯，虽已失明，却在两种生命间震颤，</div>
+
+Old man with wrinkled female breasts, can see
+
+<div align="right">这有着女性皱缩双乳的老人，能够看见</div>
+
+At the violet hour, the evening hour that strives
+
+<div align="right">在紫罗兰色的时辰，这向着家门</div>
+
+Homeward, and brings the sailor home from sea,
+
+<div align="right">奋力归去的暮色，把水手从海上带回家，</div>
+
+The typist home at teatime, clears her breakfast, lights
+
+<div align="right">把女打字员在喝茶时带回家；她收拾早餐的残余，点起</div>
+
+Her stove, and lays out food in tins.
+
+<div align="right">炉火，摆出罐头食品。</div>
+
+Out of the window perilously spread
+
+<div align="right">窗外险险地摊晾着</div>
+
+Her drying combinations touched by the sun’s last rays,
+
+<div align="right">她的连身内衣，沾着夕阳最后的光，</div>
+
+On the divan are piled (at night her bed)
+
+<div align="right">长沙发上堆着（夜里那就是她的床）</div>
+
+Stockings, slippers, camisoles, and stays.
+
+<div align="right">长袜、拖鞋、短衬衣和紧身胸衣。</div>
+
+I Tiresias, old man with wrinkled dugs
+
+<div align="right">我，忒瑞西阿斯，这奶子皱缩的老头，</div>
+
+Perceived the scene, and foretold the rest—
+
+<div align="right">看见了这一幕，也预见了余下的一切——</div>
+
+I too awaited the expected guest.
+
+<div align="right">我也在等待那位预期的客人。</div>
+
+He, the young man carbuncular, arrives,
+
+<div align="right">他，那满脸疙瘩的年轻人，来了，</div>
+
+A small house agent’s clerk, with one bold stare,
+
+<div align="right">一家小房产经纪行的职员，放肆地扫了一眼，</div>
+
+One of the low on whom assurance sits
+
+<div align="right">那种出身卑微的人，身上的自信</div>
+
+As a silk hat on a Bradford millionaire.
+
+<div align="right">宛如布拉德福德百万富翁头上的高筒丝帽。</div>
+
+The time is now propitious, as he guesses,
+
+<div align="right">他估摸着，此刻正是好时机，</div>
+
+The meal is ended, she is bored and tired,
+
+<div align="right">饭吃完了，她又倦又闷，</div>
+
+Endeavours to engage her in caresses
+
+<div align="right">他试着使她接受他的爱抚，</div>
+
+Which still are unreproved, if undesired.
+
+<div align="right">尽管她并不想要，却一直没有斥责。</div>
+
+Flushed and decided, he assaults at once;
+
+<div align="right">他涨红了脸，打定主意，立刻进攻；</div>
+
+Exploring hands encounter no defence;
+
+<div align="right">探索的手没有遭遇抵抗；</div>
+
+His vanity requires no response,
+
+<div align="right">他的虚荣不需要任何回应，</div>
+
+And makes a welcome of indifference.
+
+<div align="right">还把冷漠当作欢迎。</div>
+
+(And I Tiresias have foresuffered all
+
+<div align="right">（我，忒瑞西阿斯，已经预先受尽</div>
+
+Enacted on this same divan or bed;
+
+<div align="right">这同一张长沙发或床上发生的一切；</div>
+
+I who have sat by Thebes below the wall
+
+<div align="right">我曾在底比斯城墙下坐过，</div>
+
+And walked among the lowest of the dead.)
+
+<div align="right">也曾行走在最幽深处的亡魂之间。）</div>
+
+Bestows one final patronising kiss,
+
+<div align="right">他赏赐似的落下最后一个吻，</div>
+
+And gropes his way, finding the stairs unlit . . .
+
+<div align="right">摸索着离去，发现楼梯上没有灯……</div>
+
+<br /> <br />
+
+She turns and looks a moment in the glass,
+
+<div align="right">她转过身，对着镜子看了片刻，</div>
+
+Hardly aware of her departed lover;
+
+<div align="right">几乎没意识到情人已经离去；</div>
+
+Her brain allows one half-formed thought to pass:
+
+<div align="right">一个尚未成形的念头掠过她的脑子：</div>
+
+'Well now that’s done: and I’m glad it’s over.’
+
+<div align="right">“好了，这事办完了：真高兴，总算结束了。”</div>
+
+When lovely woman stoops to folly and
+
+<div align="right">当美丽的女人屈身于荒唐之事，</div>
+
+Paces about her room again, alone,
+
+<div align="right">再一次独自在房间里踱步，</div>
+
+She smooths her hair with automatic hand,
+
+<div align="right">她机械地抬手理平头发，</div>
+
+And puts a record on the gramophone.
+
+<div align="right">把一张唱片放上留声机。</div>
+
+<br /> <br />
+
+‘This music crept by me upon the waters’
+
+<div align="right">“这音乐从水面上悄悄传到我身旁”</div>
+
+And along the Strand, up Queen Victoria Street.
+
+<div align="right">又沿着斯特兰德街，沿维多利亚女王街而上。</div>
+
+O City city, I can sometimes hear
+
+<div align="right">啊，城啊，城啊，有时候我能听见，</div>
+
+Beside a public bar in Lower Thames Street,
+
+<div align="right">在下泰晤士街的一家酒馆旁，</div>
+
+The pleasant whining of a mandoline
+
+<div align="right">曼陀林悦耳的呜咽，</div>
+
+And a clatter and a chatter from within
+
+<div align="right">还有屋内的碰击声和谈笑声，</div>
+
+Where fishmen lounge at noon: where the walls
+
+<div align="right">鱼贩们午间在那里闲坐；那里，</div>
+
+Of Magnus Martyr hold
+
+<div align="right">殉道者圣马格努斯教堂的墙壁</div>
+
+Inexplicable splendour of Ionian white and gold.
+
+<div align="right">蕴着爱奥尼亚式白与金的辉煌，难以言喻。</div>
+
+<br /> <br />
+
+               The river sweats
+
+<div align="right">河流淌着汗</div>
+
+               Oil and tar
+
+<div align="right">石油与焦油</div>
+
+               The barges drift
+
+<div align="right">驳船漂流</div>
+
+               With the turning tide
+
+<div align="right">随着回转的潮水</div>
+
+               Red sails
+
+<div align="right">红帆</div>
+
+               Wide
+
+<div align="right">宽宽地</div>
+
+               To leeward, swing on the heavy spar.
+
+<div align="right">在沉重的帆桁上，向下风处摆荡。</div>
+
+               The barges wash
+
+<div align="right">驳船荡开的水</div>
+
+               Drifting logs
+
+<div align="right">冲着浮木</div>
+
+               Down Greenwich reach
+
+<div align="right">顺格林尼治河段而下</div>
+
+               Past the Isle of Dogs.
+
+<div align="right">经过狗岛。</div>
+
+                                 Weialala leia
+
+<div align="right">魏呀啦啦 莱呀</div>
+
+                                 Wallala leialala
+
+<div align="right">哇啦啦 莱呀啦啦</div>
+
+               Elizabeth and Leicester
+
+<div align="right">伊丽莎白与莱斯特</div>
+
+               Beating oars
+
+<div align="right">桨叶击水</div>
+
+               The stern was formed
+
+<div align="right">船尾塑成</div>
+
+               A gilded shell
+
+<div align="right">一只镀金的贝壳</div>
+
+               Red and gold
+
+<div align="right">红色与金色</div>
+
+               The brisk swell
+
+<div align="right">轻快的涌浪</div>
+
+               Rippled both shores
+
+<div align="right">荡漾到两岸</div>
+
+               Southwest wind
+
+<div align="right">西南风</div>
+
+               Carried down stream
+
+<div align="right">顺流送去</div>
+
+               The peal of bells
+
+<div align="right">阵阵钟声</div>
+
+               White towers
+
+<div align="right">白色的塔楼</div>
+
+                                Weialala leia
+
+<div align="right">魏呀啦啦 莱呀</div>
+
+                                Wallala leialala
+
+<div align="right">哇啦啦 莱呀啦啦</div>
+
+<br /> <br />
+
+‘Trams and dusty trees.
+
+<div align="right">“电车与蒙尘的树。</div>
+
+Highbury bore me. Richmond and Kew
+
+<div align="right">海布里生下我。里士满和邱</div>
+
+Undid me. By Richmond I raised my knees
+
+<div align="right">毁掉了我。在里士满，我举起双膝，</div>
+
+Supine on the floor of a narrow canoe.’
+
+<div align="right">仰躺在一叶狭窄独木舟的舱底。”</div>
+
+<br /> <br />
+
+‘My feet are at Moorgate, and my heart
+
+<div align="right">“我的双脚在沼门，我的心</div>
+
+Under my feet. After the event
+
+<div align="right">在我的脚底。事情过后</div>
+
+He wept. He promised a ‘new start.’
+
+<div align="right">他哭了。他许诺一个‘新的开始’。</div>
+
+I made no comment. What should I resent?’
+
+<div align="right">我没说什么。我有什么好怨恨的？”</div>
+
+‘On Margate Sands.
+
+<div align="right">“在马盖特沙滩上。</div>
+
+I can connect
+
+<div align="right">我无法</div>
+
+Nothing with nothing.
+
+<div align="right">把什么与什么联结。</div>
+
+The broken fingernails of dirty hands.
+
+<div align="right">肮脏的手上，破裂的指甲。</div>
+
+My people humble people who expect
+
+<div align="right">我的同胞，卑微的人们，什么</div>
+
+Nothing.’
+
+<div align="right">也不指望。”</div>
+
+                       la la
+
+<div align="right">啦 啦</div>
+
+<br /> <br />
+
+To Carthage then I came
+
+<div align="right">于是我来到迦太基</div>
+
+<br /> <br />
+
+Burning burning burning burning
+
+<div align="right">燃烧 燃烧 燃烧 燃烧</div>
+
+O Lord Thou pluckest me out
+
+<div align="right">主啊，你将我救出</div>
+
+O Lord Thou pluckest
+
+<div align="right">主啊，你拯救</div>
+
+<br /> <br />
+
+burning
+
+<div align="right">燃烧</div>
+
+<br /> <br />
+
+<div style="font-size: 1.3em;">
+<em>IV. Death by Water</em>
+</div>
+
+<div align="right">
+<em>IV. 水中之死</em>
+</div>
+
+<br /> <br />
+
+Phlebas the Phoenician, a fortnight dead,
+
+<div align="right">腓尼基人弗莱巴斯，死去已有两星期，</div>
+
+Forgot the cry of gulls, and the deep sea swell
+
+<div align="right">忘却了海鸥的叫声，深海的涌浪，</div>
+
+And the profit and loss.
+
+<div align="right">也忘却了盈利与亏损。</div>
+
+                                   A current under sea
+
+<div align="right">海底的一股暗流</div>
+
+Picked his bones in whispers. As he rose and fell
+
+<div align="right">悄声剔净他的骨头。当他上下浮沉，</div>
+
+He passed the stages of his age and youth
+
+<div align="right">他经过衰老与青春的各个阶段，</div>
+
+Entering the whirlpool.
+
+<div align="right">进入漩涡。</div>
+
+                                   Gentile or Jew
+
+<div align="right">外邦人也好，犹太人也好，</div>
+
+O you who turn the wheel and look to windward,
+
+<div align="right">啊，你这转着舵轮、向上风处眺望的人，</div>
+
+Consider Phlebas, who was once handsome and tall as you.
+
+<div align="right">想想弗莱巴斯吧，他也曾像你一样英俊高大。</div>
+
+<br /> <br />
+
+<div style="font-size: 1.3em;">
+<em>V. What the Thunder Said</em>
+</div>
+
+<div align="right">
+<em>V. 雷霆所言</em>
+</div>
+
+<br /> <br />
+
+After the torchlight red on sweaty faces
+
+<div align="right">在火把照红汗湿的面孔之后</div>
+
+After the frosty silence in the gardens
+
+<div align="right">在园中霜冷的寂静之后</div>
+
+After the agony in stony places
+
+<div align="right">在乱石间的苦痛之后</div>
+
+The shouting and the crying
+
+<div align="right">呼喊与哭泣</div>
+
+Prison and palace and reverberation
+
+<div align="right">监狱与宫殿，还有远山上</div>
+
+Of thunder of spring over distant mountains
+
+<div align="right">春雷的回响</div>
+
+He who was living is now dead
+
+<div align="right">那曾经活着的人，如今已经死去</div>
+
+We who were living are now dying
+
+<div align="right">我们曾经活着，如今正在死去</div>
+
+With a little patience
+
+<div align="right">只须再耐心片刻</div>
+
+<br /> <br />
+
+Here is no water but only rock
+
+<div align="right">这里只有岩石，没有水</div>
+
+Rock and no water and the sandy road
+
+<div align="right">岩石，没有水，还有沙路</div>
+
+The road winding above among the mountains
+
+<div align="right">路蜿蜒而上，穿行于群山之间</div>
+
+Which are mountains of rock without water
+
+<div align="right">那是岩石的群山，没有水</div>
+
+If there were water we should stop and drink
+
+<div align="right">要是有水，我们就该停下来喝一口</div>
+
+Amongst the rock one cannot stop or think
+
+<div align="right">在岩石间，人无法停留，也无法思索</div>
+
+Sweat is dry and feet are in the sand
+
+<div align="right">汗已干了，双脚陷在沙里</div>
+
+If there were only water amongst the rock
+
+<div align="right">要是岩石间能有水就好了</div>
+
+Dead mountain mouth of carious teeth that cannot spit
+
+<div align="right">死山的嘴，满口龋齿，吐不出唾液</div>
+
+Here one can neither stand nor lie nor sit
+
+<div align="right">这里，人既不能站，也不能躺，也不能坐</div>
+
+There is not even silence in the mountains
+
+<div align="right">群山中甚至没有寂静</div>
+
+But dry sterile thunder without rain
+
+<div align="right">只有干枯、灭绝的雷，没有雨</div>
+
+There is not even solitude in the mountains
+
+<div align="right">群山中甚至没有独处</div>
+
+But red sullen faces sneer and snarl
+
+<div align="right">只有一张张阴沉的红脸，讥笑着，咆哮着，</div>
+
+From doors of mudcracked houses
+
+<div align="right">从墙泥龟裂的屋舍门口探出</div>
+
+                                      If there were water
+
+<div align="right">要是有水</div>
+
+   And no rock
+
+<div align="right">而没有岩石</div>
+
+   If there were rock
+
+<div align="right">要是有岩石</div>
+
+   And also water
+
+<div align="right">也有水</div>
+
+   And water
+
+<div align="right">还有水</div>
+
+   A spring
+
+<div align="right">一眼泉</div>
+
+   A pool among the rock
+
+<div align="right">岩石间的一池水</div>
+
+   If there were the sound of water only
+
+<div align="right">要是只有水声也好</div>
+
+   Not the cicada
+
+<div align="right">不是蝉鸣</div>
+
+   And dry grass singing
+
+<div align="right">也不是枯草的歌声</div>
+
+   But sound of water over a rock
+
+<div align="right">而是水流过岩石的声音</div>
+
+   Where the hermit-thrush sings in the pine trees
+
+<div align="right">在隐士鸫歌唱的松林里</div>
+
+   Drip drop drip drop drop drop drop
+
+<div align="right">滴 答 滴 答 答 答 答</div>
+
+   But there is no water
+
+<div align="right">可是没有水</div>
+
+<br /> <br />
+
+Who is the third who walks always beside you?
+
+<div align="right">总在你身旁行走的第三个人是谁？</div>
+
+When I count, there are only you and I together
+
+<div align="right">我数时，只有你和我两个人在一起</div>
+
+But when I look ahead up the white road
+
+<div align="right">可当我沿着白色的路向前望去</div>
+
+There is always another one walking beside you
+
+<div align="right">总有另一个人在你身旁行走</div>
+
+Gliding wrapt in a brown mantle, hooded
+
+<div align="right">裹着褐色斗篷，兜帽罩头，轻轻滑行</div>
+
+I do not know whether a man or a woman
+
+<div align="right">我不知道是男人还是女人</div>
+
+—But who is that on the other side of you?
+
+<div align="right">——可你另一边的那个人究竟是谁？</div>
+
+<br /> <br />
+
+What is that sound high in the air
+
+<div align="right">高空中那是什么声音</div>
+
+Murmur of maternal lamentation
+
+<div align="right">母亲们低低的哀恸声</div>
+
+Who are those hooded hordes swarming
+
+<div align="right">那些戴着兜帽、成群涌动的人是谁</div>
+
+Over endless plains, stumbling in cracked earth
+
+<div align="right">越过无尽的平原，在龟裂的土地上踉跄</div>
+
+Ringed by the flat horizon only
+
+<div align="right">四周只有平坦的地平线围拢</div>
+
+What is the city over the mountains
+
+<div align="right">群山之外，那是什么城市</div>
+
+Cracks and reforms and bursts in the violet air
+
+<div align="right">在紫罗兰色的天空中裂开、重组、爆裂</div>
+
+Falling towers
+
+<div align="right">塔楼倒塌</div>
+
+Jerusalem Athens Alexandria
+
+<div align="right">耶路撒冷 雅典 亚历山大里亚</div>
+
+Vienna London
+
+<div align="right">维也纳 伦敦</div>
+
+Unreal
+
+<div align="right">虚幻</div>
+
+<br /> <br />
+
+A woman drew her long black hair out tight
+
+<div align="right">一个女人绷紧她长长的黑发</div>
+
+And fiddled whisper music on those strings
+
+<div align="right">在那些发弦上拉出低语般的乐声</div>
+
+And bats with baby faces in the violet light
+
+<div align="right">紫罗兰色的光里，长着婴儿脸的蝙蝠</div>
+
+Whistled, and beat their wings
+
+<div align="right">尖叫着，拍打翅膀</div>
+
+And crawled head downward down a blackened wall
+
+<div align="right">沿着熏黑的墙，头朝下爬行</div>
+
+And upside down in air were towers
+
+<div align="right">空中还有倒悬的塔楼</div>
+
+Tolling reminiscent bells, that kept the hours
+
+<div align="right">敲响勾起回忆的钟声，报着时辰</div>
+
+And voices singing out of empty cisterns and exhausted wells.
+
+<div align="right">还有从空蓄水池与枯井里传出的歌声。</div>
+
+<br /> <br />
+
+In this decayed hole among the mountains
+
+<div align="right">在群山间这腐败的窟窿里</div>
+
+In the faint moonlight, the grass is singing
+
+<div align="right">在淡淡的月光下，草在歌唱</div>
+
+Over the tumbled graves, about the chapel
+
+<div align="right">越过倾颓的坟墓，环绕小教堂</div>
+
+There is the empty chapel, only the wind’s home.
+
+<div align="right">那是空荡的教堂，只有风住在那里。</div>
+
+It has no windows, and the door swings,
+
+<div align="right">它没有窗，门扉摇荡，</div>
+
+Dry bones can harm no one.
+
+<div align="right">枯骨伤不了任何人。</div>
+
+Only a cock stood on the rooftree
+
+<div align="right">只有一只公鸡站在屋脊上</div>
+
+Co co rico co co rico
+
+<div align="right">喔喔喔 喔喔喔</div>
+
+In a flash of lightning. Then a damp gust
+
+<div align="right">闪电一亮。随后是一阵湿润的风</div>
+
+Bringing rain
+
+<div align="right">带来雨</div>
+
+<br /> <br />
+
+Ganga was sunken, and the limp leaves
+
+<div align="right">恒河的水位低落，萎软的叶子</div>
+
+Waited for rain, while the black clouds
+
+<div align="right">等待着雨，乌云</div>
+
+Gathered far distant, over Himavant.
+
+<div align="right">在遥远的喜马拉雅山上聚拢。</div>
+
+The jungle crouched, humped in silence.
+
+<div align="right">丛林蹲伏着，默默拱起背。</div>
+
+Then spoke the thunder
+
+<div align="right">然后雷发出话语</div>
+
+DA
+
+<div align="right">达</div>
+
+*Datta*: what have we given?
+
+<div align="right"><em>施予</em>：我们给出过什么？</div>
+
+My friend, blood shaking my heart
+
+<div align="right">我的朋友，血液摇撼着我的心</div>
+
+The awful daring of a moment’s surrender
+
+<div align="right">一瞬间献出自己，那令人战栗的大胆</div>
+
+Which an age of prudence can never retract
+
+<div align="right">是一生的谨慎也永远无法收回的</div>
+
+By this, and this only, we have existed
+
+<div align="right">凭着这个，唯有凭着这个，我们才曾存在</div>
+
+Which is not to be found in our obituaries
+
+<div align="right">这不会见于我们的讣告</div>
+
+Or in memories draped by the beneficent spider
+
+<div align="right">或那被好心的蜘蛛蒙覆的回忆</div>
+
+Or under seals broken by the lean solicitor
+
+<div align="right">或在瘦削律师拆开的封缄之下</div>
+
+In our empty rooms
+
+<div align="right">在我们空荡的房间里</div>
+
+DA
+
+<div align="right">达</div>
+
+*Dayadhvam*: I have heard the key
+
+<div align="right"><em>同情</em>：我曾听见钥匙</div>
+
+Turn in the door once and turn once only
+
+<div align="right">在门里转过一次，仅仅一次</div>
+
+We think of the key, each in his prison
+
+<div align="right">我们想着钥匙，各在各的牢房里</div>
+
+Thinking of the key, each confirms a prison
+
+<div align="right">想着钥匙，每个人都坐实了一座牢房</div>
+
+Only at nightfall, aethereal rumours
+
+<div align="right">只有在夜幕降临时，缥缈的传闻</div>
+
+Revive for a moment a broken Coriolanus
+
+<div align="right">使一个破碎的科利奥兰纳斯复活片刻</div>
+
+DA
+
+<div align="right">达</div>
+
+*Damyata*: The boat responded
+
+<div align="right"><em>自制</em>：小舟欢快地回应</div>
+
+Gaily, to the hand expert with sail and oar
+
+<div align="right">那双熟习帆与桨的手</div>
+
+The sea was calm, your heart would have responded
+
+<div align="right">海面平静；你的心本也会欢快地回应</div>
+
+Gaily, when invited, beating obedient
+
+<div align="right">在受到召唤时，顺从地跳动</div>
+
+To controlling hands
+
+<div align="right">听凭那驾驭的双手</div>
+
+<br /> <br />
+
+                                    I sat upon the shore
+
+<div align="right">我坐在岸边</div>
+
+Fishing, with the arid plain behind me
+
+<div align="right">垂钓，背后是一片干旱的平原</div>
+
+Shall I at least set my lands in order?
+
+<div align="right">我是否至少该把自己的领地整顿好？</div>
+
+London Bridge is falling down falling down falling down
+
+<div align="right">伦敦桥倒塌了 倒塌了 倒塌了</div>
+
+*Poi s’ascose nel foco che gli affina*
+
+<div align="right"><em>随后他隐入那净化他的火中</em></div>
+
+*Quando fiam uti chelidon—O swallow swallow*
+
+<div align="right"><em>我何时才能像燕子一样——哦，燕子，燕子</em></div>
+
+*Le Prince d’Aquitaine à la tour abolie*
+
+<div align="right"><em>阿基坦的王子，塔楼已毁</em></div>
+
+These fragments I have shored against my ruins
+
+<div align="right">我用这些碎片，支撑我的废墟</div>
+
+Why then Ile fit you. Hieronymo’s mad againe.
+
+<div align="right">那好，我就成全你。希罗尼莫又发疯了。</div>
+
+Datta. Dayadhvam. Damyata.
+
+<div align="right">施予。同情。自制。</div>
+
+                  Shantih     shantih     shantih
+
+<div align="right">平安　平安　平安</div>
+
+<br /> <br />
+
+---
+
+原文版权说明：
+
+Copyright Credit: T. S. Eliot, "The Waste Land" from *Collected Poems: 1909-1962.* Copyright © 2020 by T. S. Eliot.  Reprinted by permission of Faber and Faber, Ltd..
+
+分段排版参照：[《荒原》英文原诗](https://www.gutenberg.org/cache/epub/1321/pg1321-images.html)。
+
+
+****
 
 
 
