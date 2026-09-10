@@ -1165,7 +1165,7 @@ Tell her I bring the horoscope myself:
 
 One must be so careful these days.
 
-<div align="right">如今凡事都得万分小心。”</div>
+<div align="right">“如今凡事都得万分小心。”</div>
 
 <br /> <br />
 
@@ -1287,11 +1287,11 @@ From satin cases poured in rich profusion;
 
 In vials of ivory and coloured glass
 
-<div align="right">在象牙与彩色玻璃的小瓶的敞口下，</div>
+<div align="right">在象牙与彩色玻璃的小瓶里，</div>
 
 Unstoppered, lurked her strange synthetic perfumes,
 
-<div align="right">潜伏着她奇异的合成香料，</div>
+<div align="right">那敞口下潜伏着她奇异的人造香料，</div>
 
 Unguent, powdered, or liquid—troubled, confused
 
@@ -1561,7 +1561,7 @@ Then I’ll know who to thank, she said, and give me a straight look.
 
 HURRY UP PLEASE ITS TIME
 
-<div align="right">请快一点，时间到了</div>
+<div align="right" style="font-weight: bold;">请快一点，时间到了</div>
 
 If you don’t like it you can get on with it, I said.
 
@@ -1613,7 +1613,7 @@ What you get married for if you don’t want children?
 
 HURRY UP PLEASE ITS TIME
 
-<div align="right">请快一点，时间到了</div>
+<div align="right" style="font-weight: bold;">请快一点，时间到了</div>
 
 Well, that Sunday Albert was home, they had a hot gammon,
 
@@ -1625,11 +1625,11 @@ And they asked me in to dinner, to get the beauty of it hot—
 
 HURRY UP PLEASE ITS TIME
 
-<div align="right">请快一点，时间到了</div>
+<div align="right" style="font-weight: bold;">请快一点，时间到了</div>
 
 HURRY UP PLEASE ITS TIME
 
-<div align="right">请快一点，时间到了</div>
+<div align="right" style="font-weight: bold;">请快一点，时间到了</div>
 
 Goonight Bill. Goonight Lou. Goonight May. Goonight.
 
