@@ -13,8 +13,6 @@ published: true
 
 - <a href="{{ site.baseurl }}/assets/files/notes/cs336_spring2025_assignment1_basics.pdf">The problem descriptions for Assignment 1 can also be found within this Blog.</a>
 
-- For setting up a local environment, [another post]({{ site.baseurl }}/posts/windows-sub-linux/) may be useful.
-
 - This project's dependencies are managed by `uv`. To use `uv` to set up dependencies locally:
     ```terminal
     # Navigate to the cloned repository
