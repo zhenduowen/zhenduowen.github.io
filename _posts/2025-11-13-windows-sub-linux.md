@@ -5,7 +5,7 @@ date: 2025-11-13
 author: Zhenduo
 categories: [Deep Learning, Programming Toolkits]
 tags: [Deep Learning, CUDA, PyTorch]
-published: true
+published: false
 ---
 
 > [WSL official user manual](https://learn.microsoft.com/en-us/windows/wsl/setup/environment#set-up-your-linux-username-and-password)
